@@ -44,10 +44,10 @@
 
 <br>
 
-### asdf:
-favors  
-2 - talk to council lady  
-3 - asdf  
+### Village favor #2 - An awkward chat:
+- Respect = 12
+- Speak to elder council -> Maybe this will help Katara (+1 Respect)
+- *Completed quest: Village favor #2 - An awkward chat*  
 
 <br>
 <br>

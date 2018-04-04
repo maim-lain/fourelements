@@ -11,8 +11,9 @@
 <br>
 <br>
 
-This page links to the other parts of the guide and also has information explaining the game mechanics. Right now the slave route sections of the guide don't link anywhere because I haven't started those yet. (◞‸◟；)
+This page links to the other parts of the guide and also has information explaining the game mechanics. Right now the slave route sections of the guide don't link anywhere because I haven't started those yet.&nbsp; (◞‸◟；)
 
+<br>
 <br>
 <br>
 

@@ -6,6 +6,15 @@
 - [Quest Walkthroughs](https://github.com/maim-lain/fourelements/blob/master/book-1/questwalk.md)  
 
 <br>
+<br>
+
+**A quick example on how scene requirements work:**  
+- Affection = 8
+  - this would mean affection needs to be at least 8 or higher, it does not need to be exactly 8.
+- Respect lower than 12
+  - this would mean respect absolutley must be lower than 12. It cannot be above 11 or you won't see the scene and will skip to the next scene tier. You don't have to worry about this or having stats too high unless you modified your stats by cheating. b-but you'd never cheat...r-right senpai?&nbsp; (ﾟωﾟ ; ) 
+
+<br>
 
 ### Katara's House - Initial Night Visits:
 Visit | Requirements | Choices | Result

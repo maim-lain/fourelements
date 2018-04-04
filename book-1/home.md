@@ -18,7 +18,7 @@ This page links to the other parts of the guide and also has information explain
 <br>
 
 ## Game Mechanics
-Here are my notes on all the mechanics of the game, sorted by location. If you're like me then you probably had a lot of questions about the game like if the mystery night girl visits have any purpose, if there was anything special or hidden at the marketplace alley, what the drop rates of the stones from the mine were, and so on. Well all the answers to those questions and any others are below.&nbsp; :D
+Here are my notes on all the mechanics of the game, sorted by location. If you're like me then you probably had a lot of questions about the game like if the mystery night girl visits have any purpose, if there was anything special or hidden at the marketplace alley, what the drop rates of the stones from the mine were, and so on. Well the answers to those questions and many others are below.&nbsp; :D
 
 <br>
 
@@ -59,7 +59,7 @@ Here are my notes on all the mechanics of the game, sorted by location. If you'r
 ---
 
 ### School
-- The school is just a place you go for some quests and scenes.
+- The school is a place you go for some quests and scenes
 
 ---
 

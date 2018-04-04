@@ -52,7 +52,7 @@ favors
 <br>
 <br>
 
-## Sidequest Walkthroughs
+## Sidequests:
 ### The tale of the sex crazed zombie mooselion:
 - Go mining 8 times (not consecutively, just 8 total times)  
 - On your 9th time mining the quest will start
@@ -77,3 +77,5 @@ favors
 - *Completed sidequest: Sokka's treasure*  
 
 <br>
+
+### asdf:

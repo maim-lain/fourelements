@@ -17,7 +17,7 @@ Here are my notes on all the mechanics of the game, sorted by location. If you'r
 
 ## Day Locations
 ### Marketplace -> Shop
-- If you need to go to the shop to buy something, use the shop at night. Going to the shop during the day will cause the game to skip the time to night once you exit the shop. However exiting the shop at night does not cause the game to skip the time to day.
+- If you need to go to the shop to buy something then use the shop at night. Going to the shop during the day will cause the game to skip the time to night once you exit the shop. However exiting the shop at night does not cause the game to skip the time to day.
 - Once you complete the sidequest *Expanding the shop* you will automatically earn 20-40 coins at the start of they day. It's a good idea to start working on this quest as soon as the game starts so you can start getting free money as soon as possible, meaning you won't have to grind for money.
 - Donating 50 coins to the shop has no purpose.
 

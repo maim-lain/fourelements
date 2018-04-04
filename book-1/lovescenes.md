@@ -1,4 +1,6 @@
 # Book 1 - Love Route Scene Guide
+*\~ written by Maim Lain \~*
+
 - [Home](https://github.com/maim-lain/fourelements/blob/master/book-1/home.md)  
 - [Love Route 100% Walkthrough](https://github.com/maim-lain/fourelements/blob/master/book-1/loveroute.md)  
 - [Quest Walkthroughs](https://github.com/maim-lain/fourelements/blob/master/book-1/questwalk.md)  

@@ -1,8 +1,11 @@
 # Four Elements Trainer
-Table of contents:  
-Walkthrough  
-Basics  
-Guide of books  
+- [Choose Book](https://github.com/maim-lain/fourelements)  
+- [Love Route 100% Walkthrough](https://github.com/maim-lain/fourelements/blob/master/Book%201/loveroute.md)  
+- Love Route Scene Guide  
+Slave Route 100% Walkthrough
+Slave Route Scene Guide
+Quest Walkthroughs
+
 
 <br>
 <br>

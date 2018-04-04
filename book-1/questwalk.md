@@ -10,8 +10,7 @@
 <br>
 <br>
 
-## Quest Walkthroughs
-
+## Quests:
 ### Village favor #1 - Watch the shop:
 - Visit the shop 5 times  
 - On your 6th visit the quest will start  
@@ -51,9 +50,9 @@ favors
 3 - asdf  
 
 <br>
+<br>
 
 ## Sidequest Walkthroughs
-
 ### The tale of the sex crazed zombie mooselion:
 - Go mining 8 times (not consecutively, just 8 total times)  
 - On your 9th time mining the quest will start

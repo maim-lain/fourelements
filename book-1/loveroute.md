@@ -4,9 +4,8 @@
 - [Quest Walkthroughs](https://github.com/maim-lain/fourelements/blob/master/book-1/questwalk.md)  
 
 <br>
-<br>
 
-#### A quick note about the walkthrough:
+**A quick note about the walkthrough:**  
 This is a 100% walkthrough - that means if you follow the guide you'll get 100% of the scenes and content in the love route.&nbsp; =D&nbsp; So I'll be doing all the quests and sidequests as well. In the first two weeks of the walkthrough I try to go mining as much as possible so I can expand the shop as soon as possible, and once we do that you shouldn't need to ever go mining again. I'll be spacing out scenes so there's one about every other day so you don't do all the scenes at once and then have to play for 20 days with no scenes.
 
 <br>

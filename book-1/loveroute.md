@@ -1,4 +1,4 @@
-# Love Route 100% Walkthrough
+# Book 1 - Love Route 100% Walkthrough
 - [Home](https://github.com/maim-lain/fourelements/blob/master/book-1/home.md)  
 - [Love Route Scene Guide](https://github.com/maim-lain/fourelements/blob/master/book-1/lovescenes.md)  
 - [Quest Walkthroughs](https://github.com/maim-lain/fourelements/blob/master/book-1/questwalk.md)  
@@ -14,6 +14,7 @@ This is a 100% walkthrough - that means if you follow the guide you'll get 100% 
 
 **Day 1:**  
 Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Travel to the Water Tribe by click the top left  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; For you, anything. (+1 Affection)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Go mining  
 Night:  

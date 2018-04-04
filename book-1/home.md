@@ -4,17 +4,21 @@
 - [Choose Book](https://github.com/maim-lain/fourelements)  
 - [Love Route 100% Walkthrough](https://github.com/maim-lain/fourelements/blob/master/book-1/loveroute.md)  
   - [Love Route Scene Guide](https://github.com/maim-lain/fourelements/blob/master/book-1/lovescenes.md)  
-- [Slave Route 100% Walkthrough]()  
-  - [Slave Route Scene Guide]()  
+- [Slave Route 100% Walkthrough](https://github.com/maim-lain/fourelements/blob/master/book-1/home.md)  
+  - [Slave Route Scene Guide](https://github.com/maim-lain/fourelements/blob/master/book-1/home.md)  
 - [Quest Walkthroughs](https://github.com/maim-lain/fourelements/blob/master/book-1/questwalk.md)  
 
 <br>
 <br>
 
-## Notes on Game Mechanics
-Here are my notes on all the mechanics of the game, sorted by location. If you're like me then you probably had a lot of questions about the game like if the mystery night girl visits have any purpose, if there was anything special or hidden at the marketplace alley, what the drop rates of the stones from the mine were, and so on. Well all the answers to those questions and more are below.&nbsp; =)
+This page links to the other parts of the guide and also has information explaining the game mechanics.
 
 <br>
+<br>
+
+## Game Mechanics
+Here are my notes on all the mechanics of the game, sorted by location. If you're like me then you probably had a lot of questions about the game like if the mystery night girl visits have any purpose, if there was anything special or hidden at the marketplace alley, what the drop rates of the stones from the mine were, and so on. Well all the answers to those questions and any others are below.&nbsp; :D
+
 <br>
 
 ## Day Locations

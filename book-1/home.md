@@ -1,11 +1,10 @@
-# Four Elements Trainer
+# Home
 - [Choose Book](https://github.com/maim-lain/fourelements)  
-- [Love Route 100% Walkthrough](https://github.com/maim-lain/fourelements/blob/master/Book%201/loveroute.md)  
-- Love Route Scene Guide  
-Slave Route 100% Walkthrough
-Slave Route Scene Guide
-Quest Walkthroughs
-
+- [Love Route 100% Walkthrough](https://github.com/maim-lain/fourelements/blob/master/book-1/loveroute.md)  
+- [Love Route Scene Guide](https://github.com/maim-lain/fourelements/blob/master/book-1/lovescenes.md)  
+- Slave Route 100% Walkthrough  
+- Slave Route Scene Guide  
+- [Quest Walkthroughs](https://github.com/maim-lain/fourelements/blob/master/book-1/questwalk.md)  
 
 <br>
 <br>

@@ -33,6 +33,8 @@
 - School  (+1 Respect; if doing the slave route you also receive the sharpie)  
 - *Completed quest: Expanding the schoolhouse*  
 
+<br>
+
 ### Suit up:
 - Waterbending = 13
 - Training -> Quest: Suit up (+1 Waterbending)  
@@ -41,7 +43,9 @@
 - Training (+2 Waterbending)
 - *Completed quest: Suit up*  
 
+<br>
 
+### asdf:
 favors  
 2 - talk to council lady  
 3 - asdf  

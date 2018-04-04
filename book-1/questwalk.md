@@ -1,8 +1,11 @@
-# Four Elements Trainer
-Table of contents:  
-Walkthrough  
-Basics  
-Guide of books  
+# Book 1 - Quest Walkthroughs
+*\~ written by Maim Lain \~*
+
+- [Home](https://github.com/maim-lain/fourelements/blob/master/book-1/home.md)  
+- [Love Route 100% Walkthrough](https://github.com/maim-lain/fourelements/blob/master/book-1/loveroute.md)  
+  - [Love Route Scene Guide](https://github.com/maim-lain/fourelements/blob/master/book-1/lovescenes.md)  
+- [Slave Route 100% Walkthrough]()  
+  - [Slave Route Scene Guide]()  
 
 <br>
 <br>
@@ -30,9 +33,18 @@ Guide of books
 - School  (+1 Respect; if doing the slave route you also receive the sharpie)  
 - *Completed quest: Expanding the schoolhouse*  
 
+### Suit up:
+- Waterbending = 13
+- Training -> Quest: Suit up (+1 Waterbending)  
+- Shop -> Agree (+1 Waterbending)
+- 2 days later -> Shop -> Agree
+- Training (+2 Waterbending)
+- *Completed quest: Suit up*  
+
+
 favors  
-2 - talk to pervert council lady  
-3 - ?  
+2 - talk to council lady  
+3 - asdf  
 
 <br>
 

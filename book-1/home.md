@@ -72,7 +72,7 @@ Here are my notes on all the mechanics of the game, sorted by location. If you'r
 ### Home
 - Checking mail will skip to the next day and give you 20-40 coins. There are 11 different letters you can get, but you don't gain anything by having seen them all. After you read the 11th letter you will get the same letter everytime.
 - Sleeping will skip to the next day but has no other purpose. You should check your mail instead because that will give you coins.
-- Everytime you check your mail or choose sleep, there is a 20% chance of getting the mystery girl blowjob scene. After you've seen the scene once the next time she appears you have the option of telling her to go away forever. The mystery girl has no purpose other than being a scene to watch. There is no secret related to her and nothing special happens if you tell her to go away forever or to keep coming back (aside from her leaving forever or coming back).
+- Everytime you check your mail or choose sleep, there is a 20% chance of getting the mystery girl blowjob scene. After you've seen the scene once, everytime she visits after that you will be asked to either let her keep visiting or have her never visit you again. The mystery girl has no purpose other than being a scene to watch. There is no secret related to her and nothing special happens if you tell her to go away forever or to keep coming back. If you want to keep rewatching the scene at night tell her to keep visiting. If you don't want to keep seeing the scene tell her to leave forever.
 
 <br>
 

@@ -4,7 +4,6 @@
 - [Quest Walkthroughs](https://github.com/maim-lain/fourelements/blob/master/book-1/questwalk.md)  
 
 <br>
-<br>
 
 ### Katara's House - Initial Night Visits:
 Visit | Requirements | Choices | Result

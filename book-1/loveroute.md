@@ -12,6 +12,7 @@
 This is a 100% walkthrough - that means if you follow the guide you'll get 100% of the scenes and content in the love route. So I'll be doing all the quests and sidequests as well. In the first two weeks of the walkthrough I try to go mining as much as possible so I can expand the shop right away, and once you do that you shouldn't need to ever go mining again. I'll be spacing out scenes so there's one about every other day so you don't do all the scenes at once and then have to play for 20 days with no scenes.&nbsp; :)
 
 <br>
+<br>
 
 ## Days 1-10
 
@@ -465,26 +466,25 @@ Night:
 
 **Day 42:**  
 Morning:  
-solo with elder talk start here
-
-<br>
-<br>
-<br>
-<br>
-<br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Endorse Katara (+1 Respect)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Speak to elder council  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; Maybe this will help Katara (+1 Respect)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; *Completed quest: Village favor #2 - An awkward chat*  
 Night:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Check mail  
 
 <br>
 
 **Day 43:**  
+<br>
+<br>
+<br>
+<br>
+<br>
+
 Morning:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Endorse Katara (+1 Respect)  
 Night:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Check mail  
 
-
-
-quest over when get hide or??
+next time training:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; *Completed quest: Suit up*  

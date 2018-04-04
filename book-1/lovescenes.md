@@ -1,4 +1,4 @@
-# Book 1 - Love Route - Scene Guide
+# Book 1 - Love Route Scene Guide
 - [Home](https://github.com/maim-lain/fourelements/blob/master/book-1/home.md)  
 - [Love Route 100% Walkthrough](https://github.com/maim-lain/fourelements/blob/master/book-1/loveroute.md)  
 - [Quest Walkthroughs](https://github.com/maim-lain/fourelements/blob/master/book-1/questwalk.md)  
@@ -45,8 +45,7 @@ Blowjob (3/3) | Respect = 16
 Sex (1/4) | Affection = 15
 Sex (2/4) | Respect lower than 16
 Sex (3/4) | Respect = 16
-Sex (4/4) | Anal (1/3)<br>
-
+Sex (4/4) | Anal (1/3)
 &nbsp; | &nbsp;
 Anal (1/3) | Affection = 17
 Anal (2/3) | Respect lower than 17
@@ -76,14 +75,15 @@ Cum on face | 21
 
 <br>
 
-#### Mystery girl night blowjob:
-- 
-- 
+#### Mystery girl blowjob:
+- When checking mail or sleeping at night there is a 20% chance of getting this scene
+- After you've seen the scene once, everytime she visits after that you will be asked to either let her keep visiting or have her never visit you again
+- Nothing special happens for either choice. If you want to keep rewatching the scene at night tell her to keep visiting. If you don't want to keep seeing the scene tell her to leave forever.
 
 <br>
 
 #### Lesbians with strap-on:
-- When visiting the marketplace alley at night there is a 40% chance of getting the scene
+- When visiting the marketplace alley at night there is a 40% chance of getting this scene
 - After viewing the scene once it will change slightly (your character has some different dialog)
 
 <br>

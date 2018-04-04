@@ -1,13 +1,11 @@
-# Four Elements Trainer
-Table of contents:  
-Walkthrough  
-Basics  
-Guide of books  
+# Book 1 - Love Route Scene Guide
+- [Home](https://github.com/maim-lain/fourelements/blob/master/book-1/home.md)  
+- [Love Route 100% Walkthrough](https://github.com/maim-lain/fourelements/blob/master/book-1/loveroute.md)  
+- [Quest Walkthroughs](https://github.com/maim-lain/fourelements/blob/master/book-1/questwalk.md)  
 
 <br>
 <br>
-
-## Love Route Scene Guide:
+<br>
 
 ### Katara's House - Initial Night Visits:
 Visit | Requirements | Choices | Result
@@ -48,7 +46,8 @@ Blowjob (3/3) | Respect = 16
 Sex (1/4) | Affection = 15
 Sex (2/4) | Respect lower than 16
 Sex (3/4) | Respect = 16
-Sex (4/4) | Anal (1/3)
+Sex (4/4) | Anal (1/3)<br>
+
 &nbsp; | &nbsp;
 Anal (1/3) | Affection = 17
 Anal (2/3) | Respect lower than 17

@@ -87,7 +87,7 @@ Cum on face | 21
 
 <br>
 
-#### Nami (shopkeeper) blowjob:
+#### Shopkeeper (Nami) blowjob:
 - Complete sidequest: Expanding the shop
 - Asking Nami for a blowjob in the shop menu will replay the scene
 
@@ -95,7 +95,10 @@ Cum on face | 21
 
 #### School orgy night:
 - Complete quest: Expanding the schoolhouse
-- go school at night blah blah
-- 2nd time going to school at night will change scene slighty
+- At night visit the school
 
 <br>
+
+#### Katara's ghost mom (Kya) blowjob:
+- Once you do the first blowjob scene with Katara you will get the scene the next night
+- Selecting Kya Blowjob from the home menu at night will replay the scene

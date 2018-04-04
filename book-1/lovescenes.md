@@ -15,6 +15,7 @@
   - this would mean respect absolutely must be lower than 12. It cannot be above 11 or you won't see the scene and will skip to the next scene tier. You don't have to worry about this or having stats too high unless you modified your stats by cheating. b-but you'd never cheat...r-right senpai?&nbsp; (ﾟωﾟ ; ) 
 
 <br>
+<br>
 
 ### Katara's House - Initial Night Visits:
 Visit | Requirements | Choices | Result

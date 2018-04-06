@@ -114,3 +114,9 @@ Cum on face | 21
 #### Katara's ghost mom (Kya) blowjob:
 - Once you do the first blowjob scene with Katara you will get the scene the next night
 - Selecting Kya Blowjob from the home menu at night will replay the scene
+
+<br>
+
+#### Porn magazine:
+- Complete sidequest: Sokka's treasure
+- When checking mail you can choose to look at Batgirl, Ariel, or Spidergirl

@@ -348,7 +348,7 @@ Night:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Katara's house  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Masturbate (0/3) -> (0.5/3)  
 
-<br>
+---
 
 **Day 32:**  
 Morning:  
@@ -360,7 +360,7 @@ Night:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; Any  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Masturbate (0.5/3) -> (1/3)  
 
-<br>
+---
 
 **Day 33:**  
 Morning:  
@@ -371,7 +371,7 @@ Night:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; Beautiful  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Footjob (0/3) -> (1/3)  
 
-<br>
+---
 
 **Day 34:**  
 Morning:  
@@ -381,7 +381,7 @@ Night:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Masturbate (1/3) -> (2/3)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; Any  
 
-<br>
+---
 
 **Day 35:**  
 Morning:  
@@ -390,7 +390,7 @@ Night:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Katara's house  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Footjob (1/3) -> (2/3)  
 
-<br>
+---
 
 **Day 36:**  
 Morning:  
@@ -399,7 +399,7 @@ Morning:
 Night:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Check mail  
 
-<br>
+---
 
 **Day 37:**  
 Morning:  
@@ -409,7 +409,7 @@ Night:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Shop -> Spend all money on potions   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; School -> Knock on door  
 
-<br>
+---
 
 **Day 38:**  
 Morning:  
@@ -419,7 +419,7 @@ Night:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Shop -> Agree  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Check mail  
 
-<br>
+---
 
 **Day 39:**  
 Morning:  
@@ -429,7 +429,7 @@ Night:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Katara's house  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Blowjob (0/3) -> (0.5/3)  
 
-<br>
+---
 
 **Day 40:**  
 Morning:  
@@ -462,7 +462,7 @@ Night:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; Defense  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Blowjob (0.5/3) -> (1/3)  
 
-<br>
+---
 
 **Day 42:**  
 Morning:  
@@ -472,16 +472,16 @@ Morning:
 Night:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Check mail  
 
-<br>
+---
 
 **Day 43:**  
+Morning:  
 <br>
 <br>
 <br>
 <br>
 <br>
 
-Morning:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Endorse Katara (+1 Respect)  
 Night:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Check mail  

@@ -70,8 +70,7 @@
 <br>
 
 ### Sokka's treasure:
-- (All quest locations need to be visited in the daytime)  
-- Katara's house -> Chat until she mentions Sokka's treaure  
+- Katara's house (daytime) -> Chat until she mentions Sokka's treaure  
 - Mine -> Yes  
 - Right, Right, Left, Left  (Find sticky magazine and super rare white stone)  
 - *Completed sidequest: Sokka's treasure*  

@@ -66,7 +66,7 @@ Here are my notes on all the mechanics of the game, sorted by location. If you'r
 ### Mine
 - You can go to the mine to mine stones for money and do a couple of sidequests.
 - If you want to abuse the rollback feature of Ren'Py to change stone rarity, the point where the RNG for stone rarity is activated is after you say 'Yes' to 'Should I mine?'
-- On average you get 50 coins per trip to the mine. *For anyone curious, at first I wrote some quick Python code to simulate 1,000 visits to the mine and saw the average was somewhere around 50 coins. Then I realized there was probably a simple equation I could have used instead, [and there was.](http://www.statisticshowto.com/find-the-mean-of-the-probability-distribution-binomial/) The result of which is 50.45 coins.&nbsp; =P*
+- On average you get 50 coins per trip to the mine. [*Technically 50.45 coins.*](http://www.statisticshowto.com/find-the-mean-of-the-probability-distribution-binomial/)
 - Here are the drop rates and value for all the stones:
   - Common brown stone - 43% chance - 25 coins
   - Shiny blue stone - 36% chance - 50 coins

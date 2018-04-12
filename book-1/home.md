@@ -68,10 +68,10 @@ Here are my notes on all the mechanics of the game, sorted by location. If you'r
 - If you want to abuse the rollback feature of Ren'Py to change stone rarity, the point where the RNG for stone rarity is activated is after you say 'Yes' to 'Should I mine?'
 - On average you get 50 coins per trip to the mine. [*Technically 50.45 coins.*](http://www.statisticshowto.com/find-the-mean-of-the-probability-distribution-binomial/)
 - Here are the drop rates and value for all the stones:
-  - Common brown stone - 43% chance - 25 coins
-  - Shiny blue stone - 36% chance - 50 coins
-  - Rare red stone - 14% chance - 80 coins
-  - Super rare white stone - 7% chance - 150 coins
+  - Common brown stone &nbsp;-&nbsp; 43% chance &nbsp;-&nbsp; 25 coins
+  - Shiny blue stone &nbsp;-&nbsp; 36% chance &nbsp;-&nbsp; 50 coins
+  - Rare red stone &nbsp;-&nbsp; 14% chance &nbsp;-&nbsp; 80 coins
+  - Super rare white stone &nbsp;-&nbsp; 7% chance &nbsp;-&nbsp; 150 coins
 
 <br>
 

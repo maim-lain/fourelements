@@ -37,11 +37,11 @@ Call me... | Respect = 12
 Kiss (1/2) | Affection = 6
 Kiss (2/2) | &nbsp;
 &nbsp; | &nbsp;
-Handjob (1/3) | Affection = 8
+Handjob (1/3)* | Affection = 8
 Handjob (2/3) | Respect lower than 12
 Handjob (3/3) | Respect = 12
 &nbsp; | &nbsp;
-Masturbate (1/3) | Affection = 9
+Masturbate (1/3)* | Affection = 9
 Masturbate (2/3) | Respect lower than 13
 Masturbate (3/3) | Respect = 13
 &nbsp; | &nbsp;
@@ -49,11 +49,11 @@ Footjob (1/3) | Affection = 11
 Footjob (2/3) | Respect lower than 15
 Footjob (3/3) | Respect = 15
 &nbsp; | &nbsp;
-Blowjob (1/3) | Affection = 12
+Blowjob (1/3)* | Affection = 12
 Blowjob (2/3) | Respect lower than 16
 Blowjob (3/3) | Respect = 16
 &nbsp; | &nbsp;
-Sex (1/4) | Affection = 15
+Sex (1/4)* | Affection = 15
 Sex (2/4) | Respect lower than 16
 Sex (3/4) | Respect = 16
 Sex (4/4) | Anal (1/3)
@@ -61,6 +61,8 @@ Sex (4/4) | Anal (1/3)
 Anal (1/3) | Affection = 17
 Anal (2/3) | Respect lower than 17
 Anal (3/3) | Respect = 17
+
+\* When trying to do these scenes Katara will smile nervously and then send you home asking you to come back another time. This always happens and doesn't mean you did anything wrong. The next time you visit Katara's house at night the scene will play automatically.
 
 <br>
 

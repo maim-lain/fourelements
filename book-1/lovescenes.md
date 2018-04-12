@@ -62,7 +62,7 @@ Anal (1/3) | Affection = 17
 Anal (2/3) | Respect lower than 17
 Anal (3/3) | Respect = 17
 
-\* When trying to do these scenes Katara will smile nervously and then send you home asking you to come back another time. This always happens and doesn't mean you did anything wrong. The next time you visit Katara's house at night the scene will play automatically.
+\* When trying to do these scenes Katara will hug you and then send you home asking you to come back another time. This always happens and doesn't mean you did anything wrong. The next time you visit Katara's house at night the scene will play automatically.
 
 <br>
 

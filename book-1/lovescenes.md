@@ -43,7 +43,7 @@ Handjob (3/3) | Respect = 12
 &nbsp; | &nbsp;
 Masturbate (1/3)* | Affection = 9
 Masturbate (2/3) | Respect lower than 13
-Masturbate (3/3) | Respect = 13
+Masturbate (3/3) | Respect = 14
 &nbsp; | &nbsp;
 Footjob (1/3) | Affection = 11
 Footjob (2/3) | Respect lower than 15

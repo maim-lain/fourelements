@@ -1,4 +1,4 @@
-# Book 1 - Home
+# Four Elements Trainer: Book 1 - Home
 *\~ written by Maim Lain \~*
 
 - [Choose Book](https://github.com/maim-lain/fourelements)  

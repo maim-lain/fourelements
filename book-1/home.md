@@ -39,6 +39,7 @@ Here are my notes on all the mechanics of the game, sorted by location. If you'r
   - Complete the quest *Suit up*
   - Waterbending = 21
   - Waterbending = 27
+  - Complete the quest *Spirit bomb* -> Training
 
 ---
 

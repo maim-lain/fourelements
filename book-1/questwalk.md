@@ -39,6 +39,7 @@
 - Training -> Quest: Suit up (+1 Waterbending)  
 - Shop -> Agree (+1 Waterbending)
 - 2 days later -> Shop -> Agree
+- (You must have done at least one village favor to train again)
 - Training (+2 Waterbending) (+ Attack damage)
 - *Completed quest: Suit up*  
 

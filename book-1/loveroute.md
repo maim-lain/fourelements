@@ -744,20 +744,21 @@ Night:
 **Day 70:**  
 Morning:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; School -> Sure  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; Any choices  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; *Completed quest: Village favor #3 - Missing kid*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Training (+2 Waterbending) (+ Attack damage)  
 
 <br>
 
-Stats at end of day 60:  
+Stats at end of day 70:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Affection - 17/30 - *Maxed*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Respect - 16/27  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Waterbending - 25/30  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Times publicly walked - 4/15  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Respect - 19/27  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Waterbending - 27/30  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Times publicly walked - 10/15  
 
 ---
 
 <br>
 
-## Days 61-70
+## Days 71-80
 
-**Day 61:**  
+**Day 71:**  

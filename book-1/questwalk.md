@@ -1,12 +1,15 @@
 # Book 1 - Quest Walkthroughs
 *\~ written by Maim Lain \~*
 
+<br>
+
 - [Home](https://github.com/maim-lain/fourelements/blob/master/book-1/home.md)  
 - [Love Route 100% Walkthrough](https://github.com/maim-lain/fourelements/blob/master/book-1/loveroute.md)  
   - [Love Route Scene Guide](https://github.com/maim-lain/fourelements/blob/master/book-1/lovescenes.md)  
 - [Slave Route 100% Walkthrough](https://github.com/maim-lain/fourelements/blob/master/book-1/home.md)  
   - [Slave Route Scene Guide](https://github.com/maim-lain/fourelements/blob/master/book-1/home.md)  
 
+<br>
 <br>
 <br>
 

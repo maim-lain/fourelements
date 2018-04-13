@@ -20,7 +20,7 @@
 <br>
 <br>
 
-### Katara Night Scenes:
+### Katara Night Scenes: (work in progress)
 Scene | Requirements
 --- | ---
 Call me... | Respect = 12

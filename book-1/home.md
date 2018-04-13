@@ -1,6 +1,8 @@
 # Four Elements Trainer: Book 1
 *\~ written by Maim Lain \~*
 
+<br>
+
 - [Choose Book](https://github.com/maim-lain/fourelements)  
 - [Love Route 100% Walkthrough](https://github.com/maim-lain/fourelements/blob/master/book-1/loveroute.md)  
   - [Love Route Scene Guide](https://github.com/maim-lain/fourelements/blob/master/book-1/lovescenes.md)  

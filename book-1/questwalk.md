@@ -59,6 +59,14 @@
 - *Completed quest: Village favor #3 - Missing kid*  
 
 <br>
+
+### Spirit bomb:
+- Waterbending = 27  
+- Mountain -> Pick flower -> Lose battle
+- The choice doesn't matter but choosing 'Listen' explains more
+- *Completed quest: Spirit bomb* (+1 Affection)
+
+<br>
 <br>
 
 ## Sidequests:

@@ -53,7 +53,7 @@
 <br>
 
 ### Village favor #3 - Missing kid:
-- Complete the quest: *Expanding the schoolhouse*   
+- Complete the quest: Expanding the schoolhouse  
 - Visit the school and have sex with Una
 - School -> Sure
 - *Completed quest: Village favor #3 - Missing kid*  
@@ -69,7 +69,7 @@
 <br>
 
 ### Ending:
-- Complete the quest: *Spirit bomb*
+- Complete the quest: Spirit bomb
 - Complete Anal (1/3)
 - Mountain -> Call spirit -> I'm ready.
 

@@ -39,7 +39,7 @@
 - Training -> Quest: Suit up (+1 Waterbending)  
 - Shop -> Agree (+1 Waterbending)
 - 2 days later -> Shop -> Agree
-- Training (+2 Waterbending)
+- Training (+2 Waterbending) (+ Attack damage)
 - *Completed quest: Suit up*  
 
 <br>

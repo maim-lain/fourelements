@@ -24,6 +24,8 @@
 Scene | Requirements
 --- | ---
 Call me... | Respect = 12
+
+<!---
 &nbsp; | &nbsp;
 Kiss (1/2) | Affection = 6
 Kiss (2/2) | &nbsp;
@@ -52,6 +54,7 @@ Sex (4/4) | Anal (1/3)
 Anal (1/3) | Affection = 17
 Anal (2/3) | Respect lower than 17
 Anal (3/3) | Respect = 17
+--->
 
 <br>
 

@@ -856,7 +856,7 @@ Well, we're finally at the end of the game. We've done all the quests, sidequest
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Sleep  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Mountain -> Call spirit -> I'm ready.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Katara's house  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; Inside -> Any or Outside -> I love you.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; "Inside -> Any" or "Outside -> I love you."  
 
 <br>
 

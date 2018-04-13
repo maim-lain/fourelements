@@ -1,4 +1,4 @@
-# Book 1 - Love Route 100% Walkthrough
+# Love Route 100% Walkthrough
 *\~ written by Maim Lain \~*
 
 <br>

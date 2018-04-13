@@ -841,28 +841,23 @@ Night:
 ---
 
 **Ending:**  
-Well, we're finally at the end of the game. We've done all the quests, sidequests, and scenes for Book 1 except for the ending. You can keep playing and replay scenes or buy different items from the shop to use on walks if you want. I'll be telling you how to get both of the Book 1 love route endings, so you can save here and try both if you want. To trigger the ending sequence go to the mountain and call the spirit.
+Well, we're finally at the end of the game. We've done all the quests, sidequests, and scenes for Book 1 except for the ending. You can keep playing and replay scenes or buy different items from the shop to use on walks if you want. I'll be telling you how to get both of the Book 1 love route endings, so you can save here and try both if you want.
 
 <br>
 
 #### Ending #3:
-- Method 1:
-  - Respect = 21 and Public walks = 15
-  - Inside
-- Method 2:
-  - Respect = 21 and Public walks = 15
-  - Outside
-  - I love you.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Katara's house  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; Walk around in public wearing... -> Start walking  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Sleep  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Mountain -> Call spirit -> I'm ready.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Katara's house  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; Inside -> Any or Outside -> I love you.  
 
 <br>
 
 #### Ending #4:
-- Method 1:
-  - Respect is below 21 or Public walks is below 15
-- Method 2:
-  - Respect = 21 and Public walks = 15
-  - Outside
-  - Nevermind.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Mountain -> Call spirit -> I'm ready.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Katara's house -> Any  
 
 <br>
 <br>

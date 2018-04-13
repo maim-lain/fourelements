@@ -545,7 +545,6 @@ Night:
 <br>
 
 Stats at end of day 50:  
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Affection - 16/30  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Respect - 14/27  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Waterbending - 23/30  
@@ -649,7 +648,6 @@ Morning:
 <br>
 
 Stats at end of day 60:  
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Affection - 17/30 - *Maxed*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Respect - 16/27  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Waterbending - 25/30  

@@ -840,6 +840,30 @@ Night:
 
 <br>
 
-**Day 79:**  
+**Ending:**  
+Well, we're finally at the end of the game. We've done all the quests, sidequests, and scenes for Book 1 except for the ending. You can keep playing and replay scenes or buy different items from the shop to use on walks if you want. I'll be telling you how to get both of the Book 1 love route endings, so you can save here and try both if you want. To trigger the ending sequence go to the mountain and call the spirit.
 
+<br>
 
+#### Ending #3:
+- Method 1:
+  - Respect = 21 and Public walks = 15
+  - Inside
+- Method 2:
+  - Respect = 21 and Public walks = 15
+  - Outside
+  - I love you.
+
+<br>
+
+#### Ending #4:
+- Method 1:
+  - Respect is below 21 or Public walks is below 15
+- Method 2:
+  - Respect = 21 and Public walks = 15
+  - Outside
+  - Nevermind.
+
+<br>
+<br>
+*Completed Book 1!*

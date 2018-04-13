@@ -1,4 +1,4 @@
-# Slave Route 100% Walkthrough
+# Slave Route 100% Walkthrough (Work in progress)
 *\~ written by Maim Lain \~*
 
 <br>

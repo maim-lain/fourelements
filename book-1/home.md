@@ -38,7 +38,9 @@ Here are my notes on all the mechanics of the game, sorted by location. If you'r
 
 ### Training
 - Training gives +2 Waterbending
-- Your waterbending level has no effect on the difficulty of hunting. However, once you complete the quest *Suit up* your attack damage slightly increases.
+- Your waterbending level has no effect on the difficulty of hunting. However your attack damage will slightly increase at each of these events:
+  - Complete the quest *Suit up*
+  - Waterbending = 21
 
 ---
 

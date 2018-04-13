@@ -43,6 +43,7 @@ Here are my notes on all the mechanics of the game, sorted by location. If you'r
 
 ### Hunting
 - Hunting gives +1 Affection. If Katara is angry it will also lower her anger level by 1.
+- There is nothing in the game that requires more than 17/30 Affection, so leveling it beyond 17 isn't useful.
 - Pressing `Tab` enables skip mode which is extremely helpful for speeding up hunting.
 - You will need 2 potions per hunting trip, but if the RNG gods are very displeased, you might need 3.
 - How to hunt 101:

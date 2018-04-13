@@ -1,4 +1,4 @@
-# Book 1 - Love Route Scene Guide
+# Love Route Scene Guide
 *\~ written by Maim Lain \~*
 
 <br>
@@ -86,7 +86,6 @@ Pink panties | 13
 None | 16
 &nbsp; | &nbsp;
 Ball gag |10
-Sharpie | 14
 Cum on face | 21
 
 <br>

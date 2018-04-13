@@ -519,13 +519,46 @@ Night:
 
 **Day 48:**  
 Morning:  
-
-
-bj 2
-sex 1 -> aff = 15
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Endorse Katara (+1 Respect)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Hunting (+1 Affection)  
 Night:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Check mail  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Katara's house  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Blowjob (2/3)  
 
-next time training:
+---
+
+**Day 49:**  
+Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Training (+2 Waterbending)  
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Katara's house  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Sex (0/4)  
+
+---
+
+**Day 50:**  
+Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Hunting (+1 Affection)  
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Katara's house  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; Stay -> Persevere  
+
+<br>
+
+Stats at end of day 50:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Affection - 16/30  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Respect - 14/27  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Waterbending - 23/30  
+
+---
+
+<br>
+
+## Days 51-60
+
+**Day 51:**  
+Morning:  
+
+
+
+
+Sex (2/4)

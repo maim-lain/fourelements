@@ -9,7 +9,7 @@
 <br>
 
 **A quick note about the walkthrough:**  
-This is a 100% walkthrough - that means if you follow the guide you'll get 100% of the scenes and content in the love route. So I'll be doing all the quests and sidequests as well. In the first two weeks of the walkthrough I try to go mining as much as possible so I can expand the shop right away, and once you do that you shouldn't need to ever go mining again. I'll be spacing out scenes so there's one about every other day so you don't do all the scenes at once and then have to play for 20 days with no scenes.&nbsp; :)
+This is a 100% walkthrough - that means if you follow the guide you'll get 100% of the scenes and content in the love route. So I'll be doing all the quests and sidequests as well. In the first two weeks of the walkthrough I try to go mining as much as possible so I can expand the shop right away, and once you do that you shouldn't need to ever go mining again. I'll be spacing out scenes so there's one about every other day so you don't do all the scenes at once and then have to play for 20 days with no scenes.
 
 <br>
 <br>
@@ -531,7 +531,7 @@ Morning:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Training (+2 Waterbending)  
 Night:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Katara's house  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Sex (0/4)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Sex (0/4) -> (0.5/4)  
 
 ---
 
@@ -545,6 +545,7 @@ Night:
 <br>
 
 Stats at end of day 50:  
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Affection - 16/30  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Respect - 14/27  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Waterbending - 23/30  
@@ -557,8 +558,107 @@ Stats at end of day 50:
 
 **Day 51:**  
 Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Hunting (+1 Affection)  
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Katara's house  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Sex (0.5/4) -> (1/4)  
 
+---
 
+**Day 52:**  
+Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; School  
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Check mail  
 
+---
 
-Sex (2/4)
+**Day 53:**  
+Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Katara's house  
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Katara's house  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Sex (2/4)  
+
+---
+
+**Day 54:**  
+Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Endorse Katara (+1 Respect)  
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Shop -> Buy pink panties  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Check mail  
+
+---
+
+**Day 55:**  
+Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Katara's house  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; Walk around in public wearing... (You can have her walk however you like)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; Bottom -> Pink panties  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; Tears -> No  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; Start walking  
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Katara's house  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Footjob (3/3)  
+
+---
+
+**Day 56:**  
+Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Endorse Katara (+1 Respect)  
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Check mail  
+
+---
+
+**Day 57:**  
+Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Katara's house  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; Walk around in public wearing... -> Start walking  
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Katara's house  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Blowjob (3/3)  
+
+---
+
+**Day 58:**  
+Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Katara's house  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; Walk around in public wearing... -> Start walking  
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Check mail  
+
+---
+
+**Day 59:**  
+Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Katara's house  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; Walk around in public wearing... -> Start walking  
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Katara's house  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Sex (3/4)  
+
+---
+
+**Day 60:**  
+Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Training (+2 Waterbending)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; Any choices  
+
+<br>
+
+Stats at end of day 60:  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Affection - 17/30 - *Maxed*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Respect - 16/27  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Waterbending - 25/30  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Times publicly walked - 4/15  
+
+---
+
+<br>
+
+## Days 61-70
+
+**Day 61:**  

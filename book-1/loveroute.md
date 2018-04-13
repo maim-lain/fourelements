@@ -840,6 +840,8 @@ Night:
 
 ---
 
+<br>
+
 **Ending:**  
 Well, we're finally at the end of the game. We've done all the quests, sidequests, and scenes for Book 1 except for the ending. You can keep playing and replay scenes or buy different items from the shop to use on walks if you want. I'll be telling you how to get both of the Book 1 love route endings, so you can save here and try both if you want.
 
@@ -861,4 +863,5 @@ Well, we're finally at the end of the game. We've done all the quests, sidequest
 
 <br>
 <br>
+
 *Completed Book 1!*

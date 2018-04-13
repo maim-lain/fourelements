@@ -494,7 +494,7 @@ Night:
 
 **Day 45:**  
 Morning:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Training (+2 Waterbending)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Endorse Katara (+1 Respect)  
 Night:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Check mail  
 
@@ -502,10 +502,27 @@ Night:
 
 **Day 46:**  
 Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Training (+2 Waterbending)  
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Katara's house  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Masturbate (3/3)  
+
+---
+
+**Day 47:**  
+Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Training (+2 Waterbending) (+ Attack damage)  
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Check mail  
+
+---
+
+**Day 48:**  
+Morning:  
 
 
-mast 3/3
-45 - sex 1 -> aff = 15 - hunt
+bj 2
+sex 1 -> aff = 15
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Endorse Katara (+1 Respect)  
 Night:  

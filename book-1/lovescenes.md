@@ -119,6 +119,12 @@ Cum on face | 21
 
 <br>
 
+#### Teacher (Una) anal:
+- Complete quest: Expanding the schoolhouse
+- Visit the school
+
+<br>
+
 #### Porn magazine:
 - Complete sidequest: Sokka's treasure
 - When checking mail you can choose to look at Batgirl, Ariel, or Spidergirl

@@ -129,3 +129,24 @@ Cum on face | 21
 #### Porn magazine:
 - Complete sidequest: Sokka's treasure
 - When checking mail you can choose to look at Batgirl, Ariel, or Spidergirl
+
+<br>
+
+#### Ending #3:
+- Method 1:
+  - Respect = 21 and Public walks = 15
+  - Inside
+- Method 2:
+  - Respect = 21 and Public walks = 15
+  - Outside
+  - I love you.
+
+<br>
+
+#### Ending #4:
+- Method 1:
+  - Respect is below 21 or Public walks is below 15
+- Method 2:
+  - Respect = 21 and Public walks = 15
+  - Outside
+  - Nevermind.

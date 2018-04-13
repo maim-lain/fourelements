@@ -770,7 +770,7 @@ Morning:
 Night:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Marketplace -> Visit alley  
 
-<br>
+---
 
 **Day 72:**  
 Morning:  
@@ -779,7 +779,7 @@ Morning:
 Night:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Marketplace -> Visit alley  
 
-<br>
+---
 
 **Day 73:**  
 Morning:  
@@ -787,7 +787,7 @@ Morning:
 Night:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Marketplace -> Visit alley  
 
-<br>
+---
 
 **Day 74:**  
 Morning:  
@@ -796,7 +796,7 @@ Morning:
 Night:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Marketplace -> Visit alley  
 
-<br>
+---
 
 **Day 75:**  
 Morning:  
@@ -808,7 +808,7 @@ Night:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Shop -> Sell stone  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Check mail -> Batgirl  
 
-<br>
+---
 
 **Day 76:**  
 Morning:  
@@ -817,7 +817,7 @@ Morning:
 Night:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Check mail -> Ariel  
 
-<br>
+---
 
 **Day 77:**  
 Morning:  
@@ -828,7 +828,7 @@ Morning:
 Night:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Check mail -> Spidergirl  
 
-<br>
+---
 
 **Day 78:**  
 Morning:  

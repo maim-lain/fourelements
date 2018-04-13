@@ -67,6 +67,13 @@
 - *Completed quest: Spirit bomb* (+1 Affection)
 
 <br>
+
+### Ending:
+- Complete the quest: *Spirit bomb*
+- Complete Anal (1/3)
+- Mountain -> Call spirit -> I'm ready.
+
+<br>
 <br>
 
 ## Sidequests:
@@ -91,7 +98,3 @@
 - Mine -> Yes  
 - Right, Right, Left, Left  (Find sticky magazine and super rare white stone)  
 - *Completed sidequest: Sokka's treasure*  
-
-<br>
-
-### asdf:

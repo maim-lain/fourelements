@@ -51,6 +51,14 @@
 - *Completed quest: Village favor #2 - An awkward chat*  
 
 <br>
+
+### Village favor #3 - Missing kid:
+- Complete the quest: *Expanding the schoolhouse*   
+- Visit the school and have sex with Una
+- School -> Sure
+- *Completed quest: Village favor #3 - Missing kid*  
+
+<br>
 <br>
 
 ## Sidequests:

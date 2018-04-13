@@ -110,6 +110,7 @@ Cum on face | 21
 #### Teacher (Una) anal:
 - Complete quest: Expanding the schoolhouse
 - Visit the school during the day
+- Visiting the school again and going to the teachers' lounge will replay the scene
 
 <br>
 

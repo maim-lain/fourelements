@@ -12,7 +12,7 @@
 <br>
 
 **A quick note about the walkthrough:**  
-This is a 100% walkthrough - that means if you follow the guide you'll get 100% of the scenes and content in the love route. So I'll be doing all the quests and sidequests as well. In the first two weeks of the walkthrough I try to go mining as much as possible so I can expand the shop right away, and once you do that you shouldn't need to ever go mining again. I'll be spacing out scenes so there's one about every other day so you don't do all the scenes at once and then have to play for 20 days with no scenes.
+This is a 100% walkthrough - that means if you follow the guide you'll get 100% of the scenes and content in the love route. So I'll be doing all the quests and sidequests as well. In the first two weeks of the walkthrough I try to go mining as much as possible so I can expand the shop right away, and once you do that you shouldn't need to ever go mining again. I'll be spacing out scenes so there's one about every other day so you don't do all the scenes at once and then have to play for 20 in-game days with no scenes.
 
 <br>
 <br>
@@ -155,7 +155,7 @@ Morning:
 Night:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Shop  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Katara's house  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; Either choice (try the 2nd for a laugh)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; Either choice (try the 2nd :P)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; Put your hand on her leg (+1 Affection)  
 
 ---
@@ -596,7 +596,8 @@ Night:
 **Day 55:**  
 Morning:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Katara's house  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; Walk around in public wearing... (You can have her walk however you like)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; Walk around in public wearing...  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; (You can have her appearance however you like)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; Bottom -> Pink panties  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; Tears -> No  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; Start walking  
@@ -846,7 +847,7 @@ Night:
 <br>
 
 **Ending:**  
-Well, we're finally at the end of the game. We've done all the quests, sidequests, and scenes for Book 1 except for the ending. You can keep playing and replay scenes or buy different items from the shop to use on walks if you want. I'll be telling you how to get both of the Book 1 love route endings, so you can save here and try both if you want.
+Well, we're finally at the end of the game. We've done all the quests, sidequests, and scenes for the love route in Book 1; except for the ending. The game only ends when you want it to, so you can keep playing and rewatch scenes or buy different items from the shop to use on walks if you wish. I'll be telling you how to get both of the Book 1 love route endings, so you can save here and try both if you want.
 
 <br>
 

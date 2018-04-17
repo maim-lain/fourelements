@@ -20,7 +20,7 @@
 <br>
 <br>
 
-### Katara Night Scenes: (work in progress)
+### Katara Night Scenes:
 Scene | Requirements
 --- | ---
 Call me... | Respect = 12
@@ -32,6 +32,7 @@ Tongue (3/3) | Respect = 9
 Show tits (1/3) | Affection = 
 Show tits (2/3) | Respect lower than 
 Show tits (3/3) | Respect = 
+<!---
 &nbsp; | &nbsp;
 Masturbate (1/3) | Affection = 9
 Masturbate (2/3) | Respect lower than 13

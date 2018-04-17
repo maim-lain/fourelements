@@ -58,6 +58,19 @@ Anal (3/3) | Respect = 17
 
 <br>
 
+### Katara Dirty Rumors:
+Rumor | Requirements
+--- | ---
+Frozen panties (1/3) | &nbsp;
+Frozen panties (2/3) | Respect = 7
+Frozen panties (3/3) | Respect = 13
+&nbsp; | &nbsp;
+The nude woman (1/3) | &nbsp;
+The nude woman (2/3) | Respect = 7
+The nude woman (3/3) | Respect = 13
+
+<br>
+
 ### Public walks:
 Item | Respect
 --- | ---

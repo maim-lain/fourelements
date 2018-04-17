@@ -25,6 +25,10 @@ Scene | Requirements
 --- | ---
 Call me... | Respect = 12
 &nbsp; | &nbsp;
+Rumors (1/3) | &nbsp;
+Rumors (2/3) | Respect = 7
+Rumors (3/3) | Respect = 13
+&nbsp; | &nbsp;
 Tongue (1/3) | Affection = 2
 Tongue (2/3) | Affection = 3
 Tongue (3/3) | Respect = 9
@@ -55,15 +59,6 @@ Anal (1/3) | Affection = 17
 Anal (2/3) | Respect lower than 17
 Anal (3/3) | Respect = 17
 --->
-
-<br>
-
-### Katara Dirty Rumors:
-Rumor | Requirements
---- | ---
-(1/3) | &nbsp;
-(2/3) | Respect = 7
-(3/3) | Respect = 13
 
 <br>
 

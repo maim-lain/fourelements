@@ -24,15 +24,14 @@
 Scene | Requirements
 --- | ---
 Call me... | Respect = 12
-
-<!---
 &nbsp; | &nbsp;
-Kiss (1/2) | Affection = 6
-Kiss (2/2) | &nbsp;
+Tongue (1/3) | Affection = 2
+Tongue (2/3) | Affection = 3
+Tongue (3/3) | Respect = 9
 &nbsp; | &nbsp;
-Handjob (1/3) | Affection = 8
-Handjob (2/3) | Respect lower than 12
-Handjob (3/3) | Respect = 12
+Show tits (1/3) | Affection = 
+Show tits (2/3) | Respect lower than 
+Show tits (3/3) | Respect = 
 &nbsp; | &nbsp;
 Masturbate (1/3) | Affection = 9
 Masturbate (2/3) | Respect lower than 13

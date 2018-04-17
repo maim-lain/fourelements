@@ -25,7 +25,7 @@ Scene | Requirements
 --- | ---
 Call me... | Respect = 12
 &nbsp; | &nbsp;
-Rumors (1/3) | &nbsp;
+Rumors (1/3) | Previous rumor
 Rumors (2/3) | Respect = 7
 Rumors (3/3) | Respect = 13
 &nbsp; | &nbsp;

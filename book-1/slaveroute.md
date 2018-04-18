@@ -498,6 +498,7 @@ Morning:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; Maybe this will help Katara (+1 Respect)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; *Completed quest: Village favor #2 - An awkward chat*  
 Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Buy potions until you have ~10  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Katara's house  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Dirty rumors -> Mommy cares (1/3) -> (2/3)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Blowjob (2/5) -> (3/5)  
@@ -505,27 +506,81 @@ Night:
 
 ---
 
-
-
 **Day 46:**  
 Morning:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Training (+2 Waterbending)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Hunting (+1 Affection)  
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Check mail  
+
+---
+
+**Day 47:**  
+Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Hunting (+1 Affection)  
 Night:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Katara's house  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Masturbate (2/3) -> (3/3)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Dirty rumors -> Frozen panties (2/3) -> (3/3)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Sex (0/6) -> (1/6)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; Any  
 
 ---
 
 
-45 - bj 3
-46 - hunt
-47 - hunt, sex 1
+
+**Day 48:**  
+Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Hunting (+1 Affection)  
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Katara's house  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Blowjob (1/3) -> (2/3)  
+
+---
+
+**Day 49:**  
+Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Training (+2 Waterbending)  
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Katara's house  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Sex (0/4) -> (0/4 Part 1)  
+
+---
+
+**Day 50:**  
+Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Hunting (+1 Affection)  
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Katara's house  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; Stay -> Persevere  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Sex (0/4 Part 1) -> (0/4 Part 2)  
+
+<br>
+
+Stats at end of day 50:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Affection - 16/30  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Respect - 14/27  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Waterbending - 23/30  
+
+---
+
+<br>
+
+## Days 51-60
+
+**Day 51:**  
+Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Hunting (+1 Affection)  
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Katara's house  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Sex (0/4 Part 2) -> (1/4)  
+
+---
 
 
 
 
 
-sex 1 - actually write down any
+
+
 sex 2 - any, idk if need to write didnt read
 sex 3 - anal for scene but no progression
 

@@ -42,19 +42,20 @@ Bend over (3/4) | Respect = 16
 Bend over (4/4) | &nbsp;
 &nbsp; | &nbsp;
 Get naked (1/4) | Affection = 9
-Get naked (2/4) | Respect lower than 16
+Get naked (2/4) | Respect lower than 17
 Get naked (3/4) | Respect = 17
 Get naked (4/4) | Public walks = 10
 &nbsp; | &nbsp;
-Titfuck (1/3) | Affection = 
-Titfuck (2/3) | Respect lower than 
-Titfuck (3/3) | Respect = 
-<!---
+Titfuck (1/3) | Affection = 10
+Titfuck (2/3) | Respect lower than 19
+Titfuck (3/3) | Respect = 19
 &nbsp; | &nbsp;
-Sex (1/4) | Affection = 15
-Sex (2/4) | Respect lower than 16
-Sex (3/4) | Respect = 16
-Sex (4/4) | Anal (1/3)
+Blowjob (1/5) | Affection = 
+Blowjob (2/5) | Affection = 
+Blowjob (3/5) | Affection = 
+Blowjob (4/5) | Affection = 
+Blowjob (5/5) | Affection = 
+<!---
 &nbsp; | &nbsp;
 Anal (1/3) | Affection = 17
 Anal (2/3) | Respect lower than 17

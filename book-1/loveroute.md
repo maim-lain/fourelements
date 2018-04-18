@@ -121,7 +121,6 @@ Stats at end of day 10:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Respect - 0/27  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Waterbending - 3/30  
 
-
 ---
 
 <br>
@@ -167,7 +166,6 @@ Night:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Shop  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Buy 7 potions (You'll have 10 total)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Check mail  
-
 
 ---
 
@@ -234,7 +232,6 @@ Stats at end of day 20:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Affection - 7/30  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Respect - 2/27  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Waterbending - 3/30  
-
 
 ---
 
@@ -335,7 +332,6 @@ Stats at end of day 30:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Affection - 12/30  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Respect - 8/27  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Waterbending - 3/30  
-
 
 ---
 
@@ -446,7 +442,6 @@ Stats at end of day 40:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Affection - 13/30  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Respect - 11/27  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Waterbending - 15/30  
-
 
 ---
 

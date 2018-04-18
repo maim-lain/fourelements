@@ -24,7 +24,6 @@
 Scene | Requirements
 --- | ---
 Call me... | Respect = 12
-&nbsp; | &nbsp;
 Rumors (1/3) | Previous rumor
 Rumors (2/3) | Respect = 7
 Rumors (3/3) | Respect = 13
@@ -37,10 +36,10 @@ Show tits (1/3) | Affection = 5
 Show tits (2/3) | &nbsp;
 Show tits (3/3) | Respect = 18
 &nbsp; | &nbsp;
-Bend over (1/4) | Affection = 
-Bend over (2/4) | Affection = 
-Bend over (3/4) | Affection = 
-Bend over (4/4) | Affection = 
+Bend over (1/4) | Affection = 6
+Bend over (2/4) | Respect lower than 16
+Bend over (3/4) | Respect = 16
+Bend over (4/4) | &nbsp;
 <!---
 &nbsp; | &nbsp;
 Footjob (1/3) | Affection = 11

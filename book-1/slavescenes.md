@@ -40,11 +40,12 @@ Bend over (1/4) | Affection = 6
 Bend over (2/4) | Respect lower than 16
 Bend over (3/4) | Respect = 16
 Bend over (4/4) | &nbsp;
-<!---
 &nbsp; | &nbsp;
-Footjob (1/3) | Affection = 11
-Footjob (2/3) | Respect lower than 15
-Footjob (3/3) | Respect = 15
+Get naked (1/4) | Affection = 9
+Get naked (2/4) | Respect lower than 16
+Get naked (3/4) | Sex (1/?)
+Get naked (4/4) | Respect = 17 Walk = 10
+<!---
 &nbsp; | &nbsp;
 Blowjob (1/3) | Affection = 12
 Blowjob (2/3) | Respect lower than 16

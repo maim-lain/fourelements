@@ -33,13 +33,13 @@ Tongue (2/3) | Affection = 3
 Tongue (3/3) | Respect = 9
 &nbsp; | &nbsp;
 Show tits (1/3) | Affection = 5
-Show tits (2/3) | &nbsp;
+Show tits (2/3) | None
 Show tits (3/3) | Respect = 18
 &nbsp; | &nbsp;
 Bend over (1/4) | Affection = 6
 Bend over (2/4) | Respect lower than 16
 Bend over (3/4) | Respect = 16
-Bend over (4/4) | &nbsp;
+Bend over (4/4) | None
 &nbsp; | &nbsp;
 Get naked (1/4) | Affection = 9
 Get naked (2/4) | Respect lower than 17
@@ -51,20 +51,20 @@ Titfuck (2/3) | Respect lower than 19
 Titfuck (3/3) | Respect = 19
 &nbsp; | &nbsp;
 Blowjob (1/5) | Titfuck (1/3)
-Blowjob (2/5) | &nbsp;
+Blowjob (2/5) | None
 Blowjob (3/5) | Respect lower than 20
 Blowjob (4/5) | Respect = 20
-Blowjob (5/5) | &nbsp;
+Blowjob (5/5) | None
 &nbsp; | &nbsp;
 Sex (1/6) | Affection = 15
-Sex (2/6) | &nbsp;
-Sex (3/6) | &nbsp;
+Sex (2/6) | None
+Sex (3/6) | None
 Sex (4/6) | Anal (1/3)
 Sex (5/6) | ?
 Sex (6/6) | Respect = 20
 &nbsp; | &nbsp;
 Anal (1/3) | Affection = 17
-Anal (2/3) | &nbsp;
+Anal (2/3) | None
 Anal (3/3) | Respect = 20
 
 <br>

@@ -50,13 +50,13 @@ Titfuck (1/3) | Affection = 10
 Titfuck (2/3) | Respect lower than 19
 Titfuck (3/3) | Respect = 19
 &nbsp; | &nbsp;
-Blowjob (1/5) | Affection = 10
+Blowjob (1/5) | Titfuck (1/3)
 Blowjob (2/5) | &nbsp;
 Blowjob (3/5) | Respect lower than 20
 Blowjob (4/5) | Respect = 20
 Blowjob (5/5) | &nbsp;
-&nbsp; | &nbsp;
 <!---
+&nbsp; | &nbsp;
 Anal (1/3) | Affection = 17
 Anal (2/3) | Respect lower than 17
 Anal (3/3) | Respect = 17

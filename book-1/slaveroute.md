@@ -318,7 +318,7 @@ Night:
 
 **Day 29:**  
 Morning:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Hunting (+1 Affection)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Endorse Katara (+1 Respect)  
 Night:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Check mail  
 
@@ -326,14 +326,17 @@ Night:
 
 **Day 30:**  
 Morning:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Hunting (+1 Affection)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Katara's house (+1 Respect)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; School -> Quest: Expanding the schoolhouse (+1 Respect)  
 Night:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Check mail  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Katara's house  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Get naked (1/4) -> (2/4)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; No.  
 
 <br>
 
 Stats at end of day 30:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Affection - 12/30  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Affection - 9/30  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Respect - 8/27  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Waterbending - 3/30  
 
@@ -346,6 +349,10 @@ Stats at end of day 30:
 
 **Day 31:**  
 Morning:  
+
+
+
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Training (+2 Waterbending)  
 Night:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Katara's house  
@@ -353,12 +360,7 @@ Night:
 
 ---
 
-
-30 - naked 2
-
 tongue 3/3 -> respect = 9 -> slap
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Katara's house (+1 Respect)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; School -> Quest: Expanding the schoolhouse (+1 Respect)  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Marketplace -> Visit artisans  

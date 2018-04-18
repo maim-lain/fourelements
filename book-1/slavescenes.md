@@ -55,12 +55,17 @@ Blowjob (2/5) | &nbsp;
 Blowjob (3/5) | Respect lower than 20
 Blowjob (4/5) | Respect = 20
 Blowjob (5/5) | &nbsp;
-<!---
 &nbsp; | &nbsp;
-Anal (1/3) | Affection = 17
-Anal (2/3) | Respect lower than 17
-Anal (3/3) | Respect = 17
---->
+Sex (1/6) | Affection = 15
+Sex (2/6) | &nbsp;
+Sex (3/6) | anal or none
+Sex (4/6) | Anal (1/?)
+Sex (5/6) | ??
+Sex (6/6) | Respect = 20
+&nbsp; | &nbsp;
+Anal (1/3) | &nbsp;
+Anal (2/3) | &nbsp;
+Anal (3/3) | &nbsp;
 
 <br>
 

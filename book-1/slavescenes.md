@@ -58,9 +58,9 @@ Blowjob (5/5) | &nbsp;
 &nbsp; | &nbsp;
 Sex (1/6) | Affection = 15
 Sex (2/6) | &nbsp;
-Sex (3/6) | anal or none
-Sex (4/6) | Anal (1/?)
-Sex (5/6) | ??
+Sex (3/6) | &nbsp;
+Sex (4/6) | Anal (1/3)
+Sex (5/6) | ?
 Sex (6/6) | Respect = 20
 &nbsp; | &nbsp;
 Anal (1/3) | Affection = 17

@@ -43,8 +43,8 @@ Bend over (4/4) | &nbsp;
 &nbsp; | &nbsp;
 Get naked (1/4) | Affection = 9
 Get naked (2/4) | Respect lower than 16
-Get naked (3/4) | Sex (1/6)
-Get naked (4/4) | Respect 17, Walks 10
+Get naked (3/4) | Respect = 17
+Get naked (4/4) | Public walks = 10
 &nbsp; | &nbsp;
 Titfuck (1/3) | Affection = 
 Titfuck (2/3) | Respect lower than 

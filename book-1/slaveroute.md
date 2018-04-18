@@ -330,6 +330,7 @@ Morning:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; School -> Quest: Expanding the schoolhouse (+1 Respect)  
 Night:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Katara's house  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Dirty rumors -> Frozen panties (1/3) -> (2/3)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Get naked (1/4) -> (2/4)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; No.  
 
@@ -340,7 +341,6 @@ Stats at end of day 30:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Respect - 8/27  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Waterbending - 3/30  
 
-
 ---
 
 <br>
@@ -349,18 +349,61 @@ Stats at end of day 30:
 
 **Day 31:**  
 Morning:  
-
-
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Marketplace -> Visit artisans  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Training (+2 Waterbending)  
 Night:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Katara's house  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Masturbate (0/3) -> (0.5/3)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Check mail  
 
 ---
 
+**Day 32:**  
+Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; School  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Marketplace -> Visit decorators  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Training (+2 Waterbending)  
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Katara's house  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; Any  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Masturbate (0.5/3) -> (1/3)  
+
+---
+
+**Day 33:**  
+Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Training (+2 Waterbending)  
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Katara's house  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; Sure  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; Beautiful  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Footjob (0/3) -> (1/3)  
+
+---
+
+**Day 34:**  
+Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Training (+2 Waterbending)  
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Katara's house  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Masturbate (1/3) -> (2/3)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; Any  
+
+---
+
+**Day 35:**  
+Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Training (+2 Waterbending)  
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Katara's house  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Footjob (1/3) -> (2/3)  
+
+---
+
+
+
+
+
+titfug 1 - 10 aff, hunt once
+titfug 2 - none
+titfug 1 & 2 - any
 tongue 3/3 -> respect = 9 -> slap
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Marketplace -> Visit artisans  
+for bj, finger = scene but no progression

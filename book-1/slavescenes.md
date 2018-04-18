@@ -63,9 +63,9 @@ Sex (4/6) | Anal (1/?)
 Sex (5/6) | ??
 Sex (6/6) | Respect = 20
 &nbsp; | &nbsp;
-Anal (1/3) | &nbsp;
+Anal (1/3) | Affection = 17
 Anal (2/3) | &nbsp;
-Anal (3/3) | &nbsp;
+Anal (3/3) | Respect = 20
 
 <br>
 

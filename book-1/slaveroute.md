@@ -12,7 +12,7 @@
 <br>
 
 **A quick note about the walkthrough:**  
-This is a 100% walkthrough - that means if you follow the guide you'll get 100% of the scenes and content in the slave route. So I'll be doing all the quests and sidequests as well. In the first two weeks of the walkthrough I try to go mining as much as possible so I can expand the shop right away, and once you do that you shouldn't need to ever go mining again. I'll be spacing out scenes so there's one about every other day so you don't do all the scenes at once and then have to play for 20 in-game days with no scenes. Also if there is a choice or event that isn't mentioned in the walkthrough that means you can choose any option.
+This is a 100% walkthrough - that means if you follow the guide you'll get 100% of the scenes and content in the slave route. So I'll be doing all the quests and sidequests as well. In the first two weeks of the walkthrough I try to go mining as much as possible so I can expand the shop right away, and once you do that you shouldn't need to ever go mining again. I'll be spacing out scenes so there's one about every other day so you don't do all the scenes at once and then have to play for 20 in-game days with no scenes. Also if there is a choice that isn't mentioned in the walkthrough that means you can choose any option.
 
 <br>
 <br>

@@ -15,7 +15,7 @@
 - Affection = 8
   - This would mean affection needs to be at least 8 or higher, it does not need to be exactly 8.
 - Respect lower than 12
-  - This would mean respect absolutely must be lower than 12. It cannot be above 11 or you won't see the scene and will skip to the next scene tier. You don't have to worry about this or having stats too high unless you modified your stats by cheating. b-but you'd never cheat...r-right senpai?&nbsp; (ﾟωﾟ ; ) 
+  - This would mean respect absolutely must be lower than 12. It cannot be above 11 or you won't see the scene and will skip to the next scene tier.
 
 <br>
 <br>

@@ -15,7 +15,7 @@
 - Affection = 8
   - This would mean affection needs to be at least 8 or higher, it does not need to be exactly 8.
 - Respect lower than 12
-  - This would mean respect absolutely must be lower than 12. It cannot be above 11 or you won't see the scene and will skip to the next scene tier. There's quite a few Katara night scenes in the slave route that you can accidentally prevent yourself from seeing but if you follow my walkthrough you'll see all of them.
+  - This would mean respect absolutely must be lower than 12. It cannot be above 11 or you won't see the scene and will skip to the next scene tier. There's a alot of Katara night scenes in the slave route that can't be seen if you aren't careful. I'd really recommend using my slave route walkthrough if you want to see all the scenes and don't want to worry about missing any.
 
 <br>
 <br>

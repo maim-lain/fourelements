@@ -60,7 +60,7 @@ Sex (1/6) | Affection = 15
 Sex (2/6) | None
 Sex (3/6) | None
 Sex (4/6) | Anal (1/3)
-Sex (5/6) | Bugged but same as (6/6)
+Sex (5/6) | Bugged; Not playable
 Sex (6/6) | Respect = 20 and < 21
 &nbsp; | &nbsp;
 Anal (1/3) | Affection = 17

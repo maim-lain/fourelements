@@ -921,7 +921,7 @@ Night:
 <br>
 
 **Ending:**  
-Well, we're finally at the end of the game. We've done all the quests, sidequests, and scenes for the slave route in Book 1; except for the ending. The game only ends when you want it to, so you can keep playing and rewatch scenes or buy different items from the shop to use on walks if you wish. I'll be telling you how to get both of the Book 1 love slave endings, so you can save here and try both if you want.
+Well, we're finally at the end of the game. We've done all the quests, sidequests, and scenes for the slave route in Book 1; except for the ending. The game only ends when you want it to, so you can keep playing and rewatch scenes or buy different items from the shop to use on walks if you wish. I'll be telling you how to get both of the Book 1 slave endings, so you can save here and try both if you want.
 
 <br>
 

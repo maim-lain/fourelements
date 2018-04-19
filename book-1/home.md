@@ -3,13 +3,13 @@
 
 <br>
 <!---
-- [Choose Book](https://github.com/maim-lain/fourelements)  
+- [Choose Book](https://github.com/maim-lain/fourelements/blob/master/README.md)
 --->
 
-- [Love Route 100% Walkthrough](https://github.com/maim-lain/fourelements/blob/master/book-1/loveroute.md)  
-  - [Love Route Scene Guide](https://github.com/maim-lain/fourelements/blob/master/book-1/lovescenes.md)  
-- [Slave Route 100% Walkthrough](https://github.com/maim-lain/fourelements/blob/master/book-1/slaveroute.md)  
-  - [Slave Route Scene Guide](https://github.com/maim-lain/fourelements/blob/master/book-1/slavescenes.md)  
+- [Love Route Walkthrough](https://github.com/maim-lain/fourelements/blob/master/book-1/loveroute.md)  
+  - [Scene Guide](https://github.com/maim-lain/fourelements/blob/master/book-1/lovescenes.md)  
+- [Slave Route Walkthrough](https://github.com/maim-lain/fourelements/blob/master/book-1/slaveroute.md)  
+  - [Scene Guide](https://github.com/maim-lain/fourelements/blob/master/book-1/slavescenes.md)  
 - [Quest Walkthroughs](https://github.com/maim-lain/fourelements/blob/master/book-1/questwalk.md)  
 
 <br>
@@ -19,6 +19,7 @@
 ## Game Mechanics
 Here are my notes on all the mechanics of the game, sorted by location. If you're like me then you probably had a lot of questions about the game like if the mystery night girl visits have any purpose, if there was anything special or hidden at the marketplace alley, what the drop rates of the stones from the mine were, and so on. Well the answers to those questions and many others are below!&nbsp;
 
+<br>
 <br>
 
 ## Day Locations
@@ -77,6 +78,7 @@ Here are my notes on all the mechanics of the game, sorted by location. If you'r
   - Rare red stone &nbsp;-&nbsp; 14% chance &nbsp;-&nbsp; 80 coins
   - Super rare white stone &nbsp;-&nbsp; 7% chance &nbsp;-&nbsp; 150 coins
 
+<br>
 <br>
 
 ## Night Locations

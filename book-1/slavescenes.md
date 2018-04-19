@@ -39,7 +39,7 @@ Show tits (3/3) | Respect = 18
 Bend over (1/4) | Affection = 6
 Bend over (2/4) | Respect lower than 16
 Bend over (3/4) | Respect = 16
-Bend over (4/4) | None
+Bend over (4/4) | Walk -> Cum on face
 &nbsp; | &nbsp;
 Get naked (1/4) | Affection = 9
 Get naked (2/4) | Respect lower than 17
@@ -53,8 +53,8 @@ Titfuck (3/3) | Respect = 19
 Blowjob (1/5) | Titfuck (1/3)
 Blowjob (2/5) | None
 Blowjob (3/5) | Respect lower than 20
-Blowjob (4/5) | Respect = 20
-Blowjob (5/5) | None
+Blowjob (4/5) | Respect lower than 21
+Blowjob (5/5) | Walk -> Cum on face
 &nbsp; | &nbsp;
 Sex (1/6) | Affection = 15
 Sex (2/6) | None

@@ -37,6 +37,6 @@ Coinpouch | Pink | Red
 ### Training Requirements:
 Level | Requirement
 --- | ---
-5 | Battles = 6
-6 | quest
-7 | .
+6 | Battles = 6
+7 | quest
+8 | .

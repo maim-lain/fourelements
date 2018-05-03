@@ -70,27 +70,6 @@ Morning:
 Night:  
 
 
-mechanics:
-
-Drink | 1 | 2
---- | ---: | ---:
-Wanker | Red | Blue
-Tickleberry | Green | Pink
-Slapdapper | Yellow | Green
-Slumpthumper | Pink | Blue
-Hank | Grey | Red
-Little tart | Blue | Yellow
-Old juice | Grey | Blue
-Coinpouch | Pink | Red
-
-training require chart
-
-
-
-love scene guide:
-shower 1 - battles = 4 -> room at either day or night, try both
-shower 2 - none
-shower 3 - none, but there's choices.
 
 
 

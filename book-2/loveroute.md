@@ -40,7 +40,7 @@ Night:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Alleys -> Visit shady guy -> Root  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; Deal (Received quickwort)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tavern -> Serve drinks -> Sure  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; read list here, don't get wrong.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Don't make any mistakes or use the in-game recipe book, [use this one](https://github.com/maim-lain/fourelements/blob/master/book-2/home.md)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Serve drinks (+24 coins)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Sleep  
 
@@ -71,7 +71,9 @@ Night:
 
 
 
-
+<!---
 
 What?! Hell no!
 prison_start, it continues right below the above choice
+
+--->

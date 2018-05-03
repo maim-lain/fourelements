@@ -32,5 +32,11 @@ Little tart | Blue | Yellow
 Old juice | Grey | Blue
 Coinpouch | Pink | Red
 
+<br>
 
-training require chart
+### Training Requirements:
+Level | Requirement
+--- | ---
+5 | Battles = 6
+6 | quest
+7 | .

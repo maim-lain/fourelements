@@ -12,7 +12,7 @@
 <br>
 
 **A quick note about the walkthrough:**  
-This is a 100% walkthrough - that means if you follow the guide you'll get 100% of the scenes and content in the love route. So I'll be doing all the quests and sidequests as well. In the first two weeks of the walkthrough I try to go mining as much as possible so I can expand the shop right away, and once you do that you shouldn't need to ever go mining again. I'll be spacing out scenes so there's one about every other day so you don't do all the scenes at once and then have to play for 20 in-game days with no scenes. Also if there is a choice that isn't mentioned in the walkthrough that means you can choose any option.
+This is a 100% walkthrough - that means if you follow the guide you'll get 100% of the scenes and content in the love route. So I'll be doing all the quests and sidequests as well. If there's a choice that isn't mentioned in the walkthrough that means you can choose any option.
 
 <br>
 <br>
@@ -24,7 +24,7 @@ Morning:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Travel to the Fire Nation by clicking the bottom left  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; Let's do it!  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Armory -> I think I am? (+1 Affection)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; I'm busy.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; I'm busy  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Alleys -> Defend the homeless man (+75 coins)  
 Night:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Armory (+25 coins)  
@@ -35,10 +35,14 @@ Night:
 **Day 2:**  
 Morning:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Training (+3 Firebending)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Training (+3 Firebending)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tavern -> Serve drinks -> Sure  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; read list here, don't get wrong.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Serve drinks (+24 coins)  
 Night:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Visit shop to sell stone  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Check mail  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Alleys -> Visit shady guy -> Root  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*&nbsp; Deal (Received quickwort)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tavern -> Serve drinks (+24 coins)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Sleep  
 
 ---
 
@@ -59,15 +63,23 @@ Night:
 
 ---
 
-Drink? | . | .
---- | --- | ---
+
+
+mechanics
+
+Drink | 1 | 2
+--- | ---: | ---:
 Wanker | Red | Blue
 Tickleberry | Green | Pink
 Slapdapper | Yellow | Green
+Slumpthumper | Pink | Blue
 Hank | Grey | Red
 Little tart | Blue | Yellow
 Old juice | Grey | Blue
 Coinpouch | Pink | Red
+
+
+training require chart
 
 
 

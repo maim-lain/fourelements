@@ -5,7 +5,12 @@
 
 - [Home](https://github.com/maim-lain/fourelements/blob/master/book-2/home.md)  
 - [Love Route Scene Guide](https://github.com/maim-lain/fourelements/blob/master/book-2/lovescenes.md)  
+
+<!---
+
 - [Quest Walkthroughs](https://github.com/maim-lain/fourelements/blob/master/book-2/questwalk.md)  
+
+--->
 
 <br>
 <br>
@@ -77,7 +82,7 @@ Night:
 Morning:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tower (Received dragon scale)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Farm -> Yes -> Ask the questions  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Farm -> ?  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Farm -> .  
 
 Night:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tavern -> Serve drinks (+24 coins)  
@@ -85,6 +90,15 @@ Night:
 
 
 <!---
+
+probably just going to have to go through entire farm script and write down what everything does.
+
+x - -1 morality..
+blah blah
+
+
+
+1 more battle till check azula rooms.
 
 30-50 coins from battle.
 

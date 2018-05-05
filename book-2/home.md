@@ -55,13 +55,13 @@ Level | Requirement
 
 Farm stuff:
 
-Use Lever
-$ milked_today_used = True
+Use Lever  
+$ milked_today_used = True  
 $ milked_today_pregnant = True
 
 
 
-Fresh:
+#### Fresh:
 Choice | Effect
 --- | ---
 Taunt | -1 morality
@@ -71,7 +71,7 @@ Set free | +1 morality
 
 
 
-Used:
+#### Used:
 Choice | Effect
 --- | ---
 Talk | none
@@ -81,7 +81,7 @@ Set free | none
 
 
 
-Pregant:
+#### Pregant:
 Choice | Effect
 --- | ---
 Taunt | -1 morality

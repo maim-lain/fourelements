@@ -53,7 +53,7 @@ Level | Requirement
 <br>
 
 
-Farm stuff:
+## Farm stuff:
 
 Simple version:
 - Visit farm everyday to get point

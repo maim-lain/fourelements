@@ -55,10 +55,21 @@ Level | Requirement
 
 Farm stuff:
 
+Simple version:
+- Visit farm everyday to get point
+- Pregnant -> Milk -> Nipples -> Let cum
+- Lever
+- Leave farm
+
+<br>
+<br>
+<br>
+
 Use Lever  
 $ milked_today_used = True  
-$ milked_today_pregnant = True
-
+$ milked_today_pregnant = True  
+$ milked += pregnant_girls  
+$ milked += used_girls
 
 
 #### Fresh:
@@ -81,14 +92,14 @@ Set free | none
 
 
 
-#### Pregant:
+#### Pregnant:
 Choice | Effect
 --- | ---
 Taunt | -1 morality
 Comfort | none
 Milk | see flow chart
 Fuck | -1 morality
-Set free | +! morality
+Set free | +1 morality
 
 
 Pregant milk flowchart:
@@ -100,6 +111,12 @@ Pregant milk flowchart:
 
 
 
+If you visit the farm on a day:
++1 point for each girl
+when girl gets 20 points  has birth and then becomes used girl.
+
 $ milked -> $5 for each one
 $20 for birth
 
+
+morality only used for slave route

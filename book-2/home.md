@@ -57,6 +57,14 @@ Simple version:
 - Lever
 - Leave farm
 
+wait technically, shouldn't it be: (so milk used girls -> become pregnant -> milk again on same day)
+- vist farm for point
+- milk used girls
+- fuck girls who aren't pregnant
+- Pregnant -> Milk -> Nipples -> Let cum
+- leave farm
+
+
 <br>
 <br>
 <br>

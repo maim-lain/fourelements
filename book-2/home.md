@@ -41,22 +41,18 @@ Level | Requirement
 7 | quest
 8 | .
 
-
 <br>
 <br>
 <br>
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-
 
 ## Farm stuff:
 
 Simple version:
 - Visit farm everyday to get point
+- Fuck girls who aren't pregnant
 - Pregnant -> Milk -> Nipples -> Let cum
 - Lever
 - Leave farm
@@ -77,7 +73,7 @@ Choice | Effect
 --- | ---
 Taunt | -1 morality
 Comfort | none
-Fuck | -1 morality
+Fuck | -1 morality & become preg
 Set free | +1 morality
 
 
@@ -87,7 +83,7 @@ Choice | Effect
 --- | ---
 Talk | none
 Milk | $ milked += used_girls ... $ milked_today_used = True
-Fuck | none
+Fuck | become preg
 Set free | none
 
 
@@ -111,11 +107,11 @@ Pregant milk flowchart:
 
 
 
-If you visit the farm on a day:
-+1 point for each girl
-when girl gets 20 points  has birth and then becomes used girl.
+If you visit the farm on a day:  
++1 point for each girl  
+when girl gets 20 points has birth and then becomes used girl.
 
-$ milked -> $5 for each one
+$ milked -> $5 for each one  
 $20 for birth
 
 

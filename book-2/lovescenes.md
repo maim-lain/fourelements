@@ -11,16 +11,7 @@
 <br>
 <br>
 
-**An example on how scene requirements work:**  
-- Affection = 8
-  - This would mean affection needs to be at least 8 or higher, it does not need to be exactly 8.
-- Respect lower than 12
-  - This would mean respect absolutely must be lower than 12. It cannot be above 11 or you won't see the scene and will skip to the next scene tier.
-
-<br>
-<br>
-
-Azula Night Scenes:
+### Azula Night Scenes:
 Scene | Requirements
 --- | ---
 1 | Battles = 4
@@ -29,7 +20,7 @@ Scene | Requirements
 4 | zshop_hj_done and Battles = 9
   
 
-Azula Morning Shower Scenes:
+### Azula Morning Shower Scenes:
 Scene | Requirements
 --- | ---
 1 | Battles = 4

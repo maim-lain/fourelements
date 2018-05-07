@@ -83,27 +83,46 @@ Morning:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tower (Received dragon scale)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Farm -> Yes -> Ask the questions  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Farm -> Fresh cows -> Optional: Taunt, Comfort -> Fuck  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Pregnant cows -> Optional: Taunt, Comfort, Fuck -> Milk  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Play with her nipples -> Let her cum -> Exit  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Pregnant cows -> Optional: Taunt, Comfort, Fuck -> Milk -> Play with nipples -> Let her cum -> Exit  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tavern -> Serve drinks (+135 coins)  
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tavern -> Serve drinks (+135 coins)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Sleep  
+
+---
+
+**Day 5:**  
+Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Armory -> Armor -> Dragon armor  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Leave city -> Nice to meet you (lol) -> Auto (+1 girl)  
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Farm -> Fresh cows -> Fuck  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Pregnant cows -> Milk -> Play with nipples -> Let her cum  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tavern -> Serve drinks  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Azula's room -> Go in anways -> Masturbate  
+
+---
+
+**Day 6:**  
+Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Azula's room -> Peek  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tower -> Listen  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Leave city -> Nice to meet you (lol) -> Auto (+1 girl)  
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Farm -> Fresh cows -> Fuck  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Pregnant cows -> Milk -> Play with nipples -> Let her cum  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tavern -> Serve drinks  
+
+
 
 <!---
 
-can't battle, can't train, make money?
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Leave city -> Either (Pick the 2nd xD)  
 watch tower every day stuff
 
-Night:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tavern -> Serve drinks (+24 coins)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Sleep  
 
 
-1 more battle till check azula rooms.
-
-30-50 coins from battle.
-
-
-
+battle = +1 aff and +1 girl
 
 What?! Hell no!
 prison_start, it continues right below the above choice

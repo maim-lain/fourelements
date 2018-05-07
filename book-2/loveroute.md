@@ -16,13 +16,10 @@
 <br>
 <br>
 
-**A quick note about the walkthrough:**  
-This is a 100% walkthrough - that means if you follow the guide you'll get 100% of the scenes and content in the love route. So I'll be doing all the quests and sidequests as well. If there's a choice that isn't mentioned in the walkthrough that means you can choose any option.
-
-<br>
-<br>
-
 ## Days 1-10
+If there's a choice that isn't mentioned in the walkthrough that means you can choose any option.
+
+<br>
 
 **Intro Part 1:**  
 Morning:  

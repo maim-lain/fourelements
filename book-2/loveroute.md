@@ -1,4 +1,4 @@
-# Love Route 100% Walkthrough
+# Love Route Walkthrough
 [*\~My list of walkthroughs and when they'll be updated\~*](https://www.patreon.com/maimlain)
 
 <br>
@@ -21,7 +21,7 @@ If there's a choice that isn't mentioned in the walkthrough that means you can c
 
 <br>
 
-## Intro Part 1 
+### Intro Part 1 
 #### Morning:
 - Travel to the Fire Nation by clicking the bottom left  
 - Let's do it!  
@@ -32,9 +32,8 @@ If there's a choice that isn't mentioned in the walkthrough that means you can c
 - Palace (+1 Firebending)  
 
 <br>
-<br>
 
-## Intro Part 2 
+### Intro Part 2 
 #### Morning:
 - Training (+3 Firebending)  
 - Training (+1 Firebending)  
@@ -44,7 +43,6 @@ If there's a choice that isn't mentioned in the walkthrough that means you can c
 - Serve drinks (+24 coins)  
 - Palace -> Sleep  
 
-<br>
 <br>
 
 **Day 1:**  

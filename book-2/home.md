@@ -52,17 +52,13 @@ Level | Requirement
 
 Simple version:
 - Visit farm everyday to get point
+- Milk used girls
 - Fuck girls who aren't pregnant
 - Pregnant -> Milk -> Nipples -> Let cum
-- Lever
 - Leave farm
 
-wait technically, shouldn't it be: (so milk used girls -> become pregnant -> milk again on same day)
-- vist farm for point
-- milk used girls
-- fuck girls who aren't pregnant
-- Pregnant -> Milk -> Nipples -> Let cum
-- leave farm
+- you milk used girls first so you can milk them again on the same day after making them preg
+- you do the 'nipples -> let cum' so you can get the bonus milking that it gives
 
 
 <br>
@@ -114,13 +110,12 @@ Pregant milk flowchart:
 	- Milk her -> $ milked += pregnant_girls ... $ milked_today_pregnant = True
 
 
-
+Mechanics:  
 If you visit the farm on a day:  
 +1 point for each girl  
 when girl gets 20 points has birth and then becomes used girl.
 
-$ milked -> $5 for each one  
+$5 for each girl milked  
 $20 for birth
-
 
 morality only used for slave route

@@ -16,40 +16,6 @@
 <br>
 <br>
 
-## Intro Part 1 
-#### Morning:
-- Travel to the Fire Nation by clicking the bottom left  
-- Let's do it!  
-- Armory -> I think I am? (+1 Affection) -> I'm busy  
-- Alleys -> Defend the homeless man (+75 coins)  
-#### Night:
-- Armory (+25 coins)  
-- Palace (+1 Firebending)  
-
----
-
-## Intro Part 2 
-#### Morning:
-- Training (+3 Firebending)  
-- Training (+1 Firebending)  
-#### Night:
-- Tavern -> Serve drinks -> Sure  
-- Don't make any mistakes or use the in-game recipe book, [use this one](https://github.com/maim-lain/fourelements/blob/master/book-2/home.md#game-mechanics)  
-- Serve drinks (+24 coins)  
-- Palace -> Sleep  
-
----
-
-## Day 1:
-#### Morning:
-- Leave city -> Auto  
-#### Night:
-- Tavern -> Serve drinks (+24 coins)  
-- Palace -> Sleep  
-
-
-
-
 ## Days 1-10
 If there's a choice that isn't mentioned in the walkthrough that means you can choose any option.
 

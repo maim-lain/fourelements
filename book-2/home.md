@@ -45,8 +45,6 @@ Level | Requirement
 <br>
 <br>
 <br>
-<br>
-<br>
 
 ## Farm stuff:
 
@@ -57,6 +55,7 @@ Simple version:
 - Pregnant -> Milk -> Nipples -> Let cum
 - Leave farm
 
+explained:
 - you milk used girls first so you can milk them again on the same day after making them preg
 - you do the 'nipples -> let cum' so you can get the bonus milking that it gives
 

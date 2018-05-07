@@ -20,6 +20,24 @@
 <br>
 <br>
 
-shower 1 - battles = 4 -> room at either day or night, try both
-shower 2 - none
-shower 3 - none, but there's choices.
+Azula Night Scenes:
+Scene | Requirements
+--- | ---
+1 | Battles = 4
+2 | Shower 1
+3 | Shower 2
+4 | zshop_hj_done and Battles = 9
+  
+
+Azula Morning Shower Scenes:
+Scene | Requirements
+--- | ---
+1 | Battles = 4
+2 | Night 1
+3 | Night 2
+4 | Night 3 and Battles = 7
+
+
+zsleep
+
+zshower

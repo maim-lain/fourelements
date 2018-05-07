@@ -16,12 +16,7 @@
 <br>
 <br>
 
-## Days 1-10
-If there's a choice that isn't mentioned in the walkthrough that means you can choose any option.
-
-<br>
-
-### Intro Part 1 
+## Intro Part 1 
 #### Morning:
 - Travel to the Fire Nation by clicking the bottom left  
 - Let's do it!  
@@ -31,9 +26,9 @@ If there's a choice that isn't mentioned in the walkthrough that means you can c
 - Armory (+25 coins)  
 - Palace (+1 Firebending)  
 
-<br>
+---
 
-### Intro Part 2 
+## Intro Part 2 
 #### Morning:
 - Training (+3 Firebending)  
 - Training (+1 Firebending)  
@@ -43,14 +38,14 @@ If there's a choice that isn't mentioned in the walkthrough that means you can c
 - Serve drinks (+24 coins)  
 - Palace -> Sleep  
 
-<br>
+---
 
-**Day 1:**  
-Morning:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Leave city -> Auto  
-Night:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tavern -> Serve drinks (+24 coins)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Sleep  
+## Day 1:
+#### Morning:
+- Leave city -> Auto  
+#### Night:
+- Tavern -> Serve drinks (+24 coins)  
+- Palace -> Sleep  
 
 
 

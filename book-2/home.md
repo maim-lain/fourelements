@@ -48,11 +48,11 @@ Level | Requirement
 ## Farm mechanics for the non-autistic:
 
 Simple version:
+- Use Ctrl to speed up farm visits/milking
 - Visit the farm every day at night
-- Use Ctrl to speed up milking
 - Milk used girls
 - Fuck girls who aren't pregnant
-- Pregnant -> Milk -> Nipples -> Let cum
+- Pregnant -> Milk -> Nipples -> Let her cum
 - Leave farm
 
 <br>

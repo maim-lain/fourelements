@@ -19,10 +19,11 @@
 ### Azula Night Scenes:
 Scene | Requirements
 --- | ---
-1 | Battles = 4
-2 | Shower 1 and during scene cum on tits
-3 | Shower 2
-4 | Battles = 7
+Night (1/4) | Battles = 4
+Night (2/4) | Shower 1 and during scene cum on tits
+Night (3/4) | Shower 2
+hj | Battles = 7
+4 | ?
 
 <br>
 
@@ -33,6 +34,22 @@ Scene | Requirements
 2 | Night 1
 3 | Night 2
 4 | Night 3 and ? 9? Battles = 7
+
+<br>
+<br>
+
+### Azula Scenes:
+Scene | Requirements
+--- | ---
+Night (1/4) | Battles = 4
+Morning shower (1/4) | Battles = 4
+Night (2/4) | Shower (1/4) and during scene cum on tits
+Morning shower (2/4) | Night 1
+Night (3/4) | Shower #2
+Morning shower #3 | Night #2
+Handjob | Battles = 7
+Night #4 | ?
+Morning shower #4 | ?
 
 <br>
 

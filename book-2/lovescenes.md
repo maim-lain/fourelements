@@ -38,7 +38,7 @@ Scene | Requirements
 <br>
 <br>
 
-### Azula Scenes:
+### Azula Scenes: ? and time column?
 Scene | Requirements
 --- | ---
 Night (1/4) | Battles = 4

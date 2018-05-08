@@ -84,6 +84,8 @@ Comfort | None
 Fuck | -1 Morality & becomes pregnant
 Set free | +1 Morality & -1 fresh girl
 
+<br>
+
 #### Used girls:
 Choice | Effect
 --- | ---
@@ -91,6 +93,8 @@ Talk | None
 Milk | Milks # of used girls
 Fuck | Becomes pregant
 Set free | -1 used girl
+
+<br>
 
 #### Pregnant girls:
 Choice | Effect
@@ -101,6 +105,8 @@ Milk->Nipples->Cum | Milks (# of pregnant girls * 2) + 1
 Milk -> Other | Milks # of pregnant girls * 2
 Fuck | -1 Morality
 Set free | +1 Morality & -1 pregnant girl
+
+<br>
 
 #### Milk via lever:
 Choice | Effect

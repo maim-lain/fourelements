@@ -45,6 +45,16 @@ Level | Requirement
 <br>
 <br>
 
+### Tactics:
+Level | Requirement
+--- | ---
+1 | Battles = 10
+2 | .
+3 | .
+
+<br>
+<br>
+
 ### Farm mechanics for the non-autistic:
 
 Simple version:

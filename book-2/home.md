@@ -55,9 +55,7 @@ Level | Requirement
 <br>
 <br>
 
-### Farm mechanics for the non-autistic:
-
-Simple version:
+### Farm mechanics for the non-autistic (short version):
 - Use Ctrl to speed up farm visits/milking
 - Visit the farm every day at night
 - Milk used girls
@@ -68,7 +66,7 @@ Simple version:
 <br>
 <br>
 
-### Farm mechanics for the autistic:
+### Farm mechanics for the autistic (in-depth version):
 - How do I get more girls?
   - Once you unlock the farm every time you win a battle you get +1 fresh girl. You can also buy used girls for $250 at the shop but it's a waste of money, so never buy them.
 - How does pregnancy work?

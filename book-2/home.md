@@ -64,49 +64,46 @@ explained:
 <br>
 <br>
 
-Use Lever  
-$ milked_today_used = True  
-$ milked_today_pregnant = True  
-$ milked += pregnant_girls  
-$ milked += used_girls
+Use Lever - Milk used and preg girls
 
 
-#### Fresh:
+#### Fresh girls:
 Choice | Effect
 --- | ---
-Taunt | -1 morality
-Comfort | none
-Fuck | -1 morality & become preg
-Set free | +1 morality
+Taunt | -1 Morality
+Comfort | None
+Fuck | -1 Morality & becomes pregnant
+Set free | +1 Morality & -1 fresh girl
 
+<br>
 
-
-#### Used:
+#### Used girls:
 Choice | Effect
 --- | ---
-Talk | none
-Milk | $ milked += used_girls ... $ milked_today_used = True
-Fuck | become preg
-Set free | none
+Talk | None
+Milk | Milks # of used girls * 1
+Fuck | Becomes pregant
+Set free | -1 used girl
 
+<br>
 
-
-#### Pregnant:
+#### Pregnant girls:
 Choice | Effect
 --- | ---
-Taunt | -1 morality
-Comfort | none
-Milk | see flow chart
-Fuck | -1 morality
-Set free | +1 morality
+Taunt | -1 Morality
+Comfort | None
+Milk->Nipples->Cum | Milks (# of pregnant girls * 2) + 1
+Milk -> Other | Milks # of pregnant girls * 2
+Fuck | -1 Morality
+Set free | +1 Morality & -1 pregnant girl
 
+<br>
 
-Pregant milk flowchart:
-- Milk -> $ milked += pregnant_girls ... $ milked_today_pregnant = True
-	- Nipples
-		- Let cum -> $ milked +=1 ... $ milked += pregnant_girls ... $ milked_today_pregnant = True
-		- Don't let cum -> $ milked += pregnant_girls ... $ milked_today_pregnant = True
-	- Milk her -> $ milked += pregnant_girls ... $ milked_today_pregnant = True
+#### Milk via lever:
+Choice | Effect
+--- | ---
+Lever | Milks (# of used girls + pregnant girls) * 1
+
 
 
 Mechanics:  

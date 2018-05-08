@@ -73,8 +73,8 @@ explained:
   - Visiting the farm for the first time on a day will give +1 farm visits. Pregnant girls need '20 farm visits' to give birth. The game says it's '20 days' but actually pregnant girls will only progress in their pregnancy if you visit the farm. To give an example, if a girl is 1/20 days pregnant and you don't visit the farm for 100 days she will still be 1/20 days pregnant even after 100 days have passed. Visiting the farm multiple times on the same day will still only give +1 farm visits. After a pregnant girl gives birth she becomes a used girl.
 - How do Azula visits work?
   - Azula will visit you every 7 days to pay you. If you have 0 pregnant girls when she visits (this should never happen unless you totally neglect using the farm) she will give you +1 pregnant girls.
-- Why shouldn't I just use the lever to milk?
-  - asf
+- Why shouldn't I just use the lever to milk the girls?
+  - If you just use the lever to milk the girls then: ```milk = used_girls + pregnant_girls``` but if you use the patented 'Farmer Lain Method' then: ```milk = used_girls + girls_made_pregnant + (pregnant_girls * 2) + 1```
 - How much do I get paid?
   - 5 coins per milking, 10 coins per birth.
 - What is morality?

@@ -65,24 +65,22 @@ explained:
 <br>
 
 ## Farm Mechanics:
-- Getting more girls
+- How do I get more girls?
   - Once you unlock the farm every time you win a battle you get +1 fresh girl. You can also buy used girls for $250 at the shop but it's a waste of money, so never buy them.
-- Making them pregnant
+- How do I make them pregnant?
   - Fuck the fresh and used girls to make them pregnant.
-- Pregnancy period
+- How does pregnancy work?
   - Visiting the farm for the first time on a day will give +1 farm visits. Pregnant girls need '20 farm visits' to give birth. The game says it's '20 days' but actually pregnant girls will only progress in their pregnancy if you visit the farm. To give an example, if a girl is 1/20 days pregnant and you don't visit the farm for 100 days she will still be 1/20 days pregnant even after 100 days have passed. Visiting the farm multiple times on the same day will still only give +1 farm visits. After a pregnant girl gives birth she becomes a used girl.
-- Azula visits
-  - +1 something, every 7 days
-- asf
+- How do Azula visits work?
+  - Azula will visit you every 7 days to pay you. If you have 0 pregnant girls when she visits (this should never happen unless you totally neglect using the farm) she will give you +1 pregnant girls.
+- Why shouldn't I just use the lever to milk?
+  - asf
+- How much do I get paid?
+  - 5 coins per milking, 10 coins per birth.
+- What is morality?
+  - Morality isn't used in the love route and has no effect on anything in the love route.
 
-
-$5 for each girl milked  
-$20 for birth
-
-morality only used for slave route
-
-
-
+quest - unlock farm.
 
 #### Fresh girls:
 Choice | Effect

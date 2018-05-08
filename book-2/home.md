@@ -64,7 +64,23 @@ explained:
 <br>
 <br>
 
-Use Lever - Milk used and preg girls
+## Farm Mechanics:
+- Getting more girls &nbsp;-&nbsp; Once you unlock the farm every time you win a battle you get one fresh girl. You can also buy used girls for $250 at the shop but it's a waste of money, so never buy them.
+- Making them pregnant &nbsp;-&nbsp; Fuck the fresh and used girls to make them pregnant.
+- Pregnancy period &nbsp;-&nbsp; Pregnant girls need '20 daily farm visits' to give birth. The game says it's '20 days' but actually pregnant girls will only progress in their pregnancy if you visit the farm during a day. To give an example, if a girl is 0/20 days pregnant and you don't visit the farm for 100 days she will still be 0/20 days pregnant even after 100 days.
+
+ &nbsp;-&nbsp; 
+ 
+If you visit the farm on a day:  
++1 point for each girl  
+when girl gets 20 points has birth and then becomes used girl.
+
+$5 for each girl milked  
+$20 for birth
+
+morality only used for slave route
+
+
 
 
 #### Fresh girls:
@@ -81,7 +97,7 @@ Set free | +1 Morality & -1 fresh girl
 Choice | Effect
 --- | ---
 Talk | None
-Milk | Milks # of used girls * 1
+Milk | Milks # of used girls
 Fuck | Becomes pregant
 Set free | -1 used girl
 
@@ -102,16 +118,4 @@ Set free | +1 Morality & -1 pregnant girl
 #### Milk via lever:
 Choice | Effect
 --- | ---
-Lever | Milks (# of used girls + pregnant girls) * 1
-
-
-
-Mechanics:  
-If you visit the farm on a day:  
-+1 point for each girl  
-when girl gets 20 points has birth and then becomes used girl.
-
-$5 for each girl milked  
-$20 for birth
-
-morality only used for slave route
+Lever | Milks # of used girls + # of pregnant girls

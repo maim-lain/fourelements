@@ -33,6 +33,7 @@ Old juice | Grey | Blue
 Coinpouch | Pink | Red
 
 <br>
+<br>
 
 ### Training Requirements:
 Level | Requirement
@@ -43,28 +44,20 @@ Level | Requirement
 
 <br>
 <br>
-<br>
-<br>
 
-## Farm stuff:
+## Farm mechanics for the non-autistic:
 
 Simple version:
-- Visit farm everyday to get point
+- Visit the farm at night every day
 - Milk used girls
 - Fuck girls who aren't pregnant
 - Pregnant -> Milk -> Nipples -> Let cum
 - Leave farm
 
-explained:
-- you milk used girls first so you can milk them again on the same day after making them preg
-- you do the 'nipples -> let cum' so you can get the bonus milking that it gives
-
-
-<br>
 <br>
 <br>
 
-## Farm Mechanics:
+## Farm mechanics for the autistic:
 - How do I get more girls?
   - Once you unlock the farm every time you win a battle you get +1 fresh girl. You can also buy used girls for $250 at the shop but it's a waste of money, so never buy them.
 - How do I make them pregnant?
@@ -80,7 +73,7 @@ explained:
 - What is morality?
   - Morality isn't used in the love route and has no effect on anything in the love route.
 
-quest - unlock farm.
+<br>
 
 #### Fresh girls:
 Choice | Effect
@@ -118,3 +111,6 @@ Set free | +1 Morality & -1 pregnant girl
 Choice | Effect
 --- | ---
 Lever | Milks # of used girls + # of pregnant girls
+
+
+quest - unlock farm.

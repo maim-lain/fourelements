@@ -48,7 +48,8 @@ Level | Requirement
 ## Farm mechanics for the non-autistic:
 
 Simple version:
-- Visit the farm at night every day
+- Visit the farm every day at night
+- Use Ctrl to speed up milking
 - Milk used girls
 - Fuck girls who aren't pregnant
 - Pregnant -> Milk -> Nipples -> Let cum
@@ -67,7 +68,7 @@ Simple version:
 - How do Azula visits work?
   - Azula will visit you every 7 days to pay you. If you have 0 pregnant girls when she visits (this should never happen unless you totally neglect using the farm) she will give you +1 pregnant girls.
 - Why shouldn't I just use the lever to milk the girls?
-  - If you just use the lever to milk the girls then: ```milk = used_girls + pregnant_girls``` but if you use the patented 'Farmer Lain Method' then: ```milk = used_girls + girls_made_pregnant + (pregnant_girls * 2) + 1```
+  - You can double the amount of money you make from the farm if you do it the way I describe. If you just use the lever to milk the girls then: ```milk = used_girls + pregnant_girls``` but if you use the patented 'farmer lain milking method' then: ```milk = used_girls + girls_made_pregnant + (pregnant_girls * 2) + 1```
 - How much do I get paid?
   - 5 coins per milking, 10 coins per birth.
 - What is morality?
@@ -111,6 +112,3 @@ Set free | +1 Morality & -1 pregnant girl
 Choice | Effect
 --- | ---
 Lever | Milks # of used girls + # of pregnant girls
-
-
-quest - unlock farm.

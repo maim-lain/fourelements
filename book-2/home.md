@@ -53,10 +53,13 @@ Level | Requirement
 3 | .
 
 <br>
+
+---
+
 <br>
 
-### Farm mechanics (simplfied version):
-- Use Ctrl to speed up farm visits/milking
+### Farm mechanics (simplified version):
+- Use ```Ctrl``` to speed up farm visits/milking
 - Visit the farm every day at night
 - Milk used girls
 - Fuck girls who aren't pregnant

@@ -25,7 +25,7 @@ If there's a choice that isn't mentioned in the walkthrough that means you can c
 Morning:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Travel to the Fire Nation by clicking the bottom left  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Let's do it!  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Armory -> I think I am? (+1 Affection) -> I'm busy  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Armory -> I think I am? -> I'm busy  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Alleys -> Defend the homeless man  
 Night:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Armory  
@@ -115,7 +115,7 @@ Night:
 **Day 7:**  
 Morning:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Azula's room -> Peek  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Armory -> No (+1 Affection)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Armory -> No  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tavern -> Drink with soldiers  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Azula's room  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tower -> Tactics  
@@ -154,9 +154,40 @@ Night:
 ---
 
 **Day 10:**  
+Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Azula's room  
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Farm -> Pregnant cows -> Milk -> Play with nipples -> Let her cum  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tavern -> Serve drinks  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Azula's room -> Watch  
+
+<br>
+
+Stats at end of day 10:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Battles = 7  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Firebending = 6/10  
+
+---
+
+<br>
+
+## Days 11-20
+
+**Day 11:**  
+Morning:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Azula's room  
 
 <!---
+
+tower?
+buy top infantry + health boost
+
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Farm -> Pregnant cows -> Milk -> Play with nipples -> Let her cum  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tavern -> Serve drinks  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Azula's room -> Watch  
+
+
 
 Morning:
 azula
@@ -171,9 +202,9 @@ azula
 
 
 
-my battles = 7 at start of day 10
+azula bj in mai's shop = battles = 7, morning room, night room.
+shower 4 = need bj completed
 
-buy top infantry
 
 go back to day 8 with this????? something going to happen explaining mei???
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tower -> Yes  
@@ -189,10 +220,6 @@ scenes: put names??
 4 (hj)
 
 quest - unlock farm (ingredient stuff)
-
-make post on fsd:
-here's the explanation for the autistic:
-link to nonautistic link so they can read both
 
 
 battle = +1 aff

@@ -20,12 +20,12 @@
 Scene | Requirements
 --- | ---
 Night (1/4) | Battles = 4
-Night (2/4) | Shower 1*
+Night (2/4)* | Shower 1
 Night (3/4) | Shower 2
 hj | Battles = 7
 4 | ?
 
-*during scene cum on tits
+*during the scene you must choose cum on tits
 
 <br>
 

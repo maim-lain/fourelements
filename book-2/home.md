@@ -81,7 +81,7 @@ Level | Requirement
 - How much do I get paid?
   - 5 coins per milking, 10 coins per birth.
 - Why shouldn't I just use the lever to milk the girls?
-  - You can double the amount of money you make from the farm by using the method I describe in the simplified farm mechanics. If you just use the lever to milk the girls then: ```milk = used_girls + pregnant_girls``` but if you use the patented 'farmer lain milking method' then: ```milk = used_girls + girls_made_pregnant + (pregnant_girls * 2) + 1```
+  - You can double the amount of money you make from the farm by using the method I describe in the simplified farm mechanics. If you just use the lever to milk the girls then: ```milk = used_girls + pregnant_girls``` but if you use the method I discovered then: ```milk = used_girls + girls_made_pregnant + (pregnant_girls * 2) + 1```
 - What is morality?
   - Morality isn't used in the love route and has no effect on anything in the love route.
 

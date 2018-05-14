@@ -18,7 +18,6 @@
 <br>
 <br>
 
-## Quests:
 ### Earth Kingdom report:
 - Armory -> I think I am?
 - Alleys -> Defend the homeless man

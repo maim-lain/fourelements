@@ -6,12 +6,12 @@
 - [Choose Book](https://github.com/maim-lain/fourelements/blob/master/README.md)
 - [Love Route Walkthrough](https://github.com/maim-lain/fourelements/blob/master/book-2/loveroute.md)
   - [Scene Guide](https://github.com/maim-lain/fourelements/blob/master/book-2/lovescenes.md)
-  
+- [Quest Walkthroughs](https://github.com/maim-lain/fourelements/blob/master/book-2/quests.md)
+
  <!---
 
 - [Slave Route Walkthrough](https://github.com/maim-lain/fourelements/blob/master/book-2/slaveroute.md)
   - [Scene Guide](https://github.com/maim-lain/fourelements/blob/master/book-2/slavescenes.md)
-- [Quest Walkthroughs](https://github.com/maim-lain/fourelements/blob/master/book-2/questwalk.md)
 
 --->
 
@@ -60,7 +60,7 @@ Level | Requirement
 
 <br>
 
-### Farm Mechanics (I don't care how it works just tell me what to do version):
+### Farm Mechanics (simple version):
 - Use ```Ctrl``` to speed up farm visits/milking
 - Visit the farm every day at night
 - Milk used girls

@@ -209,7 +209,8 @@ prison
 azula
 
 
-
+mai kiss happens when complete azula hj.
+mai thing a quest or scene?
 
 battle = +1 aff
 What?! Hell no!

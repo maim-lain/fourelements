@@ -3,7 +3,7 @@
 
 <br>
 
-- [Home](https://github.com/maim-lain/fourelements/blob/master/book-1/home.md)  
+- [Home](https://github.com/maim-lain/fourelements/blob/master/book-2/home.md)  
 - [Love Route Walkthrough](https://github.com/maim-lain/fourelements/blob/master/book-2/loveroute.md)
   - [Scene Guide](https://github.com/maim-lain/fourelements/blob/master/book-2/lovescenes.md)
   

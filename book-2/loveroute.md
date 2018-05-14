@@ -5,12 +5,7 @@
 
 - [Home](https://github.com/maim-lain/fourelements/blob/master/book-2/home.md)  
 - [Love Route Scene Guide](https://github.com/maim-lain/fourelements/blob/master/book-2/lovescenes.md)  
-
-<!---
-
-- [Quest Walkthroughs](https://github.com/maim-lain/fourelements/blob/master/book-2/questwalk.md)  
-
---->
+- [Quest Walkthroughs](https://github.com/maim-lain/fourelements/blob/master/book-2/quests.md)  
 
 <br>
 <br>
@@ -187,7 +182,7 @@ Night:
 **Day 12:**  
 Morning:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tower -> Yes  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Throne room -> #2 for hj scene or #4 for strapon scene (+1 Slut) (+1 Public)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Throne room -> #2 for hj scene or #4 for strap-on scene (+1 Slut) (+1 Public)  
 Night:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Farm -> Pregnant cows -> Milk -> Play with nipples -> Let her cum  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tower  
@@ -214,20 +209,6 @@ prison
 azula
 
 
-
-azula bj in mai's shop = battles = 7, morning room, night room.
-shower 4 = need bj completed
-
-
-scenes: put names??
-1
-2
-3 (mast)
-4 (hj)
-
-quest - unlock farm (ingredient stuff)
-quest - tower
-quest - throne room
 
 
 battle = +1 aff

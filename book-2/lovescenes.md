@@ -5,12 +5,7 @@
 
 - [Home](https://github.com/maim-lain/fourelements/blob/master/book-2/home.md)  
 - [Love Route 100% Walkthrough](https://github.com/maim-lain/fourelements/blob/master/book-2/loveroute.md)  
-
-<!---
-
-- [Quest Walkthroughs](https://github.com/maim-lain/fourelements/blob/master/book-2/questwalk.md)  
-
---->
+- [Quest Walkthroughs](https://github.com/maim-lain/fourelements/blob/master/book-2/quests.md)  
 
 <br>
 <br>
@@ -63,8 +58,25 @@ Morning shower #4 | ?
 
 <!---
 
+azula bj in mai's shop = battles = 7, morning room, night room.
+shower 4 = need bj completed
+
+
+
 lia free -> love route
 caught scenes still only on love route
+
+
+
+scenes: put names??
+1
+2
+3 (mast)
+4 (hj)
+
+
+
+throne room - quest or scenes?
 
 
 

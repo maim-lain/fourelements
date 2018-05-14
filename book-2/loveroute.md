@@ -175,18 +175,31 @@ Stats at end of day 10:
 
 **Day 11:**  
 Morning:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Azula's room  
-
-<!---
-
-tower?
-buy top infantry + health boost
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Azula's room -> Peek -> Show me! -> Lick her clit  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Throne room -> Sit in -> #3 or #4 (+1 Slut) (+1 Public)  
 Night:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Farm -> Pregnant cows -> Milk -> Play with nipples -> Let her cum  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tavern -> Serve drinks  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Azula's room -> Watch  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Armory -> Training -> I am interested  
 
+---
+
+**Day 12:**  
+Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tower -> Yes  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Throne room -> #2 for hj scene or #4 for strapon scene (+1 Slut) (+1 Public)  
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Farm -> Pregnant cows -> Milk -> Play with nipples -> Let her cum  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tower  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Prison -> Be Blue Spirit -> Visit Iroh  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tavern -> Serve drinks  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Sleep  
+
+
+<!---
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Armory -> Troops -> Top ally -> Infantry  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Ally bonuses -> Buy both ally health bonuses
 
 
 Morning:
@@ -206,13 +219,6 @@ azula bj in mai's shop = battles = 7, morning room, night room.
 shower 4 = need bj completed
 
 
-go back to day 8 with this????? something going to happen explaining mei???
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tower -> Yes  
-night
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tower  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Prison -> Be Blue Spirit -> Visit Iroh  
-
-
 scenes: put names??
 1
 2
@@ -220,6 +226,8 @@ scenes: put names??
 4 (hj)
 
 quest - unlock farm (ingredient stuff)
+quest - tower
+quest - throne room
 
 
 battle = +1 aff

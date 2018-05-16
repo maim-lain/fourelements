@@ -20,8 +20,8 @@
 <br>
 
 # Game Mechanics
-## Tavern
-### Drink Recipes:
+## Tavern:
+#### Drink Recipes
 Drink | 1 | 2
 --- | ---: | ---:
 Wanker | Red | Blue
@@ -42,7 +42,8 @@ Coinpouch | Pink | Red
 <br>
 <br>
 
-## Training Requirements:
+## Training:
+#### Training Requirements
 Level | Requirement
 --- | ---
 6 | Battles = 6
@@ -52,9 +53,24 @@ Level | Requirement
 10 | .
 
 <br>
+
+- training asdf
+
+<br>
 <br>
 
-## Tactics:
+## Palace:
+#### Azulas room
+- asfasdf
+
+#### Throne room
+- asfsadfs
+
+<br>
+<br>
+
+## Tower:
+#### Tactics
 Level | Requirement
 --- | ---
 1 | Battles = 10

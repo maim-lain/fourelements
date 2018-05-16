@@ -19,9 +19,9 @@
 <br>
 <br>
 
-## Game Mechanics
-### Tavern
-#### Drink Recipes:
+# Game Mechanics
+## Tavern
+### Drink Recipes:
 Drink | 1 | 2
 --- | ---: | ---:
 Wanker | Red | Blue
@@ -33,6 +33,8 @@ Little tart | Blue | Yellow
 Old juice | Grey | Blue
 Coinpouch | Pink | Red
 
+<br>
+
 - When serving drinks if you use the in-game recipe book you will earn significantly less money on your tip. So if you don't remember a recipe, just tab out and look at the chart here so you don't lose any money.
 - You earn 45 coins per tip which means you get 135 coins per bartending shift. The exception to this is your first four shifts of serving drinks where you will only earn 24 coins per tip before being promoted.
 - Gambling on blackjack isn't an effective or time efficient way to make money. So unless you're a filthy casual who enjoys playing blackjack instead of [Pazaak](https://i.redd.it/xlvvruihjg9y.png), don't bother with it.
@@ -40,7 +42,7 @@ Coinpouch | Pink | Red
 <br>
 <br>
 
-### Training Requirements:
+## Training Requirements:
 Level | Requirement
 --- | ---
 6 | Battles = 6
@@ -52,7 +54,7 @@ Level | Requirement
 <br>
 <br>
 
-### Tactics:
+## Tactics:
 Level | Requirement
 --- | ---
 1 | Battles = 10
@@ -62,7 +64,7 @@ Level | Requirement
 <br>
 <br>
 
-### Farm Mechanics (simple version):
+## Farm Mechanics (simple version):
 - Use ```Ctrl``` to speed up farm visits/milking
 - Visit the farm every day at night
 - Milk used girls
@@ -73,7 +75,7 @@ Level | Requirement
 <br>
 <br>
 
-### Farm Mechanics:
+## Farm Mechanics:
 - How do I get more girls?
   - Once you unlock the farm every time you win a battle you get +1 fresh girl. You can also buy used girls for $250 at the shop but it's a waste of money, so never buy them.
 - How does pregnancy work?

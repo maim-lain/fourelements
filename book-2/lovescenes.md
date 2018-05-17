@@ -25,8 +25,8 @@ Shower (3/4) | Day | Bed (2/4)
 &nbsp; | &nbsp; | &nbsp;
 Handjob | Both | Battles = 7
 &nbsp; | &nbsp; | &nbsp;
-Bed (4/4) | Night | Battles = 9 & ursa_story
 Shower (4/4) | Day | Handjob
+Bed (4/4) | Night | Battles = 9 & ursa_story
 
 *during the scene you must choose: 'Cum on tits'
 
@@ -35,9 +35,9 @@ Shower (4/4) | Day | Handjob
 ### Mai Night Scenes:
 Scene | Requirements
 --- | :---:
-Kiss* | Complete Azula HJ
+Kiss* | Azula hj
 Boobs (1/2) | None
-Boobs 2/2 | None
+Boobs (2/2) | None
 
 *during the scene you must choose: 'I am interested'
 
@@ -51,13 +51,13 @@ Boobs 2/2 | None
 
 <!---
 
-### Azula Morning Shower Scenes:
+### Azula Morning Shower Scenes: this is best though right?????????????
 Scene | Requirements
 --- | ---
 1 | Battles = 4
 2 | Night 1
 3 | Night 2
-4 | Night 3 and ? 9? Battles = 7
+4 | Night 3 & Azula hj
 
 
 

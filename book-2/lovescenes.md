@@ -67,11 +67,18 @@ Boobs 2/2 | None
 
 <br>
 
-### Lia
+### Lia Scenes:
+- Complete the quest: Find a disguise
+- Go to the alleys
+- asdf
 
 <br>
 
-### Farm
+### Farm Scenes:
+- Complete the quest: Unlock the farm
+- Fresh girl scenes: 
+- Used girl scenes: 
+- Pregnant girl scenes: 
 
 <!---
 

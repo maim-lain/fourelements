@@ -11,30 +11,6 @@
 <br>
 <br>
 
-### Azula Night Scenes:
-Scene | Requirements
---- | ---
-Night (1/4) | Battles = 4
-Night (2/4)* | Shower 1
-Night (3/4) | Shower 2
-hj | Battles = 7
-4 | ?
-
-*during the scene you must choose: 'Cum on tits'
-
-<br>
-
-### Azula Morning Shower Scenes:
-Scene | Requirements
---- | ---
-1 | Battles = 4
-2 | Night 1
-3 | Night 2
-4 | Night 3 and ? 9? Battles = 7
-
-<br>
-<br>
-
 ### Azula Scenes:
 Scene | Time | Requirements
 --- | --- | ---
@@ -49,7 +25,7 @@ Shower (3/4) | Day | Bed (2/4)
 &nbsp; | &nbsp; | &nbsp;
 Handjob | Both | Battles = 7
 &nbsp; | &nbsp; | &nbsp;
-Bed (4/4) | Night | ?
+Bed (4/4) | Night | Battles = 9 & ursa_story
 Shower (4/4) | Day | Handjob
 
 *during the scene you must choose: 'Cum on tits'
@@ -75,20 +51,18 @@ Boobs 2/2 | None
 
 <!---
 
-shower 4 = need bj completed
+### Azula Morning Shower Scenes:
+Scene | Requirements
+--- | ---
+1 | Battles = 4
+2 | Night 1
+3 | Night 2
+4 | Night 3 and ? 9? Battles = 7
 
 
 
 lia free -> love route
 caught scenes still only on love route
-
-
-
-scenes: put names??
-1
-2
-3 (mast)
-4 (hj)
 
 
 

@@ -50,6 +50,15 @@ Morning shower #4 | ?
 
 <br>
 
+### Mai
+Scene | Requirements
+--- | ---
+Kiss | Complete Azula HJ -> Visit armory at night -> I am interested
+Boobs (1/2) | Visit armory at night
+Boobs 2/2 | Visit armory at night
+
+<br>
+
 ### Lia
 
 <br>

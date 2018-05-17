@@ -11,9 +11,10 @@
 <br>
 <br>
 
-### Azula Morning Shower Scenes:
+## Azula Scenes
+### Shower morning scenes:
 Scene | Requirements
---- | ---
+:---: | ---
 1/4 | Battles = 4
 2/4 | Bedroom 1/4
 3/4 | Bedroom 2/4
@@ -21,20 +22,20 @@ Scene | Requirements
 
 <br>
 
-### Azula Night Bedroom Scenes:
+### Bedroom night scenes:
 Scene | Requirements
---- | ---
-1 | Battles = 4
-2* | Shower 1
-3 | Shower 2
-4** | Battles = 9
+:---: | ---
+1/4 | Battles = 4
+2/4* | Shower 1
+3/4 | Shower 2
+4/4** | Battles = 9
 
 *during the scene you must choose: 'Cum on tits'  
 **must have completed ursa_story asdfasfdadf
 
 <br>
 
-### Azula Other Scenes:asdf
+### Other Scenes:asdf
 Scene | Requirements
 --- | ---
 Handjob | Battles = 7, Shower & Bed (3/4)
@@ -48,6 +49,10 @@ Scene | Correct choices
 2 | #2 (hj) or #4 (strap-on)
 3 |  
 4 |  
+
+<br>
+
+---
 
 <br>
 

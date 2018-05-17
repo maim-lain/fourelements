@@ -93,18 +93,18 @@ Tank | .
 ## Armory:
 - buy armor, soldiers, upgrade health
 - When you buy one of the four armors you are automatically given the health bonus it provides, however you can only have one set of armor equipped at a time. This means it's a good idea to only buy the best armor since previous armors don't give retroactive bonuses, i.e. they are a waste of money. If you save your money during the first few days of the game it's possible to buy the Dragon armor on day 5.
-- At night the armory is also the location of Mai's night scenes.
+- At night the armory is also the location of Mai's scenes.
 
 <br>
 <br>
 
 ## Farm Mechanics (simple version):
-- Use ```Ctrl``` to speed up farm visits/milking
-- Visit the farm every day at night
-- Milk used girls
-- Fuck girls who aren't pregnant
-- Pregnant -> Milk -> Nipples -> Let her cum
-- Leave farm
+- Use ```Ctrl``` to speed up farm visits/milking  
+#1 - Visit the farm every day at night  
+#2 - Milk used girls  
+#3 - Fuck girls who aren't pregnant  
+#4 - Pregnant -> Milk -> Nipples -> Let her cum  
+#5 - Leave farm
 
 <br>
 <br>

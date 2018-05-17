@@ -35,18 +35,24 @@ Scene | Requirements
 <br>
 <br>
 
-### Azula Scenes: ? and time column?
-Scene | Requirements
---- | ---
-Night (1/4) | Battles = 4
-Morning shower (1/4) | Battles = 4
-Night (2/4) | Shower (1/4) and during scene cum on tits
-Morning shower (2/4) | Night 1
-Night (3/4) | Shower #2
-Morning shower #3 | Night #2
-Handjob | Battles = 7
-Night #4 | ?
-Morning shower #4 | ?
+### Azula Scenes:
+Scene | Time | Requirements
+--- | --- | ---
+Bed (1/4) | Night | Battles = 4
+Shower (1/4) | Day | Battles = 4
+&nbsp; | &nbsp; | &nbsp;
+Bed (2/4)* | Night | Shower (1/4)
+Shower (2/4) | Day | Bed (1/4)
+&nbsp; | &nbsp; | &nbsp;
+Bed (3/4) | Night | Shower (2/4)
+Shower (3/4) | Day | Bed (2/4)
+&nbsp; | &nbsp; | &nbsp;
+Handjob | Both | Battles = 7
+&nbsp; | &nbsp; | &nbsp;
+Bed (4/4) | Night | ?
+Shower (4/4) | Day | Handjob
+
+*during the scene you must choose: 'Cum on tits'
 
 <br>
 
@@ -69,7 +75,6 @@ Boobs 2/2 | None
 
 <!---
 
-azula bj in mai's shop = battles = 7, morning room, night room.
 shower 4 = need bj completed
 
 

@@ -11,20 +11,20 @@
 <br>
 <br>
 
-## Azula Scenes
+## Azula Scenes:
 ### Shower morning scenes:
 Scene | Requirements
 :---: | ---
 1/4 | Battles = 4
-2/4 | Bedroom 1/4
-3/4 | Bedroom 2/4
+2/4 | Bedroom 1
+3/4 | Bedroom 2
 4/4 | Azula hj
 
 <br>
 
 ### Bedroom night scenes:
 Scene | Requirements
-:---: | ---
+--- | ---
 1/4 | Battles = 4
 2/4* | Shower 1
 3/4 | Shower 2
@@ -35,18 +35,18 @@ Scene | Requirements
 
 <br>
 
-### Other Scenes:asdf
+### Other scenes:asdf
 Scene | Requirements
 --- | ---
 Handjob | Battles = 7, Shower & Bed (3/4)
 
 <br>
 
-### Azula Throne Room Scenes:
-Scene | Correct choices
+### Throne room scenes:
+Scene | Correct choice #
 --- | ---
-1 | #3 or #4
-2 | #2 (hj) or #4 (strap-on)
+1 | 3 or 4
+2 | 2 (hj) or 4 (strap-on)
 3 |  
 4 |  
 
@@ -60,8 +60,8 @@ Scene | Correct choices
 Scene | Requirements
 --- | :---:
 Kiss* | Azula hj
-Boobs (1/2) | None
-Boobs (2/2) | None
+Boobs 1/2 | None
+Boobs 2/2 | None
 
 *during the scene you must choose: 'I am interested'
 

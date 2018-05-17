@@ -35,9 +35,15 @@ Coinpouch | Pink | Red
 
 <br>
 
+#### Serving drinks asdf
 - When serving drinks if you use the in-game recipe book you will earn significantly less money on your tip. So if you don't remember a recipe, just tab out and look at the chart here so you don't lose any money.
 - You earn 45 coins per tip which means you get 135 coins per bartending shift. The exception to this is your first four shifts of serving drinks where you will only earn 24 coins per tip before being promoted.
-- Gambling on blackjack isn't an effective or time efficient way to make money. So unless you're a filthy casual who enjoys playing blackjack instead of [Pazaak](https://i.redd.it/44vfzqdr63kz.jpg), don't bother with it.
+
+#### soldiers asdf
+- They are only meant to be talked to during certain quests.
+
+#### Gamble asdf
+- Gambling on blackjack isn't an effective or time efficient way to make money. So unless you're a filthy casual who enjoys playing blackjack instead of [Pazaak](https://i.redd.it/xlvvruihjg9y.png), don't bother with it.
 
 <br>
 <br>

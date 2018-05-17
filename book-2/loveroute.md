@@ -240,7 +240,6 @@ azula
 
 
 
-battle = +1 aff
 What?! Hell no!
 prison_start, it continues right below the above choice
 

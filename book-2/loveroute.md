@@ -190,11 +190,47 @@ Night:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tavern -> Serve drinks  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Sleep  
 
+---
+
+**Day 13:**  
+Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Armory -> Troops -> Top ally -> Infantry  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Ally bonuses -> Buy both ally health bonuses  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Leave city -> Bring it on! -> Auto  
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Farm -> Fresh cows -> Fuck  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Pregnant cows -> Milk -> Play with nipples -> Let her cum  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tower -> Look around  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tavern -> Serve drinks  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Armory -> Kiss her  
+
+---
+
+**Day 14:**  
+Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Leave city -> Bring it on! -> Auto  
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Farm -> Fresh cows -> Fuck  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Pregnant cows -> Milk -> Play with nipples -> Let her cum  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tavern -> Serve drinks  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Armory -> Kiss her  
+
+
 
 <!---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Armory -> Troops -> Top ally -> Infantry  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Ally bonuses -> Buy both ally health bonuses
+mai is scene
+
+mai kiss happens when complete azula hj.
+need to say interested at kiss
+Visit shop at night need ^, boob_action
+
+no more mai night scenes at armory.
+
+Kiss
+Boobs (1/2)
+Boobs 2/2
+
 
 
 Morning:
@@ -209,8 +245,6 @@ prison
 azula
 
 
-mai kiss happens when complete azula hj.
-mai thing a quest or scene?
 
 battle = +1 aff
 What?! Hell no!

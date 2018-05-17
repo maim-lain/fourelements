@@ -215,23 +215,16 @@ Night:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tavern -> Serve drinks  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Armory -> Kiss her  
 
+---
+
+**Day 15:**  
+Morning:  
+
+Night:  
+
 
 
 <!---
-
-mai is scene
-
-mai kiss happens when complete azula hj.
-need to say interested at kiss
-Visit shop at night need ^, boob_action
-
-no more mai night scenes at armory.
-
-Kiss
-Boobs (1/2)
-Boobs 2/2
-
-
 
 Morning:
 azula
@@ -240,9 +233,10 @@ training
 
 Night:
 farm
-tavern
 prison
+tavern
 azula
+(no more mai night scenes at armory.)
 
 
 

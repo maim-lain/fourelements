@@ -26,9 +26,19 @@ Shower (3/4) | Day | Bed (2/4)
 Handjob | Both | Battles = 7
 &nbsp; | &nbsp; | &nbsp;
 Shower (4/4) | Day | Handjob
-Bed (4/4) | Night | Battles = 9 & ursa_story
+Bed (4/4) | Night | Battles = 9
 
-*during the scene you must choose: 'Cum on tits'
+*during the scene you must choose: 'Cum on tits' ..... (bed 4/4 req = ursa_story)
+
+<br>
+
+### Azula Throne Room Scenes:
+Scene | Correct choices
+--- | :---:
+(1/?) | #3 or #4
+(2/?) | #2 (hj) or #4 (strap-on)
+(3/?) |  
+(4/?) |  
 
 <br>
 

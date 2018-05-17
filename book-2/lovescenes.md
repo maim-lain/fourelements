@@ -20,7 +20,7 @@ Night (3/4) | Shower 2
 hj | Battles = 7
 4 | ?
 
-*during the scene you must choose cum on tits
+*during the scene you must choose 'Cum on tits'
 
 <br>
 
@@ -50,12 +50,14 @@ Morning shower #4 | ?
 
 <br>
 
-### Mai
+### Mai Night Scenes:
 Scene | Requirements
 --- | ---
-Kiss | Complete Azula HJ -> Visit armory at night -> I am interested
-Boobs (1/2) | Visit armory at night
-Boobs 2/2 | Visit armory at night
+Kiss* | Complete Azula HJ
+Boobs (1/2) |  
+Boobs 2/2 |  
+
+*during the scene you must choose 'I am interested'
 
 <br>
 

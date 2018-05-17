@@ -24,14 +24,14 @@ Scene | Requirements
 
 ### Bedroom night scenes:
 Scene | Requirements
---- | ---
+:---: | ---
 1/4 | Battles = 4
 2/4* | Shower 1
 3/4 | Shower 2
-4/4** | Battles = 9
+4/4 | Battles = 9**
 
 *during the scene you must choose: 'Cum on tits'  
-**must have completed ursa_story asdfasfdadf
+**you must have also completed ursa_story asdfasfdadf
 
 <br>
 
@@ -39,12 +39,13 @@ Scene | Requirements
 Scene | Requirements
 --- | ---
 Handjob | Battles = 7, Shower & Bed (3/4)
+ursa_story? | ?
 
 <br>
 
 ### Throne room scenes:
 Scene | Correct choice #
---- | ---
+:---: | :---:
 1 | 3 or 4
 2 | 2 (hj) or 4 (strap-on)
 3 |  

@@ -36,7 +36,7 @@
 <br>
 
 ### Find a disguise:
-- Complete Night (2/4)*
+- Complete Azula bedroom scene 2/4
 - Armory -> No
 - Tavern -> Drink with soldiers
 - Palace -> Azula's room
@@ -54,5 +54,3 @@
 - incomplete
 
 <br>
-
-quest - throne room or are these scenes?

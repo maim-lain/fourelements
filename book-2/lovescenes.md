@@ -11,34 +11,38 @@
 <br>
 <br>
 
-### Azula Scenes:
-Scene | Time | Requirements
---- | --- | ---
-Bed (1/4) | Night | Battles = 4
-Shower (1/4) | Day | Battles = 4
-&nbsp; | &nbsp; | &nbsp;
-Bed (2/4)* | Night | Shower (1/4)
-Shower (2/4) | Day | Bed (1/4)
-&nbsp; | &nbsp; | &nbsp;
-Bed (3/4) | Night | Shower (2/4)
-Shower (3/4) | Day | Bed (2/4)
-&nbsp; | &nbsp; | &nbsp;
-Handjob | Both | Battles = 7
-&nbsp; | &nbsp; | &nbsp;
-Shower (4/4) | Day | Handjob
-Bed (4/4) | Night | Battles = 9
+### Azula Morning Shower Scenes:
+Scene | Requirements
+--- | ---
+1 | Battles = 4
+2 | Bedroom 1
+3 | Bedroom 2
+4 | Azula hj
 
-*during the scene you must choose: 'Cum on tits' ..... (bed 4/4 req = ursa_story)
+<br>
+
+### Azula Night Bedroom Scenes:
+Scene | Requirements
+--- | ---
+1 | Battles = 4
+2* | Shower 1
+3 | Shower 2
+4** | Battles = 9
+
+*during the scene you must choose: 'Cum on tits'  
+**must have completed ursa_story asdfasfdadf
+
+Handjob | Battles = 7, Shower 3, Bed 3
 
 <br>
 
 ### Azula Throne Room Scenes:
 Scene | Correct choices
---- | :---:
-(1/?) | #3 or #4
-(2/?) | #2 (hj) or #4 (strap-on)
-(3/?) |  
-(4/?) |  
+--- | ---
+1 | #3 or #4
+2 | #2 (hj) or #4 (strap-on)
+3 |  
+4 |  
 
 <br>
 
@@ -61,22 +65,8 @@ Boobs (2/2) | None
 
 <!---
 
-### Azula Morning Shower Scenes: this is best though right?????????????
-Scene | Requirements
---- | ---
-1 | Battles = 4
-2 | Night 1
-3 | Night 2
-4 | Night 3 & Azula hj
-
-
-
 lia free -> love route
 caught scenes still only on love route
-
-
-
-throne room - quest or scenes?
 
 
 

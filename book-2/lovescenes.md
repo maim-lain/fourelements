@@ -14,10 +14,10 @@
 ### Azula Morning Shower Scenes:
 Scene | Requirements
 --- | ---
-(1/4) | Battles = 4
-(2/4) | Bedroom 1
-(3/4) | Bedroom 2
-(4/4) | Azula hj
+1/4 | Battles = 4
+2/4 | Bedroom 1/4
+3/4 | Bedroom 2/4
+4/4 | Azula hj
 
 <br>
 

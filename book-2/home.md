@@ -33,8 +33,6 @@ Little tart | Blue | Yellow
 Old juice | Grey | Blue
 Coinpouch | Pink | Red
 
-<br>
-
 #### Serve drinks
 - When serving drinks if you use the in-game recipe book you will earn significantly less money on your tip. So if you don't remember a recipe, just tab out and look at the chart here so you don't lose any money.
 - You earn 45 coins per tip which means you get 135 coins per bartending shift. The exception to this is your first four shifts of serving drinks where you will only earn 24 coins per tip before being promoted.

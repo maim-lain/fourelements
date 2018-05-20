@@ -28,10 +28,9 @@ Scene | Requirements
 1/4 | Battles = 4
 2/4* | Shower 1
 3/4 | Shower 2
-4/4 | Battles = 9**
+4/4 | Ursa bj
 
 *during the scene you must choose: 'Cum on tits'  
-**you must have also completed ursa_story asdfasfdadf
 
 <br>
 
@@ -39,7 +38,7 @@ Scene | Requirements
 Scene | Requirements
 --- | ---
 Handjob | Battles = 7, Shower & Bed (3/4)
-ursa_story? | ?
+Ursa bj | Battles = 9
 
 <br>
 
@@ -82,6 +81,8 @@ Boobs 2/2 | None
 - Pregnant girl scenes: 
 
 <!---
+
+maybe add 'other scenes' to night scenes? since they happen at night?
 
 lia free -> love route
 caught scenes still only on love route

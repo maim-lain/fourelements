@@ -35,14 +35,14 @@ Coinpouch | Pink | Red
 
 <br>
 
-#### Serving drinks asdf
+#### Serve drinks
 - When serving drinks if you use the in-game recipe book you will earn significantly less money on your tip. So if you don't remember a recipe, just tab out and look at the chart here so you don't lose any money.
 - You earn 45 coins per tip which means you get 135 coins per bartending shift. The exception to this is your first four shifts of serving drinks where you will only earn 24 coins per tip before being promoted.
 
-#### soldiers asdf
+#### Drink with soliders
 - They are only meant to be talked to during certain quests.
 
-#### Gamble asdf
+#### Gamble vs Ty Lee
 - Gambling on blackjack isn't an effective or time efficient way to make money. So unless you're a filthy casual who enjoys playing blackjack instead of [Pazaak](https://i.redd.it/xlvvruihjg9y.png), don't bother with it.
 
 <br>
@@ -60,7 +60,7 @@ Level | Requirement
 
 <br>
 
-- training asdf
+- Training increases your firebending level. The higher your level, the more damage you do in battles.
 
 <br>
 <br>
@@ -77,6 +77,9 @@ Level | Requirement
 
 ## Tower:
 #### Tactics
+Level | Requirement
+--- | ---
+1 | Battles = 10
 
 <br>
 <br>
@@ -85,19 +88,19 @@ Level | Requirement
 #### Unit counters
 Unit | Strong vs.
 --- | ---
-Infantry | .
-Cavalry | .
-Tank | .
+Infantry | Tank
+Cavalry | Infantry
+Tank | Cavalry
 
 <br>
 
-- winning battle = +1 fresh girl and +1 azula affection (is this used?)
+- When you win a battle you will receive 30-50 coins and have a 50% chance to have a fresh girl added to the farm.
 
 <br>
 <br>
 
 ## Armory:
-- buy armor, soldiers, upgrade health
+- At the armory you can buy armor for yourself, two troops to help you in battle, and health bonuses for both troops.
 - When you buy one of the four armors you are automatically given the health bonus it provides, however you can only have one set of armor equipped at a time. This means it's a good idea to only buy the best armor since previous armors don't give retroactive bonuses, i.e. they are a waste of money. If you save your money during the first few days of the game it's possible to buy the Dragon armor on day 5.
 - At night the armory is also the location of Mai's scenes.
 

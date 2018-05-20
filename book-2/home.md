@@ -51,6 +51,8 @@ Coinpouch | Pink | Red
 ## Training:
 - Training increases your firebending level. The higher your level, the more damage you do in battles.
 
+<br>
+
 #### Training Requirements
 Level | Requirement
 --- | ---
@@ -83,16 +85,16 @@ Level | Requirement
 <br>
 
 ## Leave City (combat):
+- When you win a battle you will receive 30-50 coins and have a 50% chance to have a fresh girl added to the farm.
+
+<br>
+
 #### Unit counters
 Unit | Strong vs.
 --- | ---
 Infantry | Tank
 Cavalry | Infantry
 Tank | Cavalry
-
-<br>
-
-- When you win a battle you will receive 30-50 coins and have a 50% chance to have a fresh girl added to the farm.
 
 <br>
 <br>

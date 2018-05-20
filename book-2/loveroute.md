@@ -219,7 +219,7 @@ Night:
 
 **Day 15:**  
 Morning:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Leave city -> Bring it on! -> Auto  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Leave city -> Auto  
 Night:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Farm -> Pregnant cows -> Milk -> Play with nipples -> Let her cum  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Azula's room  
@@ -231,6 +231,7 @@ Night:
 **Day 16:**  
 Morning:  
 tower tactics
+Night:  
 
 
 <!---

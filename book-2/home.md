@@ -49,9 +49,7 @@ Coinpouch | Pink | Red
 <br>
 
 ## Training:
-- Training increases your firebending level. The higher your level, the more damage you do in battles.
-
-<br>
+- Training increases your firebending level. The higher your level, the more damage you do in battles.<br>
 
 #### Training Requirements
 Level | Requirement

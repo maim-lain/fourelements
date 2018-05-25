@@ -70,8 +70,8 @@ Boobs 2/2 | None
 ### Captain Rei Scenes:
 Scene | Requirements
 --- | :---:
-Strip | Tactics 1
-Blowjob | Tactics 2
+Strip | Tactics Lvl 1
+Blowjob | Tactics Lvl 2
 
 <br>
 

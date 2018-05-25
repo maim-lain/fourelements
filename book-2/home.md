@@ -73,9 +73,10 @@ Level | Requirement
 
 ## Tower:
 #### Tactics
-Level | Requirement
---- | ---
-1 | Battles = 10
+Level | Requirement | Answer
+--- | --- | ---
+1 | Battles = 10 | Blitz
+2 | None | 1 or 2
 
 <br>
 <br>

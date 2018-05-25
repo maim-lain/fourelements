@@ -230,7 +230,17 @@ Night:
 
 **Day 16:**  
 Morning:  
-tower tactics
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tower -> Tactics -> Tactics -> Make a strategic decision -> To see you naked -> Blitz the infantry  
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Farm -> Pregnant cows -> Milk -> Play with nipples -> Let her cum  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tavern -> Serve drinks  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Sleep  
+
+---
+
+**Day 17:**  
+Morning:  
+tactics 2 - 1 or 2.  
 Night:  
 
 
@@ -239,15 +249,13 @@ Night:
 Morning:
 azula
 tower
-training
+training - after tact 2
 
 Night:
 farm
 prison
 tavern
-azula
-(no more mai night scenes at armory.)
-
+azula - ? this done??
 
 
 What?! Hell no!

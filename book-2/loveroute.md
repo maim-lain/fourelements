@@ -12,7 +12,7 @@
 <br>
 
 ## Days 1-10
-If there's a choice that isn't mentioned in the walkthrough that means you can choose any option.
+If there is a choice or event that isn't mentioned in the walkthrough that means it's a choice that doesn't affect anything and you can choose any option.
 
 <br>
 
@@ -240,7 +240,7 @@ Night:
 
 **Day 17:**  
 Morning:  
-tactics 2 - 1 or 2.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tower -> Tactics ->  
 Night:  
 
 

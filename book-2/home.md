@@ -53,7 +53,7 @@ Training increases your firebending level. The higher your level, the more damag
 Level | Requirement
 --- | ---
 6 | Battles = 6
-7 | quest
+7 | Tactics = 2
 8 | .
 9 | .
 10 | .

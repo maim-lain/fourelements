@@ -67,6 +67,14 @@ Boobs 2/2 | None
 
 <br>
 
+### Captain Rei Scenes:
+Scene | Requirements
+--- | :---:
+Strip | Tactics 1
+Blowjob | Tactics 2
+
+<br>
+
 ### Lia Scenes:
 - Complete the quest: Find a disguise
 - Go to the alleys

@@ -38,10 +38,10 @@ Coinpouch | Pink | Red
 - You earn 45 coins per tip which means you get 135 coins per bartending shift. The exception to this is your first four shifts of serving drinks where you will only earn 24 coins per tip before being promoted.
 
 #### Drink with soliders
-- They are only meant to be talked to during certain quests.
+- The soldiers are only meant to be talked to during certain quests.
 
 #### Gamble vs Ty Lee
-- Gambling on blackjack isn't an effective or time efficient way to make money. So unless you're a filthy casual who enjoys playing blackjack instead of [Pazaak](https://i.redd.it/xlvvruihjg9y.png), don't bother with it.
+- Gambling on blackjack isn't an effective or time efficient way to make money, so there's not much reason to play it.
 
 <br>
 <br>
@@ -77,6 +77,7 @@ Level | Requirement | Answer
 --- | --- | ---
 1 | Battles = 10 | Blitz
 2 | None | 1 or 2
+3 | . | .
 
 <br>
 <br>

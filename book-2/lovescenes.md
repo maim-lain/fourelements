@@ -39,6 +39,7 @@ Ursa bj | Battles = 9
 ### Other scenes:asdf
 Scene | Requirements
 --- | ---
+&nbsp; | &nbsp;
 
 <br>
 
@@ -72,6 +73,8 @@ Scene | Requirements
 --- | :---:
 Strip | Tactics = 1
 Blowjob | Tactics = 2
+ride ? | Battles = 16, General?
+ride ? | rei_sex_done
 
 <br>
 
@@ -89,8 +92,6 @@ Blowjob | Tactics = 2
 - Pregnant girl scenes: 
 
 <!---
-
-maybe add 'other scenes' to night scenes? since they happen at night?
 
 lia free -> love route
 caught scenes still only on love route

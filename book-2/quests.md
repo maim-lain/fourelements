@@ -52,5 +52,6 @@
 - Complete the quest: Find a disguise
 - Prison -> Be Blue Spirit -> Visit Iroh
 - Firebending = 7
+- Go to Training
 
 <br>

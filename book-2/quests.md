@@ -44,13 +44,13 @@
 
 <br>
 
-### tower/rei/iroh thing:
+### Ember Island:
 - Battles = 3
 - Visit the Tower three times
 - Tower -> Yes
 - Meet her at the tower when it's night
 - Complete the quest: Find a disguise
 - Prison -> Be Blue Spirit -> Visit Iroh
-- incomplete
+- Firebending = 7
 
 <br>

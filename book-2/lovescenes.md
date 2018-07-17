@@ -18,7 +18,7 @@ Scene | Requirements
 1/4 | Battles = 4
 2/4 | Bedroom 1
 3/4 | Bedroom 2
-4/4 | Azula hj
+4/4 | Handjob
 
 <br>
 
@@ -28,7 +28,9 @@ Scene | Requirements
 1/4 | Battles = 4
 2/4* | Shower 1
 3/4 | Shower 2
-4/4 | Ursa bj
+Handjob | Battles = 7, Shower & Bed (3/4)
+Ursa bj | Battles = 9
+4/4 | None
 
 *during the scene you must choose: 'Cum on tits'  
 
@@ -37,8 +39,6 @@ Scene | Requirements
 ### Other scenes:asdf
 Scene | Requirements
 --- | ---
-Handjob | Battles = 7, Shower & Bed (3/4)
-Ursa bj | Battles = 9
 
 <br>
 

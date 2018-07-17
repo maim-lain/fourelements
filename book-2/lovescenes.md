@@ -44,12 +44,24 @@ Scene | Requirements
 <br>
 
 ### Throne room scenes:
-Scene | Correct choice #
+Scene | Choice #
 :---: | :---:
-1 | 3 or 4
-2 | 2 (hj) or 4 (strap-on)
-3 |  
-4 |  
+1/5 | 3 or 4
+2/5 | 2 (hj) or 4 (strap-on)
+3/5 | 2 or 4
+4/5 | 2 or 4
+5/5 | 2 or 4
+
+can repeat #5.
+for scenes 4 and 5 (probs do dom for 4, and none for 5):  
+if apublic <=7:  
+$ apub_outfit = "norm"
+
+if apublic >=8 and apublic <=14:  
+$ apub_outfit = "dom"
+
+if apublic >=15:  
+$ apub_outfit = "none"
 
 <br>
 

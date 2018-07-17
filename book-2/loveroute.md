@@ -279,8 +279,8 @@ Night:
 <br>
 
 Stats at end of day 20:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Battles = 7??  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Firebending = 6/10??  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Battles = 10  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Firebending = 7/10  
 
 ---
 
@@ -309,6 +309,21 @@ tavern
 tower
 azula - this done
 
+
+Ember:
+accept
+if azula_trunkred and ty_softpink and mai_softblack:
+
+do the mastur in closet
+later:
+                    menu:
+                        "outside":
+                            jump ember_shack_day1
+                        "check out island":
+                            jump emberday
+
+
+goes to map
 
 
 

@@ -274,31 +274,30 @@ Morning:
 
 ^ starts ember island
 
---------
-
 Night:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Farm -> Pregnant cows -> Milk -> Play with nipples -> Let her cum  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tavern -> Serve drinks  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Azula's room -> Watch  
 
 <br>
 
-Stats at end of day 10:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Battles = 7  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Firebending = 6/10  
+Stats at end of day 20:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Battles = 7??  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Firebending = 6/10??  
 
 ---
 
 <br>
 
-## Days 11-20
+## Days 21-30
 
-**Day 11:**  
+**Day 21:**  
 Morning:  
 
-
 <!---
-  
+
+these are only can do before ember island:
+tower stuff?
+throne room
+
+
 Morning:
 azula
 tower

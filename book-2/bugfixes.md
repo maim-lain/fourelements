@@ -1,4 +1,4 @@
-# Four Elements Trainer: Bug Fixes Patch
+# Four Elements Trainer: Bug Fix Patch
 [*\~My list of walkthroughs and when they'll be updated\~*](https://www.patreon.com/maimlain)
 
 <br>

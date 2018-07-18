@@ -30,7 +30,7 @@
 - Battles = 3
 - Tavern -> Drink with soldiers
 - Alleys -> Visit shady guy -> Root -> Deal
-- Tower (Received dragon scale)
+- Go to the Tower (Received dragon scale)
 - Farm -> Yes
 
 <br>

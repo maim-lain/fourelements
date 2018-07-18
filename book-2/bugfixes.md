@@ -16,7 +16,7 @@
 ## Changelog:
 - Fixed the tavern music bug at night in Book 2. If you're not OCD you probably didn't even notice it, but it was driving me crazy.
 - Fixed multiple bugs in the Book 2 love route throne room scenes. Many choices gave the wrong points, had the wrong name, etc.
-- Removed the wrinkles on Mai's face for the beach bj scene images. WHY did she have old person wrinkles on her face in this scene? =(
+- Removed the wrinkles on Mai's face in the images for the beach bj scene. WHY did she have old person wrinkles on her face in this scene? =(
 
 <br>
 

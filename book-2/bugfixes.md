@@ -1,4 +1,4 @@
-# Four Elements Trainer: Bug fixes patch
+# Four Elements Trainer: Bug Fixes Patch
 [*\~My list of walkthroughs and when they'll be updated\~*](https://www.patreon.com/maimlain)
 
 <br>
@@ -14,8 +14,8 @@
 <br>
 
 ## Changelog:
-- Fixed the tavern music bug at night in book 2. If you're not OCD you probably didn't even notice it, but it was driving me crazy.
-- Fixed multiple bugs in the book 2 love route throne room scenes. Many choices gave the wrong points, had the wrong name, etc.
+- Fixed the tavern music bug at night in Book 2. If you're not OCD you probably didn't even notice it, but it was driving me crazy.
+- Fixed multiple bugs in the Book 2 love route throne room scenes. Many choices gave the wrong points, had the wrong name, etc.
 
 <br>
 

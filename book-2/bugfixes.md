@@ -9,16 +9,19 @@
 
 <br>
 
-[**DOWNLOAD LINK (MEGA)**](https://i.lensdump.com/i/8Xp6ub.jpg)  
+[**DOWNLOAD LINK (MEGA)**](https://mega.nz/#!LHZ2FKpJ!pRxP5Iw0FQuw04-pRE2rB73UWOgdLSBYBXzM4_W-RXw)  
 
 <br>
 
-### Changelog:
-Fixed the tarven music bug at night in book 2. If you're not OCD you probably didn't even notice it, but it was driving me crazy. Also fixed multiple bugs in the book 2 love route throne room scenes. Many choices gave the wrong points, had the wrong name, etc.
+### Bug fixes:
+- Fixed the tavern music bug at night in book 2. If you're not OCD you probably didn't even notice it, but it was driving me crazy.
+- Fixed multiple bugs in the book 2 love route throne room scenes. Many choices gave the wrong points, had the wrong name, etc.
 
-If you know of any small bugs or easy possible QoL changes for **book 1 or the book 2 love route**, feel free to let me know. Just message @ me in [the thread.](https://f95zone.com/threads/four-elements-trainer-v0-6-13e-mity.730/)
+I did want to fix the broken ending and unplayable/hidden Katara scene in Book 1, but it'd take me so long to sift through all the spagetti code that I don't think it's even worth it.
+
+If you know of any small bugs or easy possible QoL changes for *Book 1 or the Book 2 love route*, feel free to let me know. Just message @ me in [the thread.](https://f95zone.com/threads/four-elements-trainer-v0-6-13e-mity.730/)
 
 <br>
 
 ### Installation:
-Just put it in your game folder. The patch will work with any game version, even future game updates.
+Just unzip and put it in your game folder. The patch will work with any game version, even future game updates.

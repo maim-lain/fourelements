@@ -270,11 +270,10 @@ Night:
 
 **Day 20:**  
 Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Farm -> Pregnant cows -> Milk -> Play with nipples -> Let her cum  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Training  
-
-^ starts ember island
-
 Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Leave city  
 
 <br>
 
@@ -286,10 +285,19 @@ Stats at end of day 20:
 
 <br>
 
-## Days 21-30
+## Ember Island
 
-**Day 21:**  
+**Day 1:**  
 Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Trunk (pink) -> Soft bag (black) -> Soft bag (pink) -> Accept  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Shack -> Masturbate  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Beach -> Mai's are better  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Shack -> Beach -> Beach -> Win at volleyball  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Of course -> Beach -> Search closer to the shore  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Beach -> Win at volleyball  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Questions: #3, #3, Pure as snow
+Night:  
+
 
 <!---
 
@@ -310,10 +318,6 @@ tower
 azula - this done
 
 
-Ember:
-accept
-if azula_trunkred and ty_softpink and mai_softblack:
-
 do the mastur in closet
 later:
                     menu:
@@ -321,9 +325,6 @@ later:
                             jump ember_shack_day1
                         "check out island":
                             jump emberday
-
-
-goes to map
 
 
 

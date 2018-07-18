@@ -9,13 +9,14 @@
 
 <br>
 
-[**DOWNLOAD LINK (MEGA)**](https://mega.nz/#!LHZ2FKpJ!pRxP5Iw0FQuw04-pRE2rB73UWOgdLSBYBXzM4_W-RXw)  
+[**DOWNLOAD LINK (MEGA)**](https://mega.nz/#!3DQRhKLJ!mDQAtMHDOwTOTOw26Bn_yYQBfY6j_ax465pbTwl3YtA)  
 
 <br>
 
 ## Changelog:
 - Fixed the tavern music bug at night in Book 2. If you're not OCD you probably didn't even notice it, but it was driving me crazy.
 - Fixed multiple bugs in the Book 2 love route throne room scenes. Many choices gave the wrong points, had the wrong name, etc.
+- Removed the wrinkles on Mai's face for the beach bj scene images. WHY did she have old person wrinkles on her face in this scene? =(
 
 <br>
 

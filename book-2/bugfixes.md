@@ -1,4 +1,4 @@
-# Four Elements Trainer - Bug Fix Patch
+# Four Elements Trainer: Bug fixes patch
 [*\~My list of walkthroughs and when they'll be updated\~*](https://www.patreon.com/maimlain)
 
 <br>
@@ -13,9 +13,11 @@
 
 <br>
 
-### Bug fixes:
+## Changelog:
 - Fixed the tavern music bug at night in book 2. If you're not OCD you probably didn't even notice it, but it was driving me crazy.
 - Fixed multiple bugs in the book 2 love route throne room scenes. Many choices gave the wrong points, had the wrong name, etc.
+
+<br>
 
 I did want to fix the broken ending and unplayable/hidden Katara scene in Book 1, but it'd take me so long to sift through all the spagetti code that I don't think it's even worth it.
 
@@ -23,5 +25,5 @@ If you know of any small bugs or easy possible QoL changes for *Book 1 or the Bo
 
 <br>
 
-### Installation:
+## Installation:
 Just unzip and put it in your game folder. The patch will work with any game version, even future game updates.

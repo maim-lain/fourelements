@@ -8,6 +8,10 @@
   - [Scene Guide](https://github.com/maim-lain/fourelements/blob/master/book-2/lovescenes.md)
 - [Quest Walkthroughs](https://github.com/maim-lain/fourelements/blob/master/book-2/quests.md)
 
+<br>
+
+[**Four Elements Trainer - Bug Fix Patch by Maim Lain**](https://github.com/maim-lain/fourelements/blob/master/book-2/bugfixes.md)
+
  <!---
 
 - [Slave Route Walkthrough](https://github.com/maim-lain/fourelements/blob/master/book-2/slaveroute.md)

@@ -25,5 +25,5 @@ If you know of any small bugs or easy possible QoL changes for *Book 1 or the Bo
 
 <br>
 
-## Installation:
+**Installation:**  
 Just unzip and put it in your game folder. The patch will work with any game version, even future game updates.

@@ -329,9 +329,9 @@ Morning:
 crab royale
 mansion - battle - win
 
-shady guy bug
-re-enable rollback
 
+To do: Fix bug that prevents you from using rollback after getting the island store
+To do: Add an option to skip all the crab battles
 
 
 love scenes:

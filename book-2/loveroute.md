@@ -311,13 +311,25 @@ Night:
 Morning:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Lift blanket  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Shack -> Shack  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Beach -> Find the girls -> Fish  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Beach -> Win at volleyball  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Optional: Shack, Beach, Jungle -> Middle house  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Gamble everything for Mai  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Save your game and have fun  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; I guess not
+
+# WHAT THE FUCK IS THIS INSANITY WITH THE CRABS?????
 
 
 
 
 
 <!---
+
+
+crab royale
+mansion - battle - win
+
+shady guy bug
 
 love scenes:
 ember island:

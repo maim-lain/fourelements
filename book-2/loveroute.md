@@ -317,6 +317,7 @@ Morning:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Save your game and have fun, if you lose reload your save  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; I guess not  
 
+<br>
 
 Crab Battles: (sigh, I'm going to *attempt* to explain this insanity)
 - You can punch crabs and fight them yourself, or catch crabs and have them fight against crabs for you
@@ -328,19 +329,19 @@ Crab Battles: (sigh, I'm going to *attempt* to explain this insanity)
     - You start with two pockets
     - You can buy more pockets and potions at the middle house from Shady
 
+<br>
 
-if normal crab -> punch
-if strong or legendary -> try to catch
-      if pockets full -> use crab
-if health > 30 -> fight another
-
-
-
+Your first battles:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Just punch normal crabs to death  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Just punch normal crabs to death  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Keep chosing 'Fight Another!' unless you or your crab's health is low  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; I got to level 16 before my Legendary crab's health got too low  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Crabble Royale - World Champ  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Beach -> Walk around beach  
 
 <!---
 
 
-crab royale
 mansion - battle - win
 
 

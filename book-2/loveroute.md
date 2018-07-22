@@ -325,19 +325,31 @@ Crab Battles: (sigh, I'm going to *attempt* to explain this insanity)
     - The first three can be caught on the beach, Unqiue crabs are given to you after winning tournaments
     - If you own a crab that is one of the first three types and it reaches 0 hp, it will run away forever
     - If you own a Unique crab and it reaches 0 hp, it will return to you after the battle is over
+- Using a crab's special attack is 99% of the time better than using Snip
 - Your # of pockets = the max # of crabs you can catch and carry
     - You start with two pockets
-    - You can buy more pockets and potions at the middle house from Shady
+- Potions can heal you or your crab, whichever is currently fighting
+- You can buy more pockets and potions at the middle house from Shady
 
 <br>
 
 Your first battles:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Just punch normal crabs to death  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Just punch normal crabs to death  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Keep chosing 'Fight Another!' unless you or your crab's health is low  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; I got to level 16 before my Legendary crab's health got too low  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Crabble Royale - World Champ  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Beach -> Walk around beach  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Buy potions from Shady at the middle house if you need them  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Left houses -> House path -> Snip snap, bitch  
+Battle vs Guard:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; This battle is super easy to win (+1 pockets) (Received Bessie)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Middle house -> (buy potions if you need them) -> Battle Shady Guy  
+Battle vs Shady:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; This battle is super easy until you fight his last crab (+1 pockets) (Received Ol' Musky)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Have at least two potions on you  
+Battle vs Fishtits:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; You'll likely need to use at least two potions for this fight (+1 pockets) (Received The Stank)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Beach -> Battle crabs until you're level 20  
 
 <!---
 

@@ -310,12 +310,28 @@ Night:
 **Day 2:**  
 Morning:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Lift blanket  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Shack -> Shack  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Beach -> Win at volleyball  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Optional: Shack, Beach, Jungle -> Middle house  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Shack -> Shack -> Beach -> Win at volleyball  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Optional: Shack, Beach, Jungle  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Middle house  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Gamble everything for Mai  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Save your game and have fun  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; I guess not
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Save your game and have fun, if you lose reload your save  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; I guess not  
+
+Crab Battles: (sigh, I'm going to *attempt* to explain this insanity)  
+- You can punch crabs and fight them yourself, or catch crabs and have them fight against crabs for you
+- There are four types of crabs: Normal, Strong, Legendary, and Unique
+    - The first three can be caught on the beach, Unqiue crabs are given to you after winning tournaments
+    - If you own a crab that is one of the first three types and it reaches 0 hp, it will run away forever
+    - If you own a Unique crab and it reaches 0 hp, it will return to you after the battle is over
+- Your # of pockets = the max # of crabs you can catch and carry
+    - You start with two pockets
+    - You can buy more pockets and potions at the middle house from Shady
+
+if normal crab -> punch
+if strong or legendary -> try to catch
+      if pockets full -> use crab
+if health > 30 -> fight another
+
 
 # WHAT THE FUCK IS THIS INSANITY WITH THE CRABS?????
 
@@ -356,14 +372,6 @@ tavern
 tower
 azula - this done
 
-
-do the mastur in closet
-later:
-                    menu:
-                        "outside":
-                            jump ember_shack_day1
-                        "check out island":
-                            jump emberday
 
 
 

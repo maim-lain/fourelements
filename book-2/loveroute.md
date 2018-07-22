@@ -317,7 +317,8 @@ Morning:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Save your game and have fun, if you lose reload your save  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; I guess not  
 
-Crab Battles: (sigh, I'm going to *attempt* to explain this insanity)  
+
+Crab Battles: (sigh, I'm going to *attempt* to explain this insanity)
 - You can punch crabs and fight them yourself, or catch crabs and have them fight against crabs for you
 - There are four types of crabs: Normal, Strong, Legendary, and Unique
     - The first three can be caught on the beach, Unqiue crabs are given to you after winning tournaments
@@ -327,14 +328,11 @@ Crab Battles: (sigh, I'm going to *attempt* to explain this insanity)
     - You start with two pockets
     - You can buy more pockets and potions at the middle house from Shady
 
+
 if normal crab -> punch
 if strong or legendary -> try to catch
       if pockets full -> use crab
 if health > 30 -> fight another
-
-
-# WHAT THE FUCK IS THIS INSANITY WITH THE CRABS?????
-
 
 
 

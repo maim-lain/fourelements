@@ -317,6 +317,8 @@ Morning:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Save your game and have fun, if you lose reload your save  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; I guess not  
 
+<br>
+
 Crab Battles: (sigh, I'm going to *attempt* to explain this insanity)
 - You can punch crabs and fight them yourself, or catch crabs and have them fight against crabs for you
 - There are four types of crabs: Normal, Strong, Legendary, and Unique
@@ -343,9 +345,9 @@ Battle vs Guard:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Middle house -> (buy potions if you need them) -> Battle Shady Guy  
 Battle vs Shady:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; This battle is super easy until you fight his last crab (+1 pockets) (Received Ol' Musky)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Have at least two potions on you  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Have at least two potions on you -> Sea  
 Battle vs Fishtits:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; You'll likely need to use at least two potions for this fight (+1 pockets) (Received The Stank)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; You'll probably need to use two potions for this fight (+1 pockets) (Received The Stank)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Beach -> Battle crabs until you're level 20  
 
 Back to the actual game:  

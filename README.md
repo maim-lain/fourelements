@@ -7,3 +7,5 @@
 [Book 1: Water](https://github.com/maim-lain/fourelements/blob/master/book-1/home.md)  
 
 [Book 2: Fire](https://github.com/maim-lain/fourelements/blob/master/book-2/home.md)  
+
+[Book 3 - Obsidian Locations](https://github.com/maim-lain/fourelements/blob/master/obsidian.md)  

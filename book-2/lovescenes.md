@@ -69,6 +69,11 @@ $ apub_outfit = "none"
 
 <br>
 
+### Ember Island Scenes:
+If you follow the walkthrough you'll get all the Ember Island scenes/content.
+
+<br>
+
 ### Mai Night Scenes:
 Scene | Requirements
 --- | :---:

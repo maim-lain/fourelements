@@ -375,6 +375,7 @@ Morning:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Shack -> Shack -> Beach  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Let Mai tell them  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Truth will give a scene focusing on one girl of your choice, Dare will give a scene with all three  
+Night:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Beach -> Shack -> Dock -> Reveal yourself  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Shack -> Go to bed -> Ty Lee's room  
 

@@ -11,16 +11,16 @@
 ## Obsidian Locations:
 
 ### Tavern:
-Warning: Using all the obsidian before upgrading the tavern will prevent you from accepting quest 7!<br>
-- Reward for quest 3 - Firebender Attack
-- Reward for quest 7 - A Peck of Knowledge
+Warning: Using all the obsidian before upgrading the tavern will prevent you from accepting Quest 7!<br>
+- Rewarded for completing Quest 3: Firebender Attack
+- Rewarded for completing Quest 7: A Peck of Knowledge
 
 ### Maze:
-- Follow these steps from the entrance: up, up, right, right; Fight the enemy that spawns and then open the chest
-- One obsidian is given to you by Skye when you meet her in the dungeon
-- One is found the first time you hide in the wooden crate with the hole the guards use for fisting
-- Two are in the skull you can find in one of the maze's corners
-- Two obsidians are found jizzing on the headless statue's tits in the last section of the maze
+- One obsidian is given to you by Skye when you meet her in the maze
+- Follow these steps from the entrance: up, up, right, right; Fight the enemy that spawns then open the chest
+- One is found the first time you hide in the wooden crate with the hole the guards use for lewdness
+- Two are in the skull at one of the maze's corners
+- Two obsidians are found by jizzing on the headless statue's tits in the last section of the maze
 
 <br>
 <br>

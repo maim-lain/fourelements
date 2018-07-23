@@ -317,8 +317,6 @@ Morning:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Save your game and have fun, if you lose reload your save  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; I guess not  
 
-<br>
-
 Crab Battles: (sigh, I'm going to *attempt* to explain this insanity)
 - You can punch crabs and fight them yourself, or catch crabs and have them fight against crabs for you
 - There are four types of crabs: Normal, Strong, Legendary, and Unique
@@ -331,16 +329,15 @@ Crab Battles: (sigh, I'm going to *attempt* to explain this insanity)
 - Potions can heal you or your crab, whichever is currently fighting
 - You can buy more pockets and potions at the middle house from Shady
 
-<br>
-
 Your first battles:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Just punch normal crabs to death  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Keep chosing 'Fight Another!' unless you or your crab's health is low  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; I got to level 16 before my Legendary crab's health got too low  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Catch Strong or Legendary crabs (ideally catch two Legendary crabs)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Keep chosing 'Fight Another!' unless you or your Legendary crab's health is low  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; I got to level 16 before my Legendary crab's health got low  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Crabble Royale - World Champ  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Beach -> Walk around beach  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Buy potions from Shady at the middle house if you need them  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Left houses -> House path -> Snip snap, bitch  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Left houses -> House path -> Snip snap, bitch (lol)  
 Battle vs Guard:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; This battle is super easy to win (+1 pockets) (Received Bessie)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Middle house -> (buy potions if you need them) -> Battle Shady Guy  
@@ -351,15 +348,32 @@ Battle vs Fishtits:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; You'll likely need to use at least two potions for this fight (+1 pockets) (Received The Stank)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Beach -> Battle crabs until you're level 20  
 
+Back to the actual game:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Shack -> Shack  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Shack -> Dock -> Get in boat -> Ocean -> Money  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Left houses -> House path  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Dock -> Feather (Rest)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Shack -> Mirror (Twin)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Shop -> Map (Where)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Get crunk! -> Solve final riddle (Flames)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Choose any for the rest of today's choices  
+
+---
+
+**Day 3:**  
+Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Middle house -> Blind man's bluff  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Have at least one potion  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Shack -> Shack -> I want your crabs (+1 pocket)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Beach -> Crab battle -> Quit after one win  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Beach -> Visit the girls  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Left houses -> Forest path  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Left houses -> House path -> Return to Azula (+1 firebending)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Beach -> Visit the girls -> Volleyball -> Win 3 times  
+
+
+
 <!---
-
-
-mansion - battle - win
-
-
-To do: Fix bug that prevents you from using rollback after getting the island store
-To do: Add an option to skip all the crab battles
-
 
 love scenes:
 ember island:
@@ -368,8 +382,8 @@ literally just follow the walkthrough to get every scene.
 
 
 these are only can do before ember island:
-tower stuff?
-throne room
+    tower stuff?
+    throne room
 
 
 Morning:

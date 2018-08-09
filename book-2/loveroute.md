@@ -485,19 +485,48 @@ Night:
 Morning:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Armory -> Exit  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Leave city -> Auto  
-
 Night:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Alleys -> What are you going to do?  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Armory -> Look around -> Look in -> Go ahead  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Alleys -> Sell slave girl  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Sleep  
 
+---
 
+**Day 29:**  
+Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Azula's room -> Compliment (0/3) -> (1/3)  
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Armory -> Peek -> Stay -> Choose all options -> Amazing  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Stay naked -> Go for it  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Sleep  
+
+---
+
+**Day 30:**  
+Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Azula's room -> Compliment (1/3) -> (2/3)  
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Sleep  
+
+<br>
+
+Stats at end of day 30:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Battles = 15  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Firebending = 8/10  
 
 <!---
 
+---
+
+<br>
+
+## Days 11-20
+
+**Day 11:**  
+
 Morning:
-battle, throne
+battle, throne, azula
 
 Night:
 tower

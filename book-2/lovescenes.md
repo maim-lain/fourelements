@@ -123,10 +123,7 @@ ride ? | rei_sex_done
 
 #### Farm scenes:
 - Complete the quest: Unlock the farm
-- Fresh girl scenes: 
-- Used girl scenes: 
-- Pregnant girl scenes: 
-
+- Fresh girls, used girls, and pregnant girls all give different scenes and interactions
 
 <!---
 

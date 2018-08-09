@@ -108,7 +108,7 @@ ride ? | rei_sex_done
 
 <br>
 
-#### Ursa puzzle box images
+#### Ursa puzzle box images:
 - Find the puzzle box at Ember Island then open it in your room at the palace
 
 <br>

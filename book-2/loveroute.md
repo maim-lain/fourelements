@@ -401,8 +401,11 @@ Morning:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Your room -> Look at PornLove42  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Armory -> Exit  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Azula's room  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Alleys -> Watch her masturbate  
+
 Night:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Leave city  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Optional: Tavern -> Gamble vs Ty Lee -> $100 -> Play until you win  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tavern -> Serve drinks  
 
 
 <!---
@@ -428,6 +431,7 @@ azula - this done
 Scenes:
 - (iroh) pron magazine
 - ursa puzzlebox images
+Alleys -> Watch her masturbate
 
 
 

@@ -67,10 +67,10 @@ Level | Requirement
 
 ## Palace:
 #### Azulas room
-- morning for shower scenes and night for bedroom scenes asdf
+- Her room is the location of many events and scenes, and is also a place you will frequently visit while doing quests.
 
 #### Throne room
-- throne scenes asdf
+- The throne room is available during the day and is the location of the Azula throne rooms scenes.
 
 <br>
 <br>

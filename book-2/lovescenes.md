@@ -31,6 +31,7 @@ Scene | Requirements
 Handjob | Battles = 7, Shower & Bed (3/4)
 Ursa bj | Battles = 9
 4/4 | None
+Tit fuck | Return from Ember Island
 
 *during the scene you must choose: 'Cum on tits'  
 
@@ -69,12 +70,12 @@ $ apub_outfit = "none"
 
 <br>
 
-### Ember Island Scenes:
+### Ember Island scenes:
 If you follow the walkthrough you'll get all the Ember Island scenes/content.
 
 <br>
 
-### Mai Night Scenes:
+### Mai night scenes:
 Scene | Requirements
 --- | :---:
 Kiss* | Azula hj
@@ -85,7 +86,7 @@ Boobs 2/2 | None
 
 <br>
 
-### Captain Rei Scenes:
+### Captain Rei scenes:
 Scene | Requirements
 --- | :---:
 Strip | Tactics = 1
@@ -95,18 +96,29 @@ ride ? | rei_sex_done
 
 <br>
 
-### Lia Scenes:
+#### Lia scenes:
 - Complete the quest: Find a disguise
 - Go to the alleys
-- asdf
 
 <br>
 
-### Farm Scenes:
+#### Porn magazine:
+- Win all the crab battles on Ember Island then win against Iroh at the prison
+- When you go to your room at the place you can choose to look at the magazine
+
+<br>
+
+#### Ursa puzzle box images
+- Find the puzzle box at Ember Island then open it in your room at the palace
+
+<br>
+
+#### Farm scenes:
 - Complete the quest: Unlock the farm
 - Fresh girl scenes: 
 - Used girl scenes: 
 - Pregnant girl scenes: 
+
 
 <!---
 

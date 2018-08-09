@@ -8,10 +8,15 @@
 <br>
 <br>
 
+#### Warning:
+- Make sure your game version is at least 0.6.13e, otherwise you won't be able to get all the obsidian.
+- Using all the obsidian before upgrading the tavern will prevent you from accepting Quest 7!
+
+<br>
+
 ## Obsidian Locations:
 
-### Tavern:
-Warning: Using all the obsidian before upgrading the tavern will prevent you from accepting Quest 7!<br>
+### Tavern Quests:
 - Rewarded for completing Quest 3: Firebender Attack
 - Rewarded for completing Quest 7: A Peck of Knowledge
 

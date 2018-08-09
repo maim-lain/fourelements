@@ -32,3 +32,9 @@
 <br>
 
 Original guide made by [random.guy](https://f95zone.com/threads/four-elements-trainer-v0-6-13e-mity.730/page-230#post-871090)
+
+<!--
+
+Fix tavern bug thing by finding last logical thing to upgrade, then have requirement that tavern is upgraded before that can be
+
+-->

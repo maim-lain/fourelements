@@ -11,7 +11,7 @@
 
 #### Warning:
 - Make sure your game version is at least 0.6.13e, otherwise you won't be able to get all the obsidian.
-- Using all the obsidian before upgrading the tavern will prevent you from accepting Quest 7!
+- The tavern must be fully upgraded before you complete all the hospital upgrades, otherwise you will be unable to accept Quest 7!
 
 <br>
 

@@ -61,6 +61,8 @@ $ apub_outfit = "none"
 Scene | Requirements
 --- | ---
 Compliment 1/3 | Azula+Mai lick
+Compliment 2/3 | None
+Compliment 3/3 | None
 
 <br>
 
@@ -79,7 +81,8 @@ Scene | Requirements
 Kiss* | Azula hj
 Boobs 1/2 | None
 Boobs 2/2 | None
-Azula lick | Return from EI
+Azula lick | Ember Island
+Maikup sex | None
 
 *during the scene you must choose: 'I am interested'
 

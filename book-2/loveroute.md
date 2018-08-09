@@ -407,10 +407,22 @@ Night:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Optional: Tavern -> Gamble vs Ty Lee -> $100 -> Play until you win  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tavern -> Serve drinks  
 
+---
+
+**Day 21:**  
+Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; .  
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Farm -> Pregnant cows -> Milk -> Play with nipples -> Let her cum  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tavern -> Serve drinks  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; .  
+
+---
+
 
 <!---
 
-do allye and throne scenes during day, tavern at night till ty lee quest done.
+do alley and throne scenes during day, tavern at night till ty lee quest done.
 
 
 Morning:
@@ -425,13 +437,6 @@ tower
 azula - this done
 
 
-
-Scenes:
-- (iroh) pron magazine
-- ursa puzzlebox images
-Alleys -> Watch her masturbate
-
-night - tit fug -> finsh ember island
 
 
 slave route:

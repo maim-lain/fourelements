@@ -430,21 +430,76 @@ Night:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tavern -> Serve drinks  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Sleep  
 
+---
+
+**Day 23:**  
+Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Throne room -> #2 or #4 (+1 Slut) (+1 Public)  
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Farm -> Pregnant cows -> Milk -> Play with nipples -> Let her cum  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tavern -> Serve drinks  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Sleep  
+
+---
+
+**Day 24:**  
+Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Leave city -> Auto  
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Farm -> Used -> Talk -> Milk -> Play with nipples -> Let her cum -> Fuck  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Pregnant -> Milk -> Play with nipples -> Let her cum  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tavern -> Serve drinks  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tavern -> Alleys -> Help  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Sleep  
+
+---
+
+**Day 25:**  
+Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Armory -> Quest items -> Buy slave girl  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Leave city -> Bring it on! -> Auto  
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Farm -> Used -> Talk -> Milk -> Fuck  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Pregnant -> Milk -> Play with nipples -> Let her cum  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Sleep  
+
+---
+
+**Day 26:**  
+Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Leave city -> Auto  
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Sleep  
+
+---
+
+**Day 27:**  
+Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Leave city -> Auto  
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Sleep  
+
+---
+
+**Day 28:**  
+Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Armory -> Exit  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Leave city -> Auto  
+
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Alleys -> What are you going to do?  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Armory -> Look around -> Look in -> Go ahead  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Alleys -> Sell slave girl  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Sleep  
+
 
 
 <!---
 
-do throne scenes during day, tavern at night till ty lee quest done.
-do another battle during day too if need
-
 Morning:
-azula
-tower
-training
+battle, throne
 
 Night:
-farm
-tavern
 tower
 azula - this done
 

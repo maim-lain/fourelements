@@ -71,7 +71,7 @@ $ apub_outfit = "none"
 <br>
 
 ### Ember Island scenes:
-If you follow the walkthrough you'll get all the Ember Island scenes/content.
+- If you follow the walkthrough you'll get all the Ember Island scenes/content.
 
 <br>
 

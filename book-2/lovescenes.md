@@ -47,13 +47,12 @@ Scene | Requirements
 ### Throne room scenes:
 Scene | Choice #
 :---: | :---:
-1/5 | 3 or 4
-2/5 | 2 (hj) or 4 (strap-on)
-3/5 | 2 or 4
-4/5 | 2 or 4
-5/5 | 2 or 4
+1/4 | 3 or 4
+2/4 | 2 (hj) or 4 (strap-on)
+3/4 | 2 or 4
+4/4 | 2 or 4
 
-can repeat #5.  
+can repeat #4.  
 if apublic <=7:  
 $ apub_outfit = "norm"
 

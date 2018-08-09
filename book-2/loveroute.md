@@ -410,9 +410,7 @@ Night:
 
 <!---
 
-these are only can do before ember island:
-    tower stuff?
-    throne room
+do allye and throne scenes during day, tavern at night till ty lee quest done.
 
 
 Morning:
@@ -433,6 +431,7 @@ Scenes:
 - ursa puzzlebox images
 Alleys -> Watch her masturbate
 
+night - tit fug -> finsh ember island
 
 
 slave route:

@@ -79,6 +79,7 @@ Scene | Requirements
 Kiss* | Azula hj
 Boobs 1/2 | None
 Boobs 2/2 | None
+Azula lick | Return from EI
 
 *during the scene you must choose: 'I am interested'
 

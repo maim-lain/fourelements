@@ -37,13 +37,6 @@ Tit fuck | Return from Ember Island
 
 <br>
 
-### Other scenes:asdf
-Scene | Requirements
---- | ---
-&nbsp; | &nbsp;
-
-<br>
-
 ### Throne room scenes:
 Scene | Choice #
 :---: | :---:
@@ -61,6 +54,13 @@ $ apub_outfit = "dom"
 
 if apublic >=15:  
 $ apub_outfit = "none"
+
+<br>
+
+### Day scenes?:
+Scene | Requirements
+--- | ---
+Compliment 1/3 | Azula+Mai lick
 
 <br>
 

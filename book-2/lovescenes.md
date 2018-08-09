@@ -98,7 +98,8 @@ ride ? | rei_sex_done
 
 #### Lia scenes:
 - Complete the quest: Find a disguise
-- Go to the alleys
+- Go to the armory and from the gifts buy a cucumber and banana
+- Go to the alleys during the day
 
 <br>
 

@@ -515,15 +515,15 @@ Stats at end of day 30:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Battles = 15  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Firebending = 8/10  
 
-<!---
-
 ---
 
 <br>
 
-## Days 11-20
+## Days 31-40
 
-**Day 11:**  
+**Day 31:**  
+
+<!---
 
 Morning:
 battle, throne, azula

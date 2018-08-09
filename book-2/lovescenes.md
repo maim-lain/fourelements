@@ -116,6 +116,11 @@ ride ? | rei_sex_done
 
 <br>
 
+#### Ty Lee blackjack flash:
+- When you gamble 100 coins and win against Ty Lee at blackjack in the tavern she will flash her tits for you
+
+<br>
+
 #### Farm scenes:
 - Complete the quest: Unlock the farm
 - Fresh girl scenes: 

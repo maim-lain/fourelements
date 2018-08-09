@@ -393,7 +393,8 @@ Morning:
 ---
 
 <br>
-<br>
+
+## Fire Nation Capital
 
 **Day 20:**  
 Morning:  

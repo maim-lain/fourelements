@@ -53,8 +53,7 @@ Scene | Choice #
 4/5 | 2 or 4
 5/5 | 2 or 4
 
-can repeat #5.
-for scenes 4 and 5 (probs do dom for 4, and none for 5):  
+can repeat #5.  
 if apublic <=7:  
 $ apub_outfit = "norm"
 

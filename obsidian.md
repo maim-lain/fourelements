@@ -26,7 +26,7 @@
 - Follow these steps from the entrance: up, up, right, right; Fight the enemy that spawns then open the chest
 - One is found the first time you hide in the wooden crate with the hole the guards use for lewdness
 - Two are in the skull at one of the maze's corners
-- Two obsidians are found by jizzing on the headless statue's tits in the last section of the maze
+- Two are found by jizzing on the headless statue's tits in the last section of the maze
 
 <br>
 <br>

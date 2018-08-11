@@ -160,7 +160,7 @@ Night:
 
 Stats at end of day 10:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Battles = 7  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Firebending = 6/10  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Firebending = 6/8  
 
 ---
 
@@ -279,7 +279,7 @@ Night:
 
 Stats at end of day 20:  
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Battles = 10  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Firebending = 7/10  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Firebending = 7/8  
 
 ---
 
@@ -513,7 +513,7 @@ Night:
 
 Stats at end of day 30:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Battles = 15  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Firebending = 8/10  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Firebending = 8/8  
 
 ---
 

@@ -540,6 +540,7 @@ Night:
 **Day 33:**  
 Morning:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tower -> Want to go for a ride?  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Azula's room -> Compliment (1/3) -> (2/3)  
 Night:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Sleep  
 
@@ -547,26 +548,29 @@ Night:
 
 **Day 34:**  
 Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Azula's room -> Compliment (2/3) -> (3/3)  
 
 ---
 
-
+**Day 35:**  
 Morning:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Azula's room -> Compliment (1/3) -> (2/3)  
-Night:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Sleep  
-
-Morning:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Azula's room -> Compliment (2/3) -> (3/3)  
-Night:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Sleep  
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Azula's room -> Not much -> Let's get out  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Choice all the nice options -> Fuck yeah!  
 
+---
+
+**Day 36:**  
 Morning:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Azula's room -> Get naughty  
 
+---
+
+**Day 37:**  
+Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Azula's room -> Not much  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tower -> Prison  
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Sleep  
 
 <!---
 

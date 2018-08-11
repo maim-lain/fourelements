@@ -59,8 +59,6 @@ Level | Requirement
 6 | Battles = 6
 7 | Tactics = 2
 8 | Ember Island
-9 | .
-10 | .
 
 <br>
 <br>

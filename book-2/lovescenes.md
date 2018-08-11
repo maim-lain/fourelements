@@ -60,9 +60,11 @@ $ apub_outfit = "none"
 ### Day scenes?:
 Scene | Requirements
 --- | ---
-Compliment 1/3 | Azula+Mai lick
+Compliment 1/3 | Azula + Mai
 Compliment 2/3 | None
 Compliment 3/3 | None
+Blowjob | None
+Lick Azula | Compliment 3/3
 
 <br>
 
@@ -81,7 +83,7 @@ Scene | Requirements
 Kiss* | Azula hj
 Boobs 1/2 | None
 Boobs 2/2 | None
-Azula lick | Ember Island
+Azula + Mai | Ember Island
 Maikup sex | None
 
 *during the scene you must choose: 'I am interested'
@@ -93,8 +95,8 @@ Scene | Requirements
 --- | :---:
 Strip | Tactics = 1
 Blowjob | Tactics = 2
-ride ? | Battles = 16, General?
-ride ? | rei_sex_done
+Orders | Battles = 16
+Ride | Battles = 16
 
 <br>
 

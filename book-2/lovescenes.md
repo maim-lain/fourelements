@@ -43,21 +43,13 @@ Scene | Choice #
 1/4 | 3 or 4
 2/4 | 2 (hj) or 4 (strap-on)
 3/4 | 2 or 4
-4/4 | 2 or 4
+4/4* | 2 or 4
 
-can repeat #4.  
-if apublic <=7:  
-$ apub_outfit = "norm"
-
-if apublic >=8 and apublic <=14:  
-$ apub_outfit = "dom"
-
-if apublic >=15:  
-$ apub_outfit = "none"
+*this scene is repeatable, and if Azula's Public level is at least 8 she will wear a dom outfit in the scene, and if it is at least 15 she won't wear any clothes
 
 <br>
 
-### Day scenes?:
+### Return from Ember Island day scenes:
 Scene | Requirements
 --- | ---
 Compliment 1/3 | Azula + Mai
@@ -102,8 +94,10 @@ Ride | Battles = 16
 
 #### Lia scenes:
 - Complete the quest: Find a disguise
-- Go to the armory and from the gifts buy a cucumber and banana
-- Go to the alleys during the day
+- If you let her go free:
+    - Go to the armory and from the gifts buy a cucumber and banana
+    - Go to the alleys during the day
+- If you sent her to prison she will have different scenes
 
 <br>
 
@@ -126,15 +120,3 @@ Ride | Battles = 16
 #### Farm scenes:
 - Complete the quest: Unlock the farm
 - Fresh girls, used girls, and pregnant girls all give different scenes and interactions
-
-<!---
-
-lia free -> love route
-caught scenes still only on love route
-
-
-
-zsleep
-zshower
-
---->

@@ -120,3 +120,9 @@ Ride | Battles = 16
 #### Farm scenes:
 - Complete the quest: Unlock the farm
 - Fresh girls, used girls, and pregnant girls all give different scenes and interactions
+
+<br>
+
+#### Endings
+- There are three different endings and each of them has unqiue scenes and a unique conclusion for the second book. I won't say what the endings or scenes are since I don't want to spoil anything.
+- However, you can optionally impregnate Azula or Mai and see them pregnant during the ending. During the ending you must have sex and choose to cum inside.

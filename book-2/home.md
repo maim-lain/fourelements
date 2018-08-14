@@ -6,6 +6,8 @@
 - [Choose Book](https://github.com/maim-lain/fourelements/blob/master/README.md)
 - [Love Route Walkthrough](https://github.com/maim-lain/fourelements/blob/master/book-2/loveroute.md)
   - [Scene Guide](https://github.com/maim-lain/fourelements/blob/master/book-2/lovescenes.md)
+- Slave Route Walkthrough
+  - Scene Guide
 - [Quest Walkthroughs](https://github.com/maim-lain/fourelements/blob/master/book-2/quests.md)
 
 <br>

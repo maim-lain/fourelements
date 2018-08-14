@@ -65,7 +65,7 @@ Lick Azula | Compliment 3/3
 <br>
 
 ### Ember Island scenes:
-- If you follow the walkthrough you'll get all the Ember Island scenes/content.
+- If you follow [the walkthrough](https://github.com/maim-lain/fourelements/blob/master/book-2/loveroute.md#ember-island) you'll get all the Ember Island scenes and content. Since Ember Island is pretty linear and has so many scenes I won't be listing them all since it's easier to just follow the walkthrough if you want to see everything.
 
 <br>
 
@@ -125,4 +125,4 @@ Ride | Battles = 16
 
 #### Endings:
 - There are three different endings and each of them has unique scenes and a unique conclusion for the second book. I won't say what the endings or scenes are since I don't want to spoil anything.
-- However, you can optionally impregnate Azula or Mai and see them pregnant. During the ending you must have sex and choose to cum inside.
+- You can optionally impregnate Azula or Mai and you'll get to see them pregnant. Mai can only become pregnant if you choose her ending, then you must have sex with her and cum inside before you do the beach ceremony. To get Azula pregnant, after you've picked an ending you must have sex with her and cum inside.

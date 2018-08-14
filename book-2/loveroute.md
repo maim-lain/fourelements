@@ -573,6 +573,19 @@ Morning:
 Night:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Armory -> Armory -> Tower  
 
+---
+
+<br>
+
+**Ending:**  
+Well, we're finally at the end of Book 2. We've done all the quests and scenes for the love route, and the only thing left is the ending. There are three different endings and each of them has unqiue scenes and a unique conclusion for the second book. I won't be saying what the endings are or what their unique scenes are since they are pretty interesting and I don't want to spoil them, so save your game and try the different endings if you want to see them all. Enjoy!
+
+<br>
+<br>
+<br>
+
+*Completed Book 2!*
+
 <!---
 
 slave route:

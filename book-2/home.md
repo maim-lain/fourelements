@@ -68,7 +68,7 @@ Level | Requirement
 - Her room is the location of many events and scenes, and is also a place you will frequently visit while doing quests.
 
 #### Throne room
-- The throne room is available during the day and is the location of the Azula throne rooms scenes.
+- The throne room is available during the day and is the location of the Azula throne room scenes.
 
 <br>
 <br>

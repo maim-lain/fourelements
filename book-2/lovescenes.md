@@ -49,7 +49,7 @@ Scene | Choice #
 
 <br>
 
-### Return from Ember Island day scenes:
+### Day scenes after Ember Island:
 Scene | Requirements
 --- | ---
 Compliment 1/3 | Azula + Mai

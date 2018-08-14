@@ -103,7 +103,7 @@ Ride | Battles = 16
 
 #### Porn magazine:
 - Win all the crab battles on Ember Island then win against Iroh at the prison
-- When you go to your room at the place you can choose to look at the magazine
+- When you go to your room at the palace you can choose to look at the magazine
 
 <br>
 

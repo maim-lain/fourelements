@@ -119,9 +119,9 @@ Tank | Cavalry
 - How do I get more girls?
   - Once you unlock the farm every time you win a battle you get +1 fresh girl. You can also buy used girls for $250 at the shop but it's a waste of money, so never buy them.
 - How does pregnancy work?
-  - Visiting the farm for the first time on a day will give +1 farm visits. Pregnant girls need '20 farm visits' to give birth. The game says it's '20 days' but actually pregnant girls will only progress in their pregnancy if you visit the farm. To give an example, if a girl is 1/20 days pregnant and you don't visit the farm for 100 days she will still be 1/20 days pregnant even after 100 days have passed. Visiting the farm multiple times on the same day will still only give +1 farm visits. After a pregnant girl gives birth she becomes a used girl.
+  - 20 days must pass for a pregnant girl to give birth. After a pregnant girl gives birth she becomes a used girl.
 - How do Azula visits work?
-  - Azula will visit you every 7 days to pay you. If you have 0 pregnant girls when she visits (this should never happen unless you totally neglect using the farm) she will give you +1 pregnant girls.
+  - Azula will visit you every 7 days to pay you. If you have 0 pregnant girls when she visits (this should only happen if you don't use the farm at all) she will give you +1 pregnant girls.
 - How much do I get paid?
   - 5 coins per milking, 10 coins per birth.
 - Why shouldn't I just use the lever to milk the girls?

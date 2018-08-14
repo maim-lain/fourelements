@@ -123,6 +123,6 @@ Ride | Battles = 16
 
 <br>
 
-#### Endings
-- There are three different endings and each of them has unqiue scenes and a unique conclusion for the second book. I won't say what the endings or scenes are since I don't want to spoil anything.
-- However, you can optionally impregnate Azula or Mai and see them pregnant during the ending. During the ending you must have sex and choose to cum inside.
+#### Endings:
+- There are three different endings and each of them has unique scenes and a unique conclusion for the second book. I won't say what the endings or scenes are since I don't want to spoil anything.
+- However, you can optionally impregnate Azula or Mai and see them pregnant. During the ending you must have sex and choose to cum inside.

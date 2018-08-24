@@ -41,7 +41,7 @@ Tit fuck | Return from Ember Island
 Scene | Choice #
 :---: | :---:
 1/4 | 3 or 4
-2/4 | 2 (hj) or 4 (strap-on)
+2/4 | 2 or 4
 3/4 | 2 or 4
 4/4* | 2 or 4
 

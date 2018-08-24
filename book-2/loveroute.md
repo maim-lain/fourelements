@@ -585,11 +585,3 @@ Well, we're finally at the end of Book 2. We've done all the quests and scenes f
 <br>
 
 *Completed Book 2!*
-
-<!---
-
-slave route:
-What?! Hell no!
-prison_start, it continues right below the above choice
-
---->

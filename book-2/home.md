@@ -6,20 +6,13 @@
 - [Choose Book](https://github.com/maim-lain/fourelements/blob/master/README.md)
 - [Love Route Walkthrough](https://github.com/maim-lain/fourelements/blob/master/book-2/loveroute.md)
   - [Scene Guide](https://github.com/maim-lain/fourelements/blob/master/book-2/lovescenes.md)
-- Slave Route Walkthrough
-  - Scene Guide
+- [Slave Route Walkthrough](https://github.com/maim-lain/fourelements/blob/master/book-2/slaveroute.md)
+  - [Scene Guide](https://github.com/maim-lain/fourelements/blob/master/book-2/slavescenes.md)
 - [Quest Walkthroughs](https://github.com/maim-lain/fourelements/blob/master/book-2/quests.md)
 
 <br>
 
 [**Four Elements Trainer - Bug Fix Patch by Maim Lain**](https://github.com/maim-lain/fourelements/blob/master/book-2/bugfixes.md)
-
- <!---
-
-- [Slave Route Walkthrough](https://github.com/maim-lain/fourelements/blob/master/book-2/slaveroute.md)
-  - [Scene Guide](https://github.com/maim-lain/fourelements/blob/master/book-2/slavescenes.md)
-
---->
 
 <br>
 <br>

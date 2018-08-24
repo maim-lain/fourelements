@@ -4,8 +4,8 @@
 <br>
 
 - [Home](https://github.com/maim-lain/fourelements/blob/master/book-2/home.md)  
-- [Slave Route 100% Walkthrough](https://github.com/maim-lain/fourelements/blob/master/book-2/slaveroute.md)  
-- [Quest Walkthroughs](https://github.com/maim-lain/fourelements/blob/master/book-2/quests.md)  
+- [Slave Route - Walkthrough](https://github.com/maim-lain/fourelements/blob/master/book-2/slaveroute.md)  
+- [Slave Route - Quest Guide](https://github.com/maim-lain/fourelements/blob/master/book-2/slavequests.md)  
 
 <br>
 <br>

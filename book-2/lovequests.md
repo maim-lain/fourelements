@@ -1,4 +1,4 @@
-# Love Route Quest Guide
+# Love Route - Quest Guide
 [*\~My list of walkthroughs and when they'll be updated\~*](https://www.patreon.com/maimlain)
 
 <br>

@@ -16,19 +16,16 @@ If there is a choice or event that isn't mentioned in the walkthrough that means
 
 <br>
 
-**Intro Part 1:**  
-Morning:  
+**Intro:**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Travel to the Fire Nation by clicking the bottom left  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; What?! Hell no!  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Awesome! (-1 morality)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Let her go! (+1 morality)  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Armory -> I think I am? -> I'm busy  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Alleys -> Defend the homeless man  
-Night:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Armory  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace (+1 Firebending)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Armory -> Continue doing the quest  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Third alley -> First path  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Visit Lia  
 
 ---
 

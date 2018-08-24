@@ -4,8 +4,8 @@
 <br>
 
 - [Home](https://github.com/maim-lain/fourelements/blob/master/book-2/home.md)  
-- [Love Route 100% Walkthrough](https://github.com/maim-lain/fourelements/blob/master/book-2/loveroute.md)  
-- [Quest Walkthroughs](https://github.com/maim-lain/fourelements/blob/master/book-2/quests.md)  
+- [Love Route - Walkthrough](https://github.com/maim-lain/fourelements/blob/master/book-2/loveroute.md)
+- [Love Route - Quest Guide](https://github.com/maim-lain/fourelements/blob/master/book-2/lovequests.md)  
 
 <br>
 <br>

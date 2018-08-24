@@ -6,13 +6,8 @@
 - [Home](https://github.com/maim-lain/fourelements/blob/master/book-2/home.md)  
 - [Love Route Walkthrough](https://github.com/maim-lain/fourelements/blob/master/book-2/loveroute.md)
   - [Scene Guide](https://github.com/maim-lain/fourelements/blob/master/book-2/lovescenes.md)
-  
- <!---
-
 - [Slave Route Walkthrough](https://github.com/maim-lain/fourelements/blob/master/book-2/slaveroute.md)
   - [Scene Guide](https://github.com/maim-lain/fourelements/blob/master/book-2/slavescenes.md)
-
---->
 
 <br>
 <br>

@@ -1,4 +1,4 @@
-# Slave Route Scene Guide
+# Slave Route - Scene Guide
 [*\~My list of walkthroughs and when they'll be updated\~*](https://www.patreon.com/maimlain)
 
 <br>

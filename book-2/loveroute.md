@@ -555,7 +555,7 @@ Morning:
 **Day 35:**  
 Morning:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Palace -> Azula's room -> Not much -> Let's get out  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Choice all the nice options -> Fuck yeah!  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Choose all the nice options -> Fuck yeah!  
 
 ---
 

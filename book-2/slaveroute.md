@@ -78,6 +78,8 @@ Morning:
 
 - food from shop
 - training
-- ty at alley
+- ty at alley - requirement?
+- look up night menu - what does collar and food
 
 Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Prison -> Go to sleep  

@@ -19,12 +19,9 @@ If there is a choice or event that isn't mentioned in the walkthrough that means
 **Intro Part 1:**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Travel to the Fire Nation by clicking the bottom left  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; What?! Hell no!  
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Awesome! (-1 morality)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Let her go! (+1 morality)  
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Armory -> Continue doing the quest  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Third alley -> First path  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; "Awesome! (-1 morality)" or "Let her go! (+1 morality)"  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Armory -> Continue the quest  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Third alley -> First path -> Continue the quest  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Visit Lia  
 
 ---
@@ -62,3 +59,25 @@ Night:
 
 ---
 
+**Day 3:**  
+Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tavern -> Flirt with Ty Lee  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Armory -> Buy hair-pin dagger  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Training  
+Night:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Prison -> Go to sleep  
+
+---
+
+**Day 4:**  
+Morning:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Tavern -> Flirt with Ty Lee  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Training  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Armory -> Buy troop movements  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Training -> Say please  
+
+- food from shop
+- training
+- ty at alley
+
+Night:  

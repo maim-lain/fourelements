@@ -11,11 +11,11 @@
 <br>
 <br>
 
-### .:
+### Hair-pin Dagger:
 - Go to Training
 - Get 50 coins
-- Armory -> .
-- . (+1 Firebending)
+- Armory -> Buy hair-pin dagger
+- Go to Training (+1 Firebending)
 
 <br>
 

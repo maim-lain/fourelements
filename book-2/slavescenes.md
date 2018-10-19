@@ -11,6 +11,17 @@
 <br>
 <br>
 
+## Lia Scenes:
+### Food scenes:
+Scene | Requirements
+:---: | ---
+Conversation | x
+Handjob | x
+Masturbate | x
+Sex | x
+
+<br>
+
 <!---
 
 ## Azula Scenes:

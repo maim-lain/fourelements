@@ -76,7 +76,7 @@ Morning:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Armory -> Buy troop movements  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\-&nbsp; Training -> Say please  
 
-- food from shop
+- food from shop - Or save for dragon armor?
 - training
 - ty at alley - requirement?
 - look up night menu - what does collar and food

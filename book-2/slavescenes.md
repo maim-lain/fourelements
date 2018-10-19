@@ -25,3 +25,11 @@ Scene | Requirements
 <br>
 
 --->
+
+## Ending Scenes:
+Ending Scene | Requirements
+:---: | ---
+High morality | Positive morality
+Low morality | Negative morality
+Cows escaped | Give weapons and don't tell Mai
+Public | Azula Public level = 15+

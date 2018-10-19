@@ -31,5 +31,5 @@ Ending Scene | Requirements
 --- | ---
 High morality | Positive morality
 Low morality | Negative morality
-Cows escaped | Give weapons and don't tell Mai
-Public | Azula Public level = 15+
+Cows escaped | Give weapons & don't tell Mai
+Public | Azula's Public level = 15+

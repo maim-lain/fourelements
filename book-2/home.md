@@ -12,10 +12,6 @@
   - [Quest Guide](https://github.com/maim-lain/fourelements/blob/master/book-2/slavequests.md)
 
 <br>
-
-[**Four Elements Trainer - Bug Fix Patch by Maim Lain**](https://github.com/maim-lain/fourelements/blob/master/book-2/bugfixes.md)
-
-<br>
 <br>
 <br>
 
@@ -114,7 +110,7 @@ Tank | Cavalry
 
 ## Farm Mechanics:
 - How do I get more girls?
-  - Once you unlock the farm every time you win a battle you get +1 fresh girl. You can also buy used girls for $250 at the shop but it's a waste of money, so never buy them.
+  - Once you unlock the farm every time you win a battle you get a 50% chance to have a fresh girl added to the farm. You can also buy used girls for $250 at the shop but it's a waste of money, so never buy them.
 - How does pregnancy work?
   - 20 days must pass for a pregnant girl to give birth. After a pregnant girl gives birth she becomes a used girl.
 - How do Azula visits work?

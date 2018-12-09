@@ -1,4 +1,7 @@
 # Four Elements Trainer: Book 2 - Tips & Info
+
+<br>
+
 ## Tavern:
 #### Drink Recipes
 Drink | 1 | 2

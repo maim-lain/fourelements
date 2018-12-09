@@ -1,5 +1,5 @@
 # Four Elements Trainer Walkthrough
-[*\~My list of walkthroughs and when they'll be updated\~*](https://www.patreon.com/maimlain)
+[![](https://i.lensdump.com/i/AvRItM.png)](https://f95zone.com/threads/four-elements-trainer-lains-walkthrough-gallery-cheat-mod-v0-7-5.21893/)
 
 <br>
 <br>

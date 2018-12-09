@@ -1,4 +1,4 @@
-# Four Elements Trainer: Book 2 - Tips & Info
+# Four Elements Trainer: Tips & Info
 
 <br>
 

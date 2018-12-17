@@ -9,7 +9,7 @@
 
 <br>
 
-[**DOWNLOAD LINK (MEGA)**](https://mega.nz/#!6bh1iYSI!twGsffn9JSOtJBtGnbljKyhSB2_LHZH5F3agMkqY6V4)  
+**DOWNLOAD: The bug fix patch is now included in the walkthrough mod**
 
 <br>
 

@@ -5,11 +5,13 @@
 ## Tavern:
 
 #### Serve drinks
-- When serving drinks if you use the in-game recipe book you will earn significantly less money on your tip. So if you don't remember a recipe, just tab out and look at the chart here so you don't lose any money. You can also enable the 'Give free recipe hints' cheat which means you'll no longer lose money when you check the in-game recipe book.
-- You earn 45 coins per tip which means you get 135 coins per bartending shift. The exception to this is your first four shifts of serving drinks where you will only earn 24 coins per tip before being promoted.
+- After you flirt with Ty Lee a few times she will offer you a night-shift job at the tavern.
 
 #### Drink with soliders
 - The soldiers are only meant to be talked to during certain quests.
+
+#### Flirt with Ty Lee
+- Complimenting Ty Lee is required to do her scenes and become her sugar daddy. Once you reach a certain point in the story however, you won't have to use your own money to pay Ty Lee and her scenes will become free.
 
 #### Gamble vs Ty Lee
 - Gambling on blackjack isn't an effective or time efficient way to make money, so there's not much reason to play it.
@@ -23,17 +25,16 @@ Training increases your firebending level. The higher your level, the more damag
 #### Training Requirements
 Level | Requirement
 :---: | ---
-1 - 5 | None
+1 - 5 | Main quest
 6 | Battles = 6
 7 | Tactics = 2
-8 | Ember Island
 
 <br>
 <br>
 
 ## Palace:
 #### Azulas room
-- Her room is the location of many events and scenes, and is also a place you will frequently visit while doing quests.
+- Once you increase your rank and standing you will be able to go to Azula's room at night for her scenes.
 
 #### Throne room
 - The throne room is available during the day and is the location of the Azula throne room scenes.
@@ -67,7 +68,7 @@ Tank | Cavalry
 ## Armory:
 - At the armory you can buy armor for yourself, two troops to help you in battle, and health bonuses for both troops.
 - When you buy one of the four armors you are automatically given the health bonus it provides, however you can only have one set of armor equipped at a time. This means it's a good idea to only buy the best armor since previous armors don't give retroactive bonuses, i.e. they are a waste of money. If you save your money during the first few days of the game it's possible to buy the Dragon armor on day 5.
-- At night the armory is also the location of Mai's scenes.
+- You can also buy food and slave collars from Mai to give to Lia.
 
 <br>
 <br>

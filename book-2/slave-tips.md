@@ -96,7 +96,7 @@ Tank | Cavalry
 - Why shouldn't I just use the lever to milk the girls?
   - You can double the amount of money you make from the farm by using the method I describe in the simplified farm mechanics. If you just use the lever to milk the girls then: ```milk = used_girls + pregnant_girls``` but if you use the method I discovered then: ```milk = used_girls + used_girls_made_pregnant + (pregnant_girls * 2) + 1```
 - What is morality?
-  - Morality isn't used in the love route and has no effect on anything in the love route.
+  - If your morality is high you will get a bonus ending scene. If your morality is low you will unlock an extra scene with Ty Lee.
 
 <br>
 

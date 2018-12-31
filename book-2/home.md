@@ -7,9 +7,6 @@
 - [Love Route Walkthrough](https://github.com/maim-lain/fourelements/blob/master/book-2/loveroute.md)
   - [Scene Guide](https://github.com/maim-lain/fourelements/blob/master/book-2/lovescenes.md)
   - [Quest Guide](https://github.com/maim-lain/fourelements/blob/master/book-2/lovequests.md)
-- [Slave Route Walkthrough](https://github.com/maim-lain/fourelements/blob/master/book-2/slaveroute.md)
-  - [Scene Guide](https://github.com/maim-lain/fourelements/blob/master/book-2/slavescenes.md)
-  - [Quest Guide](https://github.com/maim-lain/fourelements/blob/master/book-2/slavequests.md)
 
 <br>
 <br>

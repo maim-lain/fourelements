@@ -7,6 +7,7 @@
 - [Love Route Walkthrough](https://github.com/maim-lain/fourelements/blob/master/book-2/loveroute.md)
   - [Scene Guide](https://github.com/maim-lain/fourelements/blob/master/book-2/lovescenes.md)
   - [Quest Guide](https://github.com/maim-lain/fourelements/blob/master/book-2/lovequests.md)
+- [Slave Route Walkthrough](https://f95zone.com/threads/four-elements-trainer-lains-walkthrough-gallery-cheat-mod-v0-7-6.21893/)
 
 <br>
 <br>

@@ -33,7 +33,7 @@ Level | Requirement
 <br>
 
 ## Palace:
-#### Azulas room
+#### Azula's room
 - Once you increase your rank and standing you will be able to go to Azula's room at night for her scenes.
 
 #### Throne room
